@@ -1,0 +1,5559 @@
+Year_Month,Card Type,Travel_Mode,Trip
+Jul-16,Adult,Train,22145198
+Jul-16,Adult,Bus,13146432
+Jul-16,Adult,Light Rail,595732
+Jul-16,Adult,Ferry,861272
+Jul-16,Child/Youth,Train,1107160
+Jul-16,Child/Youth,Bus,1079640
+Jul-16,Child/Youth,Light Rail,48667
+Jul-16,Child/Youth,Ferry,108450
+Jul-16,Concession,Train,2105013
+Jul-16,Concession,Bus,1845322
+Jul-16,Concession,Light Rail,27107
+Jul-16,Concession,Ferry,71362
+Jul-16,Other,Train,264074
+Jul-16,Other,Bus,64989
+Jul-16,Other,Light Rail,2
+Jul-16,Other,Ferry,5251
+Jul-16,Free Opal,Train,24395
+Jul-16,Free Opal,Bus,25228
+Jul-16,Free Opal,Light Rail,693
+7/1/16,Free Opal,Ferry,1317
+Jul-16,Other,Light Rail,24913
+Jul-16,School Opal,Train,511309
+Jul-16,School Opal,Bus,1297240
+Jul-16,School Opal,Light Rail,994
+Jul-16,School Opal,Ferry,1295
+Jul-16,Gold Opal,Train,2567262
+Jul-16,Gold Opal,Bus,3739658
+Jul-16,Gold Opal,Light Rail,128228
+Jul-16,Gold Opal,Ferry,152188
+Jul-16,Opal Single Ticket,Ferry,10030
+Jul-16,Opal Single Ticket,Ferry,2547
+Jul-16,Opal Single Ticket,Light Rail,1094
+Jul-16,Opal Single Ticket,Light Rail,302
+Jul-16,Opal Single Ticket,Train,75274
+Jul-16,Opal Single Ticket,Train,19564
+Aug-16,Adult,Train,24129963
+Aug-16,Adult,Bus,14080864
+Aug-16,Adult,Light Rail,626133
+Aug-16,Adult,Ferry,773097
+Aug-16,Adult,Bus,213548
+Aug-16,Adult,Bus,149890
+Aug-16,Adult,Bus,60625
+Aug-16,Child/Youth,Train,946988
+Aug-16,Child/Youth,Bus,1034488
+Aug-16,Child/Youth,Light Rail,40298
+Aug-16,Child/Youth,Ferry,81256
+Aug-16,Opal Single Ticket,Bus,85540
+Aug-16,Opal Single Ticket,Bus,52781
+Aug-16,Opal Single Ticket,Bus,15864
+Aug-16,Concession,Train,2656456
+Aug-16,Concession,Bus,2168046
+Aug-16,Concession,Light Rail,31569
+Aug-16,Concession,Ferry,25177
+Aug-16,Other,Train,304666
+Aug-16,Other,Bus,73112
+Aug-16,Other,Ferry,4780
+Aug-16,Free Opal,Train,30830
+Aug-16,Free Opal,Bus,32202
+Aug-16,Free Opal,Light Rail,888
+Aug-16,Free Opal,Ferry,1728
+Aug-16,School Opal,Train,1125676
+Aug-16,School Opal,Bus,3135595
+Aug-16,School Opal,Light Rail,4940
+Aug-16,School Opal,Ferry,2701
+Aug-16,Gold Opal,Train,2849358
+Aug-16,Gold Opal,Bus,4108217
+Aug-16,Gold Opal,Light Rail,134404
+Aug-16,Gold Opal,Ferry,158521
+Aug-16,Opal Single Ticket,Ferry,39692
+Aug-16,Opal Single Ticket,Ferry,8103
+Aug-16,Opal Single Ticket,Light Rail,2068
+Aug-16,Opal Single Ticket,Light Rail,500
+Aug-16,Opal Single Ticket,Train,296696
+Aug-16,Opal Single Ticket,Train,53347
+Sep-16,Adult,Train,23062165
+Sep-16,Adult,Bus,13283356
+Sep-16,Adult,Light Rail,545779
+Sep-16,Adult,Ferry,783747
+Sep-16,Adult,Bus,185031
+Sep-16,Adult,Bus,122355
+Sep-16,Adult,Bus,50083
+Sep-16,Child/Youth,Train,1094712
+Sep-16,Child/Youth,Bus,1130778
+Sep-16,Child/Youth,Light Rail,41089
+Sep-16,Child/Youth,Ferry,103302
+Sep-16,Opal Single Ticket,Bus,71536
+Sep-16,Opal Single Ticket,Bus,47969
+Sep-16,Opal Single Ticket,Bus,14739
+Sep-16,Concession,Train,2131790
+Sep-16,Concession,Bus,1736089
+Sep-16,Concession,Light Rail,26988
+Sep-16,Concession,Ferry,25070
+Sep-16,Other,Train,302130
+Sep-16,Other,Bus,71783
+Sep-16,Other,Ferry,4975
+Sep-16,Free Opal,Train,30292
+Sep-16,Free Opal,Bus,32715
+Sep-16,Free Opal,Light Rail,844
+Sep-16,Free Opal,Ferry,1920
+Sep-16,School Opal,Train,833102
+Sep-16,School Opal,Bus,2244235
+Sep-16,School Opal,Light Rail,4389
+Sep-16,School Opal,Ferry,1830
+Sep-16,Gold Opal,Train,2816602
+Sep-16,Gold Opal,Bus,4020871
+Sep-16,Gold Opal,Light Rail,135478
+Sep-16,Gold Opal,Ferry,165216
+Sep-16,Opal Single Ticket,Ferry,46928
+Sep-16,Opal Single Ticket,Ferry,10730
+Sep-16,Opal Single Ticket,Light Rail,2773
+Sep-16,Opal Single Ticket,Light Rail,733
+Sep-16,Opal Single Ticket,Train,311066
+Sep-16,Opal Single Ticket,Train,66493
+Oct-16,Adult,Train,22608261
+Oct-16,Adult,Bus,13399297
+Oct-16,Adult,Light Rail,554854
+Oct-16,Adult,Ferry,879150
+Oct-16,Adult,Bus,183834
+Oct-16,Adult,Bus,120313
+Oct-16,Adult,Bus,49327
+Oct-16,Child/Youth,Train,1120560
+Oct-16,Child/Youth,Bus,1180998
+Oct-16,Child/Youth,Light Rail,39224
+Oct-16,Child/Youth,Ferry,119399
+Oct-16,Opal Single Ticket,Bus,65256
+Oct-16,Opal Single Ticket,Bus,44063
+Oct-16,Opal Single Ticket,Bus,13664
+Oct-16,Concession,Train,2065326
+Oct-16,Concession,Bus,1722565
+Oct-16,Concession,Light Rail,26874
+Oct-16,Concession,Ferry,24094
+Oct-16,Other,Train,289301
+Oct-16,Other,Bus,71428
+Oct-16,Other,Light Rail,1
+Oct-16,Other,Ferry,5435
+Oct-16,Free Opal,Train,30205
+Oct-16,Free Opal,Bus,33031
+Oct-16,Free Opal,Light Rail,899
+Oct-16,Free Opal,Ferry,2081
+Oct-16,School Opal,Train,759479
+Oct-16,School Opal,Bus,2115831
+Oct-16,School Opal,Light Rail,4304
+Oct-16,School Opal,Ferry,1594
+Oct-16,Gold Opal,Train,2859632
+Oct-16,Gold Opal,Bus,4095695
+Oct-16,Gold Opal,Light Rail,147173
+Oct-16,Gold Opal,Ferry,187265
+Oct-16,Opal Single Ticket,Ferry,52692
+Oct-16,Opal Single Ticket,Ferry,9442
+Oct-16,Opal Single Ticket,Light Rail,2916
+Oct-16,Opal Single Ticket,Light Rail,715
+Oct-16,Opal Single Ticket,Train,311836
+Oct-16,Opal Single Ticket,Train,62233
+Nov-16,Adult,Train,23867512
+Nov-16,Adult,Bus,14203977
+Nov-16,Adult,Light Rail,511961
+Nov-16,Adult,Ferry,929645
+Nov-16,Adult,Bus,190359
+Nov-16,Adult,Bus,122653
+Nov-16,Adult,Bus,48268
+Nov-16,Child/Youth,Train,1036526
+Nov-16,Child/Youth,Bus,1142170
+Nov-16,Child/Youth,Light Rail,28564
+Nov-16,Child/Youth,Ferry,76663
+Nov-16,Opal Single Ticket,Bus,57618
+Nov-16,Opal Single Ticket,Bus,33400
+Nov-16,Opal Single Ticket,Bus,9669
+Nov-16,Concession,Train,1707681
+Nov-16,Concession,Bus,1391898
+Nov-16,Concession,Light Rail,25699
+Nov-16,Concession,Ferry,25891
+Nov-16,Other,Train,318627
+Nov-16,Other,Bus,76755
+Nov-16,Other,Ferry,5914
+Nov-16,Free Opal,Train,33096
+Nov-16,Free Opal,Bus,36217
+Nov-16,Free Opal,Light Rail,776
+Nov-16,Free Opal,Ferry,2271
+Nov-16,School Opal,Train,1013962
+Nov-16,School Opal,Bus,2792634
+Nov-16,School Opal,Light Rail,5599
+Nov-16,School Opal,Ferry,2150
+Nov-16,Gold Opal,Train,2969184
+Nov-16,Gold Opal,Bus,4316765
+Nov-16,Gold Opal,Light Rail,130118
+Nov-16,Gold Opal,Ferry,195969
+Nov-16,Opal Single Ticket,Ferry,57975
+Nov-16,Opal Single Ticket,Ferry,6023
+Nov-16,Opal Single Ticket,Light Rail,2204
+Nov-16,Opal Single Ticket,Light Rail,344
+Nov-16,Opal Single Ticket,Train,320085
+Nov-16,Opal Single Ticket,Train,51606
+Dec-16,Adult,Train,21532401
+Dec-16,Adult,Bus,12839969
+Dec-16,Adult,Light Rail,533991
+Dec-16,Adult,Ferry,1050663
+Dec-16,Adult,Bus,190339
+Dec-16,Adult,Bus,124517
+Dec-16,Adult,Bus,51178
+Dec-16,Child/Youth,Train,1353758
+Dec-16,Child/Youth,Bus,1311601
+Dec-16,Child/Youth,Light Rail,39398
+Dec-16,Child/Youth,Ferry,144692
+Dec-16,Opal Single Ticket,Bus,65006
+Dec-16,Opal Single Ticket,Bus,48328
+Dec-16,Opal Single Ticket,Bus,15754
+Dec-16,Concession,Train,1361789
+Dec-16,Concession,Bus,1038399
+Dec-16,Concession,Light Rail,24597
+Dec-16,Concession,Ferry,27905
+Dec-16,Other,Train,285847
+Dec-16,Other,Bus,71339
+Dec-16,Other,Ferry,5970
+Dec-16,Free Opal,Train,29099
+Dec-16,Free Opal,Bus,34095
+Dec-16,Free Opal,Light Rail,752
+Dec-16,Free Opal,Ferry,2219
+Dec-16,School Opal,Train,404194
+Dec-16,School Opal,Bus,1067910
+Dec-16,School Opal,Light Rail,2109
+Dec-16,School Opal,Ferry,796
+Dec-16,Gold Opal,Train,2773808
+Dec-16,Gold Opal,Bus,4022430
+Dec-16,Gold Opal,Light Rail,122012
+Dec-16,Gold Opal,Ferry,187261
+Dec-16,Opal Single Ticket,Ferry,70707
+Dec-16,Opal Single Ticket,Ferry,16773
+Dec-16,Opal Single Ticket,Light Rail,2875
+Dec-16,Opal Single Ticket,Light Rail,787
+Dec-16,Opal Single Ticket,Train,362922
+Dec-16,Opal Single Ticket,Train,85766
+Jan-17,Adult,Train,20689527
+Jan-17,Adult,Bus,12658936
+Jan-17,Adult,Light Rail,313530
+Jan-17,Adult,Ferry,1164945
+Jan-17,Adult,Bus,182210
+Jan-17,Adult,Bus,116130
+Jan-17,Adult,Bus,46161
+Jan-17,Child/Youth,Train,1485300
+Jan-17,Child/Youth,Bus,1405219
+Jan-17,Child/Youth,Light Rail,33524
+Jan-17,Child/Youth,Ferry,217918
+Jan-17,Opal Single Ticket,Bus,66323
+Jan-17,Opal Single Ticket,Bus,53334
+Jan-17,Opal Single Ticket,Bus,18050
+Jan-17,Concession,Train,1255327
+Jan-17,Concession,Bus,985862
+Jan-17,Concession,Light Rail,14678
+Jan-17,Concession,Ferry,28552
+Jan-17,Other,Train,259349
+Jan-17,Other,Bus,66458
+Jan-17,Other,Ferry,5959
+Jan-17,Free Opal,Train,26745
+Jan-17,Free Opal,Bus,31281
+Jan-17,Free Opal,Light Rail,394
+Jan-17,Free Opal,Ferry,2234
+Jan-17,School Opal,Train,67891
+Jan-17,School Opal,Bus,168257
+Jan-17,School Opal,Light Rail,323
+Jan-17,School Opal,Ferry,139
+Jan-17,Gold Opal,Train,2566223
+Jan-17,Gold Opal,Bus,3752674
+Jan-17,Gold Opal,Light Rail,63828
+Jan-17,Gold Opal,Ferry,220534
+Jan-17,Opal Single Ticket,Ferry,76631
+Jan-17,Opal Single Ticket,Ferry,21171
+Jan-17,Opal Single Ticket,Light Rail,1986
+Jan-17,Opal Single Ticket,Light Rail,735
+Jan-17,Opal Single Ticket,Train,299852
+Jan-17,Opal Single Ticket,Train,85208
+Feb-17,Adult,Train,21960594
+Feb-17,Adult,Bus,13182869
+Feb-17,Adult,Light Rail,545607
+Feb-17,Adult,Ferry,865014
+Feb-17,Adult,Bus,167293
+Feb-17,Adult,Bus,104008
+Feb-17,Adult,Bus,39559
+Feb-17,Child/Youth,Train,977309
+Feb-17,Child/Youth,Bus,1166175
+Feb-17,Child/Youth,Light Rail,32626
+Feb-17,Child/Youth,Ferry,57121
+Feb-17,Opal Single Ticket,Bus,39460
+Feb-17,Opal Single Ticket,Bus,26163
+Feb-17,Opal Single Ticket,Bus,7942
+Feb-17,Concession,Train,1527275
+Feb-17,Concession,Bus,1240006
+Feb-17,Concession,Light Rail,28344
+Feb-17,Concession,Ferry,23803
+Feb-17,Other,Train,287362
+Feb-17,Other,Bus,69228
+Feb-17,Other,Ferry,4826
+Feb-17,Free Opal,Train,30092
+Feb-17,Free Opal,Bus,33326
+Feb-17,Free Opal,Light Rail,697
+Feb-17,Free Opal,Ferry,1897
+Feb-17,School Opal,Train,1028738
+Feb-17,School Opal,Bus,2600682
+Feb-17,School Opal,Light Rail,6101
+Feb-17,School Opal,Ferry,1914
+Feb-17,Gold Opal,Train,2620981
+Feb-17,Gold Opal,Bus,3857972
+Feb-17,Gold Opal,Light Rail,124005
+Feb-17,Gold Opal,Ferry,169864
+Feb-17,Opal Single Ticket,Ferry,56176
+Feb-17,Opal Single Ticket,Ferry,5700
+Feb-17,Opal Single Ticket,Light Rail,2500
+Feb-17,Opal Single Ticket,Light Rail,428
+Feb-17,Opal Single Ticket,Train,288914
+Feb-17,Opal Single Ticket,Train,45771
+Mar-17,Adult,Train,25670277
+Mar-17,Adult,Bus,15239178
+Mar-17,Adult,Light Rail,639505
+Mar-17,Adult,Ferry,882559
+Mar-17,Adult,Bus,177223
+Mar-17,Adult,Bus,109926
+Mar-17,Adult,Bus,42288
+Mar-17,Child/Youth,Train,1061092
+Mar-17,Child/Youth,Bus,1229286
+Mar-17,Child/Youth,Light Rail,35233
+Mar-17,Child/Youth,Ferry,63608
+Mar-17,Opal Single Ticket,Bus,43347
+Mar-17,Opal Single Ticket,Bus,26923
+Mar-17,Opal Single Ticket,Bus,8514
+Mar-17,Concession,Train,2874972
+Mar-17,Concession,Bus,2375998
+Mar-17,Concession,Light Rail,36897
+Mar-17,Concession,Ferry,29447
+Mar-17,Other,Train,331728
+Mar-17,Other,Bus,78376
+Mar-17,Other,Ferry,4894
+Mar-17,Free Opal,Train,34502
+Mar-17,Free Opal,Bus,38557
+Mar-17,Free Opal,Light Rail,906
+Mar-17,Free Opal,Ferry,1857
+Mar-17,School Opal,Train,1236042
+Mar-17,School Opal,Bus,3137115
+Mar-17,School Opal,Light Rail,7282
+Mar-17,School Opal,Ferry,2069
+Mar-17,Gold Opal,Train,2983728
+Mar-17,Gold Opal,Bus,4304384
+Mar-17,Gold Opal,Light Rail,151966
+Mar-17,Gold Opal,Ferry,169605
+Mar-17,Opal Single Ticket,Ferry,55429
+Mar-17,Opal Single Ticket,Ferry,6774
+Mar-17,Opal Single Ticket,Light Rail,2833
+Mar-17,Opal Single Ticket,Light Rail,440
+Mar-17,Opal Single Ticket,Train,320440
+Mar-17,Opal Single Ticket,Train,53604
+Apr-17,Adult,Train,21558784
+Apr-17,Adult,Bus,12477134
+Apr-17,Adult,Light Rail,587812
+Apr-17,Adult,Ferry,953347
+Apr-17,Adult,Bus,158538
+Apr-17,Adult,Bus,98729
+Apr-17,Adult,Bus,39330
+Apr-17,Child/Youth,Train,1333722
+Apr-17,Child/Youth,Bus,1276586
+Apr-17,Child/Youth,Light Rail,48789
+Apr-17,Child/Youth,Ferry,149935
+Apr-17,Opal Single Ticket,Bus,54620
+Apr-17,Opal Single Ticket,Bus,42726
+Apr-17,Opal Single Ticket,Bus,12903
+Apr-17,Concession,Train,2080422
+Apr-17,Concession,Bus,1647277
+Apr-17,Concession,Light Rail,30959
+Apr-17,Concession,Ferry,28963
+Apr-17,Other,Train,260847
+Apr-17,Other,Bus,65750
+Apr-17,Other,Ferry,5172
+Apr-17,Free Opal,Train,29582
+Apr-17,Free Opal,Bus,33012
+Apr-17,Free Opal,Light Rail,905
+Apr-17,Free Opal,Ferry,2199
+Apr-17,School Opal,Train,427515
+Apr-17,School Opal,Bus,1062002
+Apr-17,School Opal,Light Rail,2198
+Apr-17,School Opal,Ferry,839
+Apr-17,Gold Opal,Train,2679990
+Apr-17,Gold Opal,Bus,3754438
+Apr-17,Gold Opal,Light Rail,141087
+Apr-17,Gold Opal,Ferry,193582
+Apr-17,Opal Single Ticket,Ferry,59293
+Apr-17,Opal Single Ticket,Ferry,15138
+Apr-17,Opal Single Ticket,Light Rail,2666
+Apr-17,Opal Single Ticket,Light Rail,821
+Apr-17,Opal Single Ticket,Train,298912
+Apr-17,Opal Single Ticket,Train,75955
+May-17,Adult,Train,26157005
+May-17,Adult,Bus,14803185
+May-17,Adult,Light Rail,614636
+May-17,Adult,Ferry,812318
+May-17,Adult,Bus,168079
+May-17,Adult,Bus,102429
+May-17,Adult,Bus,39400
+May-17,Child/Youth,Train,952898
+May-17,Child/Youth,Bus,1122661
+May-17,Child/Youth,Light Rail,31460
+May-17,Child/Youth,Ferry,63543
+May-17,Opal Single Ticket,Bus,40946
+May-17,Opal Single Ticket,Bus,25907
+May-17,Opal Single Ticket,Bus,7355
+May-17,Concession,Train,2727746
+May-17,Concession,Bus,2193095
+May-17,Concession,Light Rail,32391
+May-17,Concession,Ferry,28200
+May-17,Other,Train,332707
+May-17,Other,Bus,77797
+May-17,Other,Ferry,5428
+May-17,Free Opal,Train,35442
+May-17,Free Opal,Bus,40054
+May-17,Free Opal,Light Rail,936
+May-17,Free Opal,Ferry,2355
+May-17,School Opal,Train,1272946
+May-17,School Opal,Bus,3124770
+May-17,School Opal,Light Rail,6885
+May-17,School Opal,Ferry,2435
+May-17,Gold Opal,Train,3039985
+May-17,Gold Opal,Bus,4329706
+May-17,Gold Opal,Light Rail,144208
+May-17,Gold Opal,Ferry,189654
+May-17,Opal Single Ticket,Ferry,40290
+May-17,Opal Single Ticket,Ferry,5607
+May-17,Opal Single Ticket,Light Rail,2535
+May-17,Opal Single Ticket,Light Rail,432
+May-17,Opal Single Ticket,Train,293744
+May-17,Opal Single Ticket,Train,50537
+Jun-17,Adult,Train,24096554
+Jun-17,Adult,Bus,13139949
+Jun-17,Adult,Light Rail,615981
+Jun-17,Adult,Ferry,791353
+Jun-17,Adult,Bus,149534
+Jun-17,Adult,Bus,90172
+Jun-17,Adult,Bus,35967
+Jun-17,Child/Youth,Train,1076221
+Jun-17,Child/Youth,Bus,1066813
+Jun-17,Child/Youth,Light Rail,39888
+Jun-17,Child/Youth,Ferry,94767
+Jun-17,Opal Single Ticket,Bus,38891
+Jun-17,Opal Single Ticket,Bus,25954
+Jun-17,Opal Single Ticket,Bus,7945
+Jun-17,Concession,Train,1944290
+Jun-17,Concession,Bus,1472712
+Jun-17,Concession,Light Rail,33781
+Jun-17,Concession,Ferry,26673
+Jun-17,Other,Train,308301
+Jun-17,Other,Bus,69266
+Jun-17,Other,Light Rail,1
+Jun-17,Other,Ferry,5164
+Jun-17,Free Opal,Train,31954
+Jun-17,Free Opal,Bus,35256
+Jun-17,Free Opal,Light Rail,956
+Jun-17,Free Opal,Ferry,2211
+Jun-17,School Opal,Train,1054982
+Jun-17,School Opal,Bus,2499684
+Jun-17,School Opal,Light Rail,4961
+Jun-17,School Opal,Ferry,1764
+Jun-17,Gold Opal,Train,2840831
+Jun-17,Gold Opal,Bus,3904931
+Jun-17,Gold Opal,Light Rail,148978
+Jun-17,Gold Opal,Ferry,180835
+Jun-17,Opal Single Ticket,Ferry,42949
+Jun-17,Opal Single Ticket,Ferry,10431
+Jun-17,Opal Single Ticket,Light Rail,2837
+Jun-17,Opal Single Ticket,Light Rail,623
+Jun-17,Opal Single Ticket,Train,293213
+Jun-17,Opal Single Ticket,Train,60524
+Jul-17,Adult,Train,23827242
+Jul-17,Adult,Bus,13625495
+Jul-17,Adult,Light Rail,607262
+Jul-17,Adult,Ferry,858171
+Jul-17,Adult,Bus,159698
+Jul-17,Adult,Bus,96674
+Jul-17,Adult,Bus,36141
+Jul-17,Child/Youth,Train,1407616
+Jul-17,Child/Youth,Bus,1386168
+Jul-17,Child/Youth,Light Rail,51615
+Jul-17,Child/Youth,Ferry,157889
+Jul-17,Opal Single Ticket,Bus,55170
+Jul-17,Opal Single Ticket,Bus,42041
+Jul-17,Opal Single Ticket,Bus,12555
+Jul-17,Concession,Train,1719629
+Jul-17,Concession,Bus,1361714
+Jul-17,Concession,Light Rail,30979
+Jul-17,Concession,Ferry,26169
+Jul-17,CTP,Ferry,2138
+Jul-17,Other,Train,294034
+Jul-17,Other,Bus,71153
+Jul-17,Other,Light Rail,1
+Jul-17,Other,Ferry,4730
+Jul-17,Free Opal,Train,32228
+Jul-17,Free Opal,Bus,36248
+Jul-17,Free Opal,Light Rail,665
+Jul-17,Free Opal,Ferry,2328
+Jul-17,School Opal,Train,562500
+Jul-17,School Opal,Bus,1298172
+Jul-17,School Opal,Light Rail,2976
+Jul-17,School Opal,Ferry,1043
+Jul-17,Gold Opal,Train,2804836
+Jul-17,Gold Opal,Bus,4020743
+Jul-17,Gold Opal,Light Rail,135655
+Jul-17,Gold Opal,Ferry,180265
+Jul-17,Opal Single Ticket,Ferry,55823
+Jul-17,Opal Single Ticket,Ferry,20097
+Jul-17,Opal Single Ticket,Light Rail,4507
+Jul-17,Opal Single Ticket,Light Rail,1486
+Jul-17,Opal Single Ticket,Train,330262
+Jul-17,Opal Single Ticket,Train,92187
+Aug-17,Adult,Train,25596844
+Aug-17,Adult,Bus,14614966
+Aug-17,Adult,Light Rail,575024
+Aug-17,Adult,Ferry,759500
+Aug-17,Adult,Bus,152050
+Aug-17,Adult,Bus,88604
+Aug-17,Adult,Bus,33402
+Aug-17,Child/Youth,Train,983919
+Aug-17,Child/Youth,Bus,1129569
+Aug-17,Child/Youth,Light Rail,33221
+Aug-17,Child/Youth,Ferry,79252
+Aug-17,Opal Single Ticket,Bus,37346
+Aug-17,Opal Single Ticket,Bus,24122
+Aug-17,Opal Single Ticket,Bus,6683
+Aug-17,Concession,Train,2822581
+Aug-17,Concession,Bus,2287083
+Aug-17,Concession,Light Rail,33944
+Aug-17,Concession,Ferry,27276
+Aug-17,CTP,Ferry,1976
+Aug-17,Day Pass Ticket,Train,9
+Aug-17,Day Pass Ticket,Bus,7
+Aug-17,Day Pass Ticket,Light Rail,3
+Aug-17,Day Pass Ticket,Ferry,3
+Aug-17,Day Pass Ticket,Train,18
+Aug-17,Day Pass Ticket,Bus,15
+Aug-17,Day Pass Ticket,Light Rail,2
+Aug-17,Day Pass Ticket,Ferry,5
+Aug-17,Other,Train,316870
+Aug-17,Other,Bus,75220
+Aug-17,Other,Ferry,4423
+Aug-17,Free Opal,Train,34768
+Aug-17,Free Opal,Bus,39408
+Aug-17,Free Opal,Light Rail,840
+Aug-17,Free Opal,Ferry,2045
+Aug-17,School Opal,Train,1234164
+Aug-17,School Opal,Bus,2871680
+Aug-17,School Opal,Light Rail,7008
+Aug-17,School Opal,Ferry,2206
+Aug-17,Gold Opal,Train,2902953
+Aug-17,Gold Opal,Bus,4196065
+Aug-17,Gold Opal,Light Rail,125345
+Aug-17,Gold Opal,Ferry,164130
+Aug-17,Opal Single Ticket,Ferry,47631
+Aug-17,Opal Single Ticket,Ferry,11008
+Aug-17,Opal Single Ticket,Light Rail,4398
+Aug-17,Opal Single Ticket,Light Rail,905
+Aug-17,Opal Single Ticket,Train,329921
+Aug-17,Opal Single Ticket,Train,63560
+Sep-17,Adult,Train,24295203
+Sep-17,Adult,Bus,13735459
+Sep-17,Adult,Light Rail,557826
+Sep-17,Adult,Ferry,810739
+Sep-17,Adult,Bus,150254
+Sep-17,Adult,Bus,85965
+Sep-17,Adult,Bus,32005
+Sep-17,Child/Youth,Train,1219264
+Sep-17,Child/Youth,Bus,1264103
+Sep-17,Child/Youth,Light Rail,36029
+Sep-17,Child/Youth,Ferry,113007
+Sep-17,Opal Single Ticket,Bus,45357
+Sep-17,Opal Single Ticket,Bus,34037
+Sep-17,Opal Single Ticket,Bus,9811
+Sep-17,Concession,Train,2208678
+Sep-17,Concession,Bus,1774365
+Sep-17,Concession,Light Rail,29661
+Sep-17,Concession,Ferry,27929
+Sep-17,CTP,Ferry,2049
+Sep-17,Day Pass Ticket,Train,28
+Sep-17,Day Pass Ticket,Bus,31
+Sep-17,Day Pass Ticket,Train,174
+Sep-17,Day Pass Ticket,Bus,152
+Sep-17,Day Pass Ticket,Ferry,1
+Sep-17,Other,Train,284062
+Sep-17,Other,Bus,70403
+Sep-17,Other,Ferry,4735
+Sep-17,Free Opal,Train,30029
+Sep-17,Free Opal,Bus,37030
+Sep-17,Free Opal,Light Rail,789
+Sep-17,Free Opal,Ferry,2164
+Sep-17,School Opal,Train,819372
+Sep-17,School Opal,Bus,1932171
+Sep-17,School Opal,Light Rail,4709
+Sep-17,School Opal,Ferry,1626
+Sep-17,Gold Opal,Train,2805731
+Sep-17,Gold Opal,Bus,3987618
+Sep-17,Gold Opal,Light Rail,130108
+Sep-17,Gold Opal,Ferry,172131
+Sep-17,Opal Single Ticket,Ferry,51151
+Sep-17,Opal Single Ticket,Ferry,12129
+Sep-17,Opal Single Ticket,Light Rail,4194
+Sep-17,Opal Single Ticket,Light Rail,899
+Sep-17,Opal Single Ticket,Train,330192
+Sep-17,Opal Single Ticket,Train,74585
+Oct-17,Adult,Train,25069317
+Oct-17,Adult,Bus,14493838
+Oct-17,Adult,Light Rail,628033
+Oct-17,Adult,Ferry,897449
+Oct-17,Adult,Bus,154191
+Oct-17,Adult,Bus,88281
+Oct-17,Adult,Bus,32576
+Oct-17,Child/Youth,Train,1167816
+Oct-17,Child/Youth,Bus,1262367
+Oct-17,Child/Youth,Light Rail,38062
+Oct-17,Child/Youth,Ferry,115643
+Oct-17,Opal Single Ticket,Bus,42773
+Oct-17,Opal Single Ticket,Bus,31260
+Oct-17,Opal Single Ticket,Bus,8908
+Oct-17,Concession,Train,2229618
+Oct-17,Concession,Bus,1841943
+Oct-17,Concession,Light Rail,30368
+Oct-17,Concession,Ferry,25454
+Oct-17,CTP,Ferry,2459
+Oct-17,Day Pass Ticket,Train,7
+Oct-17,Day Pass Ticket,Bus,20
+Oct-17,Day Pass Ticket,Train,73
+Oct-17,Day Pass Ticket,Bus,76
+Oct-17,Day Pass Ticket,Ferry,1
+Oct-17,Other,Train,285686
+Oct-17,Other,Bus,71545
+Oct-17,Other,Ferry,5098
+Oct-17,Free Opal,Train,30517
+Oct-17,Free Opal,Bus,39006
+Oct-17,Free Opal,Light Rail,946
+Oct-17,Free Opal,Ferry,2145
+Oct-17,School Opal,Train,824499
+Oct-17,School Opal,Bus,2060482
+Oct-17,School Opal,Light Rail,4544
+Oct-17,School Opal,Ferry,1718
+Oct-17,Gold Opal,Train,2880156
+Oct-17,Gold Opal,Bus,4107245
+Oct-17,Gold Opal,Light Rail,144853
+Oct-17,Gold Opal,Ferry,183390
+Oct-17,Opal Single Ticket,Ferry,58384
+Oct-17,Opal Single Ticket,Ferry,11756
+Oct-17,Opal Single Ticket,Light Rail,4756
+Oct-17,Opal Single Ticket,Light Rail,899
+Oct-17,Opal Single Ticket,Train,351369
+Oct-17,Opal Single Ticket,Train,71176
+Nov-17,Adult,Train,25763265
+Nov-17,Adult,Bus,14927209
+Nov-17,Adult,Light Rail,649009
+Nov-17,Adult,Ferry,901775
+Nov-17,Adult,Bus,152433
+Nov-17,Adult,Bus,86713
+Nov-17,Adult,Bus,31905
+Nov-17,Child/Youth,Train,1062144
+Nov-17,Child/Youth,Bus,1175200
+Nov-17,Child/Youth,Light Rail,35504
+Nov-17,Child/Youth,Ferry,75010
+Nov-17,Opal Single Ticket,Bus,36062
+Nov-17,Opal Single Ticket,Bus,23996
+Nov-17,Opal Single Ticket,Bus,6816
+Nov-17,Concession,Train,1827754
+Nov-17,Concession,Bus,1473370
+Nov-17,Concession,Light Rail,31344
+Nov-17,Concession,Ferry,24358
+Nov-17,CTP,Ferry,2019
+Nov-17,Day Pass Ticket,Train,2
+Nov-17,Day Pass Ticket,Bus,1
+Nov-17,Other,Train,300528
+Nov-17,Other,Bus,74772
+Nov-17,Other,Light Rail,2
+Nov-17,Other,Ferry,5435
+Nov-17,Free Opal,Train,32193
+Nov-17,Free Opal,Bus,39917
+Nov-17,Free Opal,Light Rail,937
+Nov-17,Free Opal,Ferry,2330
+Nov-17,School Opal,Train,1065221
+Nov-17,School Opal,Bus,2589339
+Nov-17,School Opal,Light Rail,5671
+Nov-17,School Opal,Ferry,2444
+Nov-17,Gold Opal,Train,2979774
+Nov-17,Gold Opal,Bus,4269152
+Nov-17,Gold Opal,Light Rail,146513
+Nov-17,Gold Opal,Ferry,183905
+Nov-17,Opal Single Ticket,Ferry,63149
+Nov-17,Opal Single Ticket,Ferry,7171
+Nov-17,Opal Single Ticket,Light Rail,5215
+Nov-17,Opal Single Ticket,Light Rail,791
+Nov-17,Opal Single Ticket,Train,366190
+Nov-17,Opal Single Ticket,Train,60053
+Dec-17,Adult,Train,22729922
+Dec-17,Adult,Bus,13321082
+Dec-17,Adult,Light Rail,643916
+Dec-17,Adult,Ferry,1046211
+Dec-17,Adult,Bus,158523
+Dec-17,Adult,Bus,91020
+Dec-17,Adult,Bus,33611
+Dec-17,Child/Youth,Train,1423432
+Dec-17,Child/Youth,Bus,1412859
+Dec-17,Child/Youth,Light Rail,49043
+Dec-17,Child/Youth,Ferry,146402
+Dec-17,Opal Single Ticket,Bus,48701
+Dec-17,Opal Single Ticket,Bus,38599
+Dec-17,Opal Single Ticket,Bus,11737
+Dec-17,Concession,Train,1406927
+Dec-17,Concession,Bus,1066654
+Dec-17,Concession,Light Rail,28319
+Dec-17,Concession,Ferry,28201
+Dec-17,CTP,Ferry,2307
+Dec-17,Day Pass Ticket,Bus,2
+Dec-17,Other,Train,254579
+Dec-17,Other,Bus,69644
+Dec-17,Other,Light Rail,1
+Dec-17,Other,Ferry,5165
+Dec-17,Free Opal,Train,26829
+Dec-17,Free Opal,Bus,35334
+Dec-17,Free Opal,Light Rail,852
+Dec-17,Free Opal,Ferry,2099
+Dec-17,School Opal,Train,385688
+Dec-17,School Opal,Bus,926795
+Dec-17,School Opal,Light Rail,1860
+Dec-17,School Opal,Ferry,988
+Dec-17,Gold Opal,Train,2749627
+Dec-17,Gold Opal,Bus,3927879
+Dec-17,Gold Opal,Light Rail,148175
+Dec-17,Gold Opal,Ferry,185440
+Dec-17,Opal Single Ticket,Ferry,75067
+Dec-17,Opal Single Ticket,Ferry,18807
+Dec-17,Opal Single Ticket,Light Rail,5741
+Dec-17,Opal Single Ticket,Light Rail,1399
+Dec-17,Opal Single Ticket,Train,396404
+Dec-17,Opal Single Ticket,Train,94481
+Jan-18,Adult,Train,22118391
+Jan-18,Adult,Bus,13665898
+Jan-18,Adult,Light Rail,142036
+Jan-18,Adult,Ferry,1112314
+Jan-18,Adult,Bus,144931
+Jan-18,Adult,Bus,80665
+Jan-18,Adult,Bus,29410
+Jan-18,Child/Youth,Train,1491713
+Jan-18,Child/Youth,Bus,1559929
+Jan-18,Child/Youth,Light Rail,14275
+Jan-18,Child/Youth,Ferry,199548
+Jan-18,Opal Single Ticket,Bus,49176
+Jan-18,Opal Single Ticket,Bus,40857
+Jan-18,Opal Single Ticket,Bus,12535
+Jan-18,Concession,Train,1278438
+Jan-18,Concession,Bus,1022052
+Jan-18,Concession,Light Rail,6681
+Jan-18,Concession,Ferry,29192
+Jan-18,CTP,Ferry,2466
+Jan-18,Day Pass Ticket,Train,1
+Jan-18,Other,Train,237035
+Jan-18,Other,Bus,67410
+Jan-18,Other,Ferry,6262
+Jan-18,Free Opal,Train,24340
+Jan-18,Free Opal,Bus,34628
+Jan-18,Free Opal,Light Rail,194
+Jan-18,Free Opal,Ferry,2417
+Jan-18,Other,Bus,232
+Jan-18,Other,Bus,24389
+Jan-18,School Opal,Train,80493
+Jan-18,School Opal,Bus,186979
+Jan-18,School Opal,Light Rail,441
+Jan-18,School Opal,Ferry,252
+Jan-18,Gold Opal,Train,2550328
+Jan-18,Gold Opal,Bus,3857789
+Jan-18,Gold Opal,Light Rail,28435
+Jan-18,Gold Opal,Ferry,220589
+Jan-18,Opal Single Ticket,Ferry,79580
+Jan-18,Opal Single Ticket,Ferry,23423
+Jan-18,Opal Single Ticket,Light Rail,1211
+Jan-18,Opal Single Ticket,Light Rail,447
+Jan-18,Opal Single Ticket,Train,317462
+Jan-18,Opal Single Ticket,Train,88665
+Feb-18,Adult,Train,23096119
+Feb-18,Adult,Bus,14158256
+Feb-18,Adult,Light Rail,550240
+Feb-18,Adult,Ferry,902195
+Feb-18,Adult,Bus,135021
+Feb-18,Adult,Bus,72765
+Feb-18,Adult,Bus,25901
+Feb-18,Child/Youth,Train,1013582
+Feb-18,Child/Youth,Bus,1271723
+Feb-18,Child/Youth,Light Rail,35485
+Feb-18,Child/Youth,Ferry,65080
+Feb-18,Opal Single Ticket,Bus,28631
+Feb-18,Opal Single Ticket,Bus,19424
+Feb-18,Opal Single Ticket,Bus,5413
+Feb-18,Concession,Train,1546266
+Feb-18,Concession,Bus,1275676
+Feb-18,Concession,Light Rail,26363
+Feb-18,Concession,Ferry,24733
+Feb-18,CTP,Ferry,2069
+Feb-18,Other,Train,259220
+Feb-18,Other,Bus,71212
+Feb-18,Other,Ferry,4994
+Feb-18,Free Opal,Train,27068
+Feb-18,Free Opal,Bus,36666
+Feb-18,Free Opal,Light Rail,793
+Feb-18,Free Opal,Ferry,2129
+Feb-18,Other,Bus,672
+Feb-18,Other,Bus,55421
+Feb-18,School Opal,Train,1071662
+Feb-18,School Opal,Bus,2701483
+Feb-18,School Opal,Light Rail,6277
+Feb-18,School Opal,Ferry,2904
+Feb-18,Gold Opal,Train,2656033
+Feb-18,Gold Opal,Bus,3956457
+Feb-18,Gold Opal,Light Rail,135060
+Feb-18,Gold Opal,Ferry,184482
+Feb-18,Opal Single Ticket,Ferry,63773
+Feb-18,Opal Single Ticket,Ferry,8079
+Feb-18,Opal Single Ticket,Light Rail,4590
+Feb-18,Opal Single Ticket,Light Rail,737
+Feb-18,Opal Single Ticket,Train,314269
+Feb-18,Opal Single Ticket,Train,51872
+Mar-18,Adult,Train,26186985
+Mar-18,Adult,Bus,15671919
+Mar-18,Adult,Light Rail,615888
+Mar-18,Adult,Ferry,977515
+Mar-18,Adult,Bus,149812
+Mar-18,Adult,Bus,81989
+Mar-18,Adult,Bus,28085
+Mar-18,Child/Youth,Train,1149786
+Mar-18,Child/Youth,Bus,1325239
+Mar-18,Child/Youth,Light Rail,35724
+Mar-18,Child/Youth,Ferry,77736
+Mar-18,Opal Single Ticket,Bus,33439
+Mar-18,Opal Single Ticket,Bus,22468
+Mar-18,Opal Single Ticket,Bus,6274
+Mar-18,Concession,Train,2756796
+Mar-18,Concession,Bus,2271925
+Mar-18,Concession,Light Rail,34138
+Mar-18,Concession,Ferry,32530
+Mar-18,CTP,Light Rail,3018
+Mar-18,CTP,Ferry,14690
+Mar-18,Day Pass Ticket,Train,4
+Mar-18,Day Pass Ticket,Bus,17
+Mar-18,Day Pass Ticket,Train,32
+Mar-18,Day Pass Ticket,Bus,45
+Mar-18,Other,Train,289223
+Mar-18,Other,Bus,77210
+Mar-18,Other,Ferry,4829
+Mar-18,Free Opal,Train,30090
+Mar-18,Free Opal,Bus,40280
+Mar-18,Free Opal,Light Rail,860
+Mar-18,Free Opal,Ferry,2048
+Mar-18,Other,Bus,1049
+Mar-18,Other,Bus,64634
+Mar-18,School Opal,Train,1154541
+Mar-18,School Opal,Bus,2983327
+Mar-18,School Opal,Light Rail,5884
+Mar-18,School Opal,Ferry,2544
+Mar-18,Gold Opal,Train,2976317
+Mar-18,Gold Opal,Bus,4303012
+Mar-18,Gold Opal,Light Rail,143404
+Mar-18,Gold Opal,Ferry,200909
+Mar-18,Opal Single Ticket,Ferry,61722
+Mar-18,Opal Single Ticket,Ferry,10095
+Mar-18,Opal Single Ticket,Light Rail,4325
+Mar-18,Opal Single Ticket,Light Rail,648
+Mar-18,Opal Single Ticket,Train,361338
+Mar-18,Opal Single Ticket,Train,62376
+Apr-18,Adult,Train,23988605
+Apr-18,Adult,Bus,14183574
+Apr-18,Adult,Light Rail,586057
+Apr-18,Adult,Ferry,982513
+Apr-18,Adult,Bus,139901
+Apr-18,Adult,Bus,75101
+Apr-18,Adult,Bus,25295
+Apr-18,Child/Youth,Train,1375098
+Apr-18,Child/Youth,Bus,1426034
+Apr-18,Child/Youth,Light Rail,48611
+Apr-18,Child/Youth,Ferry,156154
+Apr-18,Opal Single Ticket,Bus,41733
+Apr-18,Opal Single Ticket,Bus,32744
+Apr-18,Opal Single Ticket,Bus,9079
+Apr-18,Concession,Train,2206207
+Apr-18,Concession,Bus,1787676
+Apr-18,Concession,Light Rail,28950
+Apr-18,Concession,Ferry,29908
+Apr-18,CTP,Light Rail,6047
+Apr-18,CTP,Ferry,20559
+Apr-18,Day Pass Ticket,Train,6
+Apr-18,Day Pass Ticket,Bus,8
+Apr-18,Day Pass Ticket,Train,102
+Apr-18,Day Pass Ticket,Bus,111
+Apr-18,Other,Train,262786
+Apr-18,Other,Bus,70833
+Apr-18,Other,Light Rail,1
+Apr-18,Other,Ferry,4990
+Apr-18,Free Opal,Train,28378
+Apr-18,Free Opal,Bus,36465
+Apr-18,Free Opal,Light Rail,887
+Apr-18,Free Opal,Ferry,2131
+Apr-18,Other,Bus,1319
+Apr-18,Other,Bus,41889
+Apr-18,School Opal,Train,491342
+Apr-18,School Opal,Bus,1243894
+Apr-18,School Opal,Light Rail,2521
+Apr-18,School Opal,Ferry,1064
+Apr-18,Gold Opal,Train,2776197
+Apr-18,Gold Opal,Bus,3949337
+Apr-18,Gold Opal,Light Rail,151012
+Apr-18,Gold Opal,Ferry,214610
+Apr-18,Opal Single Ticket,Ferry,54494
+Apr-18,Opal Single Ticket,Ferry,16375
+Apr-18,Opal Single Ticket,Light Rail,3698
+Apr-18,Opal Single Ticket,Light Rail,1173
+Apr-18,Opal Single Ticket,Train,303161
+Apr-18,Opal Single Ticket,Train,80284
+May-18,Adult,Train,27561815
+May-18,Adult,Bus,15824004
+May-18,Adult,Light Rail,627483
+May-18,Adult,Ferry,828410
+May-18,Adult,Bus,138667
+May-18,Adult,Bus,73371
+May-18,Adult,Bus,24464
+May-18,Child/Youth,Train,960677
+May-18,Child/Youth,Bus,1184699
+May-18,Child/Youth,Light Rail,34958
+May-18,Child/Youth,Ferry,66680
+May-18,Opal Single Ticket,Bus,29882
+May-18,Opal Single Ticket,Bus,19692
+May-18,Opal Single Ticket,Bus,5125
+May-18,Concession,Train,2700245
+May-18,Concession,Bus,2210352
+May-18,Concession,Light Rail,30938
+May-18,Concession,Ferry,27719
+May-18,CTP,Light Rail,7480
+May-18,CTP,Ferry,18440
+May-18,Day Pass Ticket,Train,16
+May-18,Day Pass Ticket,Bus,29
+May-18,Day Pass Ticket,Train,190
+May-18,Day Pass Ticket,Bus,206
+May-18,Day Pass Ticket,Light Rail,1
+May-18,Other,Train,320124
+May-18,Other,Bus,79814
+May-18,Other,Ferry,5203
+May-18,Free Opal,Train,32251
+May-18,Free Opal,Bus,41549
+May-18,Free Opal,Light Rail,910
+May-18,Free Opal,Ferry,2178
+May-18,Other,Bus,1782
+May-18,Other,Bus,66092
+May-18,School Opal,Train,1304566
+May-18,School Opal,Bus,3252145
+May-18,School Opal,Light Rail,8352
+May-18,School Opal,Ferry,3347
+May-18,Gold Opal,Train,3076313
+May-18,Gold Opal,Bus,4400482
+May-18,Gold Opal,Light Rail,144297
+May-18,Gold Opal,Ferry,201001
+May-18,Opal Single Ticket,Ferry,40546
+May-18,Opal Single Ticket,Ferry,6662
+May-18,Opal Single Ticket,Light Rail,3668
+May-18,Opal Single Ticket,Light Rail,640
+May-18,Opal Single Ticket,Train,311005
+May-18,Opal Single Ticket,Train,55363
+Jun-18,Adult,Train,24997620
+Jun-18,Adult,Bus,14071974
+Jun-18,Adult,Light Rail,617941
+Jun-18,Adult,Ferry,769271
+Jun-18,Adult,Bus,119147
+Jun-18,Adult,Bus,62524
+Jun-18,Adult,Bus,20712
+Jun-18,Child/Youth,Train,1084919
+Jun-18,Child/Youth,Bus,1113371
+Jun-18,Child/Youth,Light Rail,39212
+Jun-18,Child/Youth,Ferry,91982
+Jun-18,Opal Single Ticket,Bus,26701
+Jun-18,Opal Single Ticket,Bus,18362
+Jun-18,Opal Single Ticket,Bus,5138
+Jun-18,Concession,Train,1925573
+Jun-18,Concession,Bus,1499845
+Jun-18,Concession,Light Rail,32095
+Jun-18,Concession,Ferry,24723
+Jun-18,CTP,Light Rail,7660
+Jun-18,CTP,Ferry,20957
+Jun-18,Day Pass Ticket,Train,3
+Jun-18,Day Pass Ticket,Bus,4
+Jun-18,Day Pass Ticket,Train,218
+Jun-18,Day Pass Ticket,Bus,216
+Jun-18,Day Pass Ticket,Light Rail,1
+Jun-18,Other,Train,291309
+Jun-18,Other,Bus,71909
+Jun-18,Other,Light Rail,1
+Jun-18,Other,Ferry,4474
+Jun-18,Free Opal,Train,29136
+Jun-18,Free Opal,Bus,37474
+Jun-18,Free Opal,Light Rail,761
+Jun-18,Free Opal,Ferry,1969
+Jun-18,Other,Bus,1896
+Jun-18,Other,Bus,56620
+Jun-18,School Opal,Train,1094868
+Jun-18,School Opal,Bus,2654907
+Jun-18,School Opal,Light Rail,6613
+Jun-18,School Opal,Ferry,4600
+Jun-18,Gold Opal,Train,2811670
+Jun-18,Gold Opal,Bus,3898801
+Jun-18,Gold Opal,Light Rail,139229
+Jun-18,Gold Opal,Ferry,171076
+Jun-18,Opal Single Ticket,Ferry,39564
+Jun-18,Opal Single Ticket,Ferry,11086
+Jun-18,Opal Single Ticket,Light Rail,3644
+Jun-18,Opal Single Ticket,Light Rail,792
+Jun-18,Opal Single Ticket,Train,304921
+Jun-18,Opal Single Ticket,Train,64108
+Jul-18,Adult,Train,25719570
+Jul-18,Adult,Bus,14663512
+Jul-18,Adult,Light Rail,623308
+Jul-18,Adult,Ferry,842678
+Jul-18,Adult,Bus,125994
+Jul-18,Adult,Bus,71134
+Jul-18,Adult,Bus,21913
+Jul-18,Child/Youth,Train,1441083
+Jul-18,Child/Youth,Bus,1478229
+Jul-18,Child/Youth,Light Rail,53864
+Jul-18,Child/Youth,Ferry,153090
+Jul-18,Opal Single Ticket,Bus,41280
+Jul-18,Opal Single Ticket,Bus,31772
+Jul-18,Opal Single Ticket,Bus,8494
+Jul-18,Concession,Train,1764348
+Jul-18,Concession,Bus,1385605
+Jul-18,Concession,Light Rail,29101
+Jul-18,Concession,Ferry,25100
+Jul-18,CTP,Light Rail,9016
+Jul-18,CTP,Ferry,15079
+Jul-18,Day Pass Ticket,Train,11
+Jul-18,Day Pass Ticket,Bus,10
+Jul-18,Day Pass Ticket,Train,295
+Jul-18,Day Pass Ticket,Bus,263
+Jul-18,Day Pass Ticket,Ferry,5
+Jul-18,Other,Train,294039
+Jul-18,Other,Bus,75107
+Jul-18,Other,Light Rail,21
+Jul-18,Other,Ferry,4458
+Jul-18,Free Opal,Train,31329
+Jul-18,Free Opal,Bus,40049
+Jul-18,Free Opal,Light Rail,779
+Jul-18,Free Opal,Ferry,2174
+Jul-18,Other,Bus,4117
+Jul-18,Other,Bus,37643
+Jul-18,School Opal,Train,545831
+Jul-18,School Opal,Bus,1360830
+Jul-18,School Opal,Light Rail,3089
+Jul-18,School Opal,Ferry,2101
+Jul-18,Gold Opal,Train,2906558
+Jul-18,Gold Opal,Bus,4136888
+Jul-18,Gold Opal,Light Rail,137015
+Jul-18,Gold Opal,Ferry,187491
+Jul-18,Opal Single Ticket,Ferry,44585
+Jul-18,Opal Single Ticket,Ferry,17510
+Jul-18,Opal Single Ticket,Light Rail,3170
+Jul-18,Opal Single Ticket,Light Rail,1101
+Jul-18,Opal Single Ticket,Train,273148
+Jul-18,Opal Single Ticket,Train,77382
+Aug-18,Adult,Train,27068989
+Aug-18,Adult,Bus,15671796
+Aug-18,Adult,Light Rail,635271
+Aug-18,Adult,Ferry,756150
+Aug-18,Adult,Bus,117518
+Aug-18,Adult,Bus,66263
+Aug-18,Adult,Bus,20627
+Aug-18,Child/Youth,Train,982120
+Aug-18,Child/Youth,Bus,1210309
+Aug-18,Child/Youth,Light Rail,38176
+Aug-18,Child/Youth,Ferry,77616
+Aug-18,Opal Single Ticket,Bus,28189
+Aug-18,Opal Single Ticket,Bus,18873
+Aug-18,Opal Single Ticket,Bus,4924
+Aug-18,Concession,Train,2740748
+Aug-18,Concession,Bus,2255143
+Aug-18,Concession,Light Rail,33463
+Aug-18,Concession,Ferry,24487
+Aug-18,CTP,Light Rail,9575
+Aug-18,CTP,Ferry,14406
+Aug-18,Day Pass Ticket,Train,14
+Aug-18,Day Pass Ticket,Bus,15
+Aug-18,Day Pass Ticket,Train,312
+Aug-18,Day Pass Ticket,Bus,294
+Aug-18,Day Pass Ticket,Ferry,4
+Aug-18,Other,Train,302280
+Aug-18,Other,Bus,84601
+Aug-18,Other,Light Rail,916
+Aug-18,Other,Ferry,3771
+Aug-18,Free Opal,Train,32190
+Aug-18,Free Opal,Bus,42673
+Aug-18,Free Opal,Light Rail,912
+Aug-18,Free Opal,Ferry,1908
+Aug-18,Other,Bus,4888
+Aug-18,Other,Bus,68810
+Aug-18,School Opal,Train,1254541
+Aug-18,School Opal,Bus,3043783
+Aug-18,School Opal,Light Rail,8120
+Aug-18,School Opal,Ferry,5605
+Aug-18,Gold Opal,Train,2992574
+Aug-18,Gold Opal,Bus,4327181
+Aug-18,Gold Opal,Light Rail,137236
+Aug-18,Gold Opal,Ferry,168088
+Aug-18,Opal Single Ticket,Ferry,41119
+Aug-18,Opal Single Ticket,Ferry,10037
+Aug-18,Opal Single Ticket,Light Rail,3475
+Aug-18,Opal Single Ticket,Light Rail,645
+Aug-18,Opal Single Ticket,Train,286608
+Aug-18,Opal Single Ticket,Train,53424
+Sep-18,Adult,Train,25212167
+Sep-18,Adult,Bus,14506860
+Sep-18,Adult,Light Rail,618552
+Sep-18,Adult,Ferry,781681
+Sep-18,Adult,Bus,108216
+Sep-18,Adult,Bus,60426
+Sep-18,Adult,Bus,19918
+Sep-18,Child/Youth,Train,1041145
+Sep-18,Child/Youth,Bus,1174339
+Sep-18,Child/Youth,Light Rail,37820
+Sep-18,Child/Youth,Ferry,83827
+Sep-18,Opal Single Ticket,Bus,27904
+Sep-18,Opal Single Ticket,Bus,19441
+Sep-18,Opal Single Ticket,Bus,5161
+Sep-18,Concession,Train,2168858
+Sep-18,Concession,Bus,1761178
+Sep-18,Concession,Light Rail,30445
+Sep-18,Concession,Ferry,22900
+Sep-18,CTP,Light Rail,9945
+Sep-18,CTP,Ferry,13924
+Sep-18,Day Pass Ticket,Train,9
+Sep-18,Day Pass Ticket,Bus,7
+Sep-18,Day Pass Ticket,Train,319
+Sep-18,Day Pass Ticket,Bus,259
+Sep-18,Day Pass Ticket,Light Rail,1
+Sep-18,Day Pass Ticket,Ferry,1
+Sep-18,Other,Train,283396
+Sep-18,Other,Bus,81888
+Sep-18,Other,Light Rail,1189
+Sep-18,Other,Ferry,4119
+Sep-18,Free Opal,Train,30433
+Sep-18,Free Opal,Bus,38771
+Sep-18,Free Opal,Light Rail,761
+Sep-18,Free Opal,Ferry,2004
+Sep-18,Other,Bus,4679
+Sep-18,Other,Bus,66227
+Sep-18,School Opal,Train,1093627
+Sep-18,School Opal,Bus,2566165
+Sep-18,School Opal,Light Rail,7017
+Sep-18,School Opal,Ferry,4833
+Sep-18,Gold Opal,Train,2853772
+Sep-18,Gold Opal,Bus,4000218
+Sep-18,Gold Opal,Light Rail,137410
+Sep-18,Gold Opal,Ferry,170563
+Sep-18,Opal Single Ticket,Ferry,41289
+Sep-18,Opal Single Ticket,Ferry,8921
+Sep-18,Opal Single Ticket,Light Rail,3362
+Sep-18,Opal Single Ticket,Light Rail,594
+Sep-18,Opal Single Ticket,Train,284117
+Sep-18,Opal Single Ticket,Train,53639
+Oct-18,Adult,Train,26675966
+Oct-18,Adult,Bus,15736379
+Oct-18,Adult,Light Rail,609091
+Oct-18,Adult,Ferry,761780
+Oct-18,Adult,Bus,115049
+Oct-18,Adult,Bus,63772
+Oct-18,Adult,Bus,21456
+Oct-18,Child/Youth,Train,1220318
+Oct-18,Child/Youth,Bus,1418158
+Oct-18,Child/Youth,Light Rail,39129
+Oct-18,Child/Youth,Ferry,91168
+Oct-18,Opal Single Ticket,Bus,34527
+Oct-18,Opal Single Ticket,Bus,25996
+Oct-18,Opal Single Ticket,Bus,7029
+Oct-18,Concession,Train,2223132
+Oct-18,Concession,Bus,1824756
+Oct-18,Concession,Light Rail,27585
+Oct-18,Concession,Ferry,20365
+Oct-18,CTP,Light Rail,10940
+Oct-18,CTP,Ferry,16320
+Oct-18,Day Pass Ticket,Train,10
+Oct-18,Day Pass Ticket,Bus,8
+Oct-18,Day Pass Ticket,Train,374
+Oct-18,Day Pass Ticket,Bus,369
+Oct-18,Day Pass Ticket,Light Rail,2
+Oct-18,Day Pass Ticket,Ferry,3
+Oct-18,Other,Train,311734
+Oct-18,Other,Bus,88362
+Oct-18,Other,Light Rail,1275
+Oct-18,Other,Ferry,3997
+Oct-18,Free Opal,Train,35210
+Oct-18,Free Opal,Bus,41366
+Oct-18,Free Opal,Light Rail,788
+Oct-18,Free Opal,Ferry,1976
+Oct-18,Other,Bus,5295
+Oct-18,Other,Bus,81377
+Oct-18,School Opal,Train,692192
+Oct-18,School Opal,Bus,1721983
+Oct-18,School Opal,Light Rail,4384
+Oct-18,School Opal,Ferry,2911
+Oct-18,Gold Opal,Train,2975395
+Oct-18,Gold Opal,Bus,4228361
+Oct-18,Gold Opal,Light Rail,130612
+Oct-18,Gold Opal,Ferry,171082
+Oct-18,Opal Single Ticket,Ferry,45136
+Oct-18,Opal Single Ticket,Ferry,9845
+Oct-18,Opal Single Ticket,Light Rail,2881
+Oct-18,Opal Single Ticket,Light Rail,624
+Oct-18,Opal Single Ticket,Train,304980
+Oct-18,Opal Single Ticket,Train,62339
+Nov-18,Adult,Train,27025348
+Nov-18,Adult,Bus,16168800
+Nov-18,Adult,Light Rail,625784
+Nov-18,Adult,Ferry,890859
+Nov-18,Adult,Bus,118254
+Nov-18,Adult,Bus,66378
+Nov-18,Adult,Bus,21421
+Nov-18,Child/Youth,Train,1033964
+Nov-18,Child/Youth,Bus,1248624
+Nov-18,Child/Youth,Light Rail,37283
+Nov-18,Child/Youth,Ferry,74587
+Nov-18,Opal Single Ticket,Bus,28168
+Nov-18,Opal Single Ticket,Bus,19078
+Nov-18,Opal Single Ticket,Bus,5046
+Nov-18,Concession,Train,1798391
+Nov-18,Concession,Bus,1440331
+Nov-18,Concession,Light Rail,29136
+Nov-18,Concession,Ferry,23239
+Nov-18,CTP,Train,29061
+Nov-18,CTP,Light Rail,12894
+Nov-18,CTP,Ferry,20715
+Nov-18,Day Pass Ticket,Train,11
+Nov-18,Day Pass Ticket,Bus,25
+Nov-18,Day Pass Ticket,Train,459
+Nov-18,Day Pass Ticket,Bus,489
+Nov-18,Day Pass Ticket,Light Rail,2
+Nov-18,Day Pass Ticket,Ferry,4
+Nov-18,Other,Train,319734
+Nov-18,Other,Bus,91102
+Nov-18,Other,Light Rail,1300
+Nov-18,Other,Ferry,4554
+Nov-18,Free Opal,Train,35582
+Nov-18,Free Opal,Bus,42416
+Nov-18,Free Opal,Light Rail,888
+Nov-18,Free Opal,Ferry,2079
+Nov-18,Other,Bus,5377
+Nov-18,Other,Bus,174528
+Nov-18,School Opal,Train,1152486
+Nov-18,School Opal,Bus,2817780
+Nov-18,School Opal,Light Rail,7228
+Nov-18,School Opal,Ferry,4822
+Nov-18,Gold Opal,Train,3037349
+Nov-18,Gold Opal,Bus,4382870
+Nov-18,Gold Opal,Light Rail,136671
+Nov-18,Gold Opal,Ferry,185824
+Nov-18,Opal Single Ticket,Ferry,51364
+Nov-18,Opal Single Ticket,Ferry,6894
+Nov-18,Opal Single Ticket,Light Rail,2752
+Nov-18,Opal Single Ticket,Light Rail,330
+Nov-18,Opal Single Ticket,Train,321285
+Nov-18,Opal Single Ticket,Train,49652
+Dec-18,Adult,Train,23050018
+Dec-18,Adult,Bus,14104676
+Dec-18,Adult,Light Rail,610683
+Dec-18,Adult,Ferry,1019143
+Dec-18,Adult,Bus,112904
+Dec-18,Adult,Bus,63021
+Dec-18,Adult,Bus,21892
+Dec-18,Child/Youth,Train,1319800
+Dec-18,Child/Youth,Bus,1423439
+Dec-18,Child/Youth,Light Rail,45017
+Dec-18,Child/Youth,Ferry,137948
+Dec-18,Opal Single Ticket,Bus,32811
+Dec-18,Opal Single Ticket,Bus,25849
+Dec-18,Opal Single Ticket,Bus,7956
+Dec-18,Concession,Train,1345643
+Dec-18,Concession,Bus,1021477
+Dec-18,Concession,Light Rail,24245
+Dec-18,Concession,Ferry,24831
+Dec-18,CTP,Train,400255
+Dec-18,CTP,Light Rail,19441
+Dec-18,CTP,Ferry,45727
+Dec-18,Day Pass Ticket,Train,6
+Dec-18,Day Pass Ticket,Bus,29
+Dec-18,Day Pass Ticket,Train,366
+Dec-18,Day Pass Ticket,Bus,426
+Dec-18,Day Pass Ticket,Light Rail,1
+Dec-18,Day Pass Ticket,Ferry,4
+Dec-18,Other,Train,272003
+Dec-18,Other,Bus,82198
+Dec-18,Other,Light Rail,1259
+Dec-18,Other,Ferry,5371
+Dec-18,Free Opal,Train,29670
+Dec-18,Free Opal,Bus,38642
+Dec-18,Free Opal,Light Rail,858
+Dec-18,Free Opal,Ferry,2110
+Dec-18,Other,Bus,6439
+Dec-18,Other,Bus,65839
+Dec-18,School Opal,Train,512431
+Dec-18,School Opal,Bus,1248913
+Dec-18,School Opal,Light Rail,2917
+Dec-18,School Opal,Ferry,2594
+Dec-18,Gold Opal,Train,2815946
+Dec-18,Gold Opal,Bus,4089027
+Dec-18,Gold Opal,Light Rail,140990
+Dec-18,Gold Opal,Ferry,187090
+Dec-18,Opal Single Ticket,Ferry,62404
+Dec-18,Opal Single Ticket,Ferry,16424
+Dec-18,Opal Single Ticket,Light Rail,3036
+Dec-18,Opal Single Ticket,Light Rail,711
+Dec-18,Opal Single Ticket,Train,306621
+Dec-18,Opal Single Ticket,Train,71697
+Jan-19,Adult,Train,23174619
+Jan-19,Adult,Bus,14752879
+Jan-19,Adult,Light Rail,440804
+Jan-19,Adult,Ferry,1027527
+Jan-19,Adult,Bus,110735
+Jan-19,Adult,Bus,61336
+Jan-19,Adult,Bus,20411
+Jan-19,Child/Youth,Train,1511478
+Jan-19,Child/Youth,Bus,1653909
+Jan-19,Child/Youth,Light Rail,42875
+Jan-19,Child/Youth,Ferry,196867
+Jan-19,Opal Single Ticket,Bus,38810
+Jan-19,Opal Single Ticket,Bus,31393
+Jan-19,Opal Single Ticket,Bus,9539
+Jan-19,Concession,Train,1291370
+Jan-19,Concession,Bus,1004593
+Jan-19,Concession,Light Rail,18357
+Jan-19,Concession,Ferry,26120
+Jan-19,CTP,Train,559514
+Jan-19,CTP,Light Rail,18576
+Jan-19,CTP,Ferry,58537
+Jan-19,Day Pass Ticket,Train,15
+Jan-19,Day Pass Ticket,Bus,18
+Jan-19,Day Pass Ticket,Train,493
+Jan-19,Day Pass Ticket,Bus,725
+Jan-19,Day Pass Ticket,Light Rail,4
+Jan-19,Day Pass Ticket,Ferry,8
+Jan-19,Other,Train,274738
+Jan-19,Other,Bus,85279
+Jan-19,Other,Light Rail,896
+Jan-19,Other,Ferry,5535
+Jan-19,Free Opal,Train,29386
+Jan-19,Free Opal,Bus,38510
+Jan-19,Free Opal,Light Rail,593
+Jan-19,Free Opal,Ferry,2397
+Jan-19,Other,Bus,7041
+Jan-19,Other,Bus,48037
+Jan-19,School Opal,Train,88704
+Jan-19,School Opal,Bus,205934
+Jan-19,School Opal,Light Rail,560
+Jan-19,School Opal,Ferry,496
+Jan-19,Gold Opal,Train,2671807
+Jan-19,Gold Opal,Bus,3970989
+Jan-19,Gold Opal,Light Rail,100259
+Jan-19,Gold Opal,Ferry,222000
+Jan-19,Opal Single Ticket,Ferry,61360
+Jan-19,Opal Single Ticket,Ferry,19149
+Jan-19,Opal Single Ticket,Light Rail,1740
+Jan-19,Opal Single Ticket,Light Rail,569
+Jan-19,Opal Single Ticket,Train,250355
+Jan-19,Opal Single Ticket,Train,73085
+Feb-19,Adult,Train,24235381
+Feb-19,Adult,Bus,15426206
+Feb-19,Adult,Light Rail,613130
+Feb-19,Adult,Ferry,876044
+Feb-19,Adult,Bus,99772
+Feb-19,Adult,Bus,54290
+Feb-19,Adult,Bus,17375
+Feb-19,Child/Youth,Train,1030042
+Feb-19,Child/Youth,Bus,1357664
+Feb-19,Child/Youth,Light Rail,42123
+Feb-19,Child/Youth,Ferry,67142
+Feb-19,Opal Single Ticket,Bus,21631
+Feb-19,Opal Single Ticket,Bus,15276
+Feb-19,Opal Single Ticket,Bus,4340
+Feb-19,Concession,Train,1692708
+Feb-19,Concession,Bus,1415444
+Feb-19,Concession,Light Rail,29066
+Feb-19,Concession,Ferry,23079
+Feb-19,CTP,Train,612866
+Feb-19,CTP,Light Rail,25195
+Feb-19,CTP,Ferry,47051
+Feb-19,Day Pass Ticket,Train,15
+Feb-19,Day Pass Ticket,Bus,46
+Feb-19,Day Pass Ticket,Train,502
+Feb-19,Day Pass Ticket,Bus,659
+Feb-19,Day Pass Ticket,Light Rail,6
+Feb-19,Day Pass Ticket,Ferry,11
+Feb-19,Other,Train,299251
+Feb-19,Other,Bus,87689
+Feb-19,Other,Light Rail,1354
+Feb-19,Other,Ferry,4613
+Feb-19,Free Opal,Train,32805
+Feb-19,Free Opal,Bus,40466
+Feb-19,Free Opal,Light Rail,1147
+Feb-19,Free Opal,Ferry,2254
+Feb-19,Other,Bus,8098
+Feb-19,Other,Bus,0
+Feb-19,School Opal,Train,1203113
+Feb-19,School Opal,Bus,3034805
+Feb-19,School Opal,Light Rail,8614
+Feb-19,School Opal,Ferry,3433
+Feb-19,Gold Opal,Train,2837854
+Feb-19,Gold Opal,Bus,4130053
+Feb-19,Gold Opal,Light Rail,164339
+Feb-19,Gold Opal,Ferry,191521
+Feb-19,Opal Single Ticket,Ferry,45285
+Feb-19,Opal Single Ticket,Ferry,6282
+Feb-19,Opal Single Ticket,Light Rail,2796
+Feb-19,Opal Single Ticket,Light Rail,580
+Feb-19,Opal Single Ticket,Train,235026
+Feb-19,Opal Single Ticket,Train,39201
+Mar-19,Adult,Train,26870901
+Mar-19,Adult,Bus,16865038
+Mar-19,Adult,Light Rail,696793
+Mar-19,Adult,Ferry,891646
+Mar-19,Adult,Bus,104426
+Mar-19,Adult,Bus,56005
+Mar-19,Adult,Bus,18478
+Mar-19,Child/Youth,Train,1091466
+Mar-19,Child/Youth,Bus,1388228
+Mar-19,Child/Youth,Light Rail,45828
+Mar-19,Child/Youth,Ferry,69720
+Mar-19,Opal Single Ticket,Bus,24315
+Mar-19,Opal Single Ticket,Bus,16792
+Mar-19,Opal Single Ticket,Bus,4803
+Mar-19,Concession,Train,2792174
+Mar-19,Concession,Bus,2273012
+Mar-19,Concession,Light Rail,43393
+Mar-19,Concession,Ferry,28579
+Mar-19,CTP,Train,715994
+Mar-19,CTP,Light Rail,32869
+Mar-19,CTP,Ferry,52039
+Mar-19,Day Pass Ticket,Train,54
+Mar-19,Day Pass Ticket,Bus,90
+Mar-19,Day Pass Ticket,Light Rail,1
+Mar-19,Day Pass Ticket,Ferry,6
+Mar-19,Day Pass Ticket,Train,685
+Mar-19,Day Pass Ticket,Bus,989
+Mar-19,Day Pass Ticket,Light Rail,15
+Mar-19,Day Pass Ticket,Ferry,13
+Mar-19,Other,Train,330137
+Mar-19,Other,Bus,94200
+Mar-19,Other,Light Rail,1817
+Mar-19,Other,Ferry,4519
+Mar-19,Free Opal,Train,34783
+Mar-19,Free Opal,Bus,43399
+Mar-19,Free Opal,Light Rail,1409
+Mar-19,Free Opal,Ferry,2303
+Mar-19,Other,Bus,9767
+Mar-19,Other,Bus,0
+Mar-19,School Opal,Train,1321749
+Mar-19,School Opal,Bus,3406548
+Mar-19,School Opal,Light Rail,9944
+Mar-19,School Opal,Ferry,3635
+Mar-19,Gold Opal,Train,3059039
+Mar-19,Gold Opal,Bus,4436133
+Mar-19,Gold Opal,Light Rail,173382
+Mar-19,Gold Opal,Ferry,195448
+Mar-19,Opal Single Ticket,Ferry,46412
+Mar-19,Opal Single Ticket,Ferry,6437
+Mar-19,Opal Single Ticket,Light Rail,3569
+Mar-19,Opal Single Ticket,Light Rail,1046
+Mar-19,Opal Single Ticket,Train,268079
+Mar-19,Opal Single Ticket,Train,45205
+Apr-19,Adult,Train,24276410
+Apr-19,Adult,Bus,14959627
+Apr-19,Adult,Light Rail,610905
+Apr-19,Adult,Ferry,917392
+Apr-19,Adult,Bus,93026
+Apr-19,Adult,Bus,48668
+Apr-19,Adult,Bus,17329
+Apr-19,Child/Youth,Train,1331399
+Apr-19,Child/Youth,Bus,1449736
+Apr-19,Child/Youth,Light Rail,57364
+Apr-19,Child/Youth,Ferry,149389
+Apr-19,Opal Single Ticket,Bus,27868
+Apr-19,Opal Single Ticket,Bus,21897
+Apr-19,Opal Single Ticket,Bus,6122
+Apr-19,Concession,Train,2257676
+Apr-19,Concession,Bus,1834882
+Apr-19,Concession,Light Rail,33409
+Apr-19,Concession,Ferry,25473
+Apr-19,CTP,Train,710888
+Apr-19,CTP,Light Rail,31478
+Apr-19,CTP,Ferry,54154
+Apr-19,Day Pass Ticket,Train,23
+Apr-19,Day Pass Ticket,Bus,48
+Apr-19,Day Pass Ticket,Train,658
+Apr-19,Day Pass Ticket,Bus,773
+Apr-19,Day Pass Ticket,Light Rail,5
+Apr-19,Day Pass Ticket,Ferry,12
+Apr-19,Other,Train,304321
+Apr-19,Other,Bus,85255
+Apr-19,Other,Light Rail,1496
+Apr-19,Other,Ferry,4575
+Apr-19,Free Opal,Train,31756
+Apr-19,Free Opal,Bus,38720
+Apr-19,Free Opal,Light Rail,1259
+Apr-19,Free Opal,Ferry,2306
+Apr-19,Other,Bus,9784
+Apr-19,School Opal,Train,690414
+Apr-19,School Opal,Bus,1735455
+Apr-19,School Opal,Light Rail,5178
+Apr-19,School Opal,Ferry,1955
+Apr-19,Gold Opal,Train,2898742
+Apr-19,Gold Opal,Bus,4113032
+Apr-19,Gold Opal,Light Rail,159245
+Apr-19,Gold Opal,Ferry,211530
+Apr-19,Opal Single Ticket,Ferry,49727
+Apr-19,Opal Single Ticket,Ferry,15970
+Apr-19,Opal Single Ticket,Light Rail,3567
+Apr-19,Opal Single Ticket,Light Rail,1620
+Apr-19,Opal Single Ticket,Train,241881
+Apr-19,Opal Single Ticket,Train,66510
+May-19,Adult,Train,27859455
+May-19,Adult,Metro,219429
+May-19,Adult,Bus,16827324
+May-19,Adult,Light Rail,625322
+May-19,Adult,Ferry,787055
+May-19,Adult,Bus,93036
+May-19,Adult,Bus,49965
+May-19,Adult,Bus,16623
+May-19,Child/Youth,Train,972256
+May-19,Child/Youth,Metro,6186
+May-19,Child/Youth,Bus,1256375
+May-19,Child/Youth,Light Rail,37874
+May-19,Child/Youth,Ferry,66200
+May-19,Opal Single Ticket,Bus,20657
+May-19,Opal Single Ticket,Bus,14135
+May-19,Opal Single Ticket,Bus,3968
+May-19,Concession,Train,2479155
+May-19,Concession,Metro,19058
+May-19,Concession,Bus,1882427
+May-19,Concession,Light Rail,36161
+May-19,Concession,Ferry,24888
+May-19,CTP,Train,893575
+May-19,CTP,Metro,7887
+May-19,CTP,Light Rail,34183
+May-19,CTP,Ferry,51727
+May-19,Day Pass Ticket,Train,38
+May-19,Day Pass Ticket,Bus,68
+May-19,Day Pass Ticket,Light Rail,9
+May-19,Day Pass Ticket,Ferry,178
+May-19,Day Pass Ticket,Train,626
+May-19,Day Pass Ticket,Metro,5
+May-19,Day Pass Ticket,Bus,787
+May-19,Day Pass Ticket,Light Rail,13
+May-19,Day Pass Ticket,Ferry,22
+May-19,Other,Train,366432
+May-19,Other,Metro,3142
+May-19,Other,Bus,99204
+May-19,Other,Light Rail,1537
+May-19,Other,Ferry,5002
+May-19,Free Opal,Train,38389
+May-19,Free Opal,Metro,333
+May-19,Free Opal,Bus,44534
+May-19,Free Opal,Light Rail,1393
+May-19,Free Opal,Ferry,2331
+May-19,Other,Bus,11130
+May-19,School Opal,Train,1461690
+May-19,School Opal,Metro,13436
+May-19,School Opal,Bus,3592972
+May-19,School Opal,Light Rail,11280
+May-19,School Opal,Ferry,3720
+May-19,Gold Opal,Train,3208060
+May-19,Gold Opal,Metro,24600
+May-19,Gold Opal,Bus,4586037
+May-19,Gold Opal,Light Rail,161232
+May-19,Gold Opal,Ferry,201703
+May-19,Opal Single Ticket,Ferry,31501
+May-19,Opal Single Ticket,Ferry,5522
+May-19,Opal Single Ticket,Light Rail,2534
+May-19,Opal Single Ticket,Light Rail,632
+May-19,Opal Single Ticket,Train,236129
+May-19,Opal Single Ticket,Metro,1696
+May-19,Opal Single Ticket,Train,46316
+May-19,Opal Single Ticket,Metro,332
+Jun-19,Adult,Train,23861758
+Jun-19,Adult,Metro,1144461
+Jun-19,Adult,Bus,14504498
+Jun-19,Adult,Light Rail,640884
+Jun-19,Adult,Ferry,756440
+Jun-19,Adult,Bus,80555
+Jun-19,Adult,Bus,42267
+Jun-19,Adult,Bus,13191
+Jun-19,Child/Youth,Train,1044267
+Jun-19,Child/Youth,Metro,112236
+Jun-19,Child/Youth,Bus,1175335
+Jun-19,Child/Youth,Light Rail,48131
+Jun-19,Child/Youth,Ferry,101453
+Jun-19,Opal Single Ticket,Bus,19193
+Jun-19,Opal Single Ticket,Bus,13566
+Jun-19,Opal Single Ticket,Bus,3543
+Jun-19,Concession,Train,1808606
+Jun-19,Concession,Metro,145218
+Jun-19,Concession,Bus,1555717
+Jun-19,Concession,Light Rail,35869
+Jun-19,Concession,Ferry,23397
+Jun-19,CTP,Train,867911
+Jun-19,CTP,Metro,34882
+Jun-19,CTP,Light Rail,35044
+Jun-19,CTP,Ferry,55609
+Jun-19,Day Pass Ticket,Train,17
+Jun-19,Day Pass Ticket,Bus,50
+Jun-19,Day Pass Ticket,Ferry,80
+Jun-19,Day Pass Ticket,Train,671
+Jun-19,Day Pass Ticket,Metro,6
+Jun-19,Day Pass Ticket,Bus,832
+Jun-19,Day Pass Ticket,Light Rail,11
+Jun-19,Day Pass Ticket,Ferry,8
+Jun-19,Other,Train,326446
+Jun-19,Other,Metro,10974
+Jun-19,Other,Bus,86459
+Jun-19,Other,Light Rail,1647
+Jun-19,Other,Ferry,4698
+Jun-19,Free Opal,Train,32272
+Jun-19,Free Opal,Metro,2296
+Jun-19,Free Opal,Bus,37745
+Jun-19,Free Opal,Light Rail,1098
+Jun-19,Free Opal,Ferry,2020
+Jun-19,Other,Bus,9946
+Jun-19,School Opal,Train,1090865
+Jun-19,School Opal,Metro,92249
+Jun-19,School Opal,Bus,2754915
+Jun-19,School Opal,Light Rail,8583
+Jun-19,School Opal,Ferry,2963
+Jun-19,Gold Opal,Train,2807164
+Jun-19,Gold Opal,Metro,143843
+Jun-19,Gold Opal,Bus,3942952
+Jun-19,Gold Opal,Light Rail,161787
+Jun-19,Gold Opal,Ferry,178127
+Jun-19,Opal Single Ticket,Ferry,32282
+Jun-19,Opal Single Ticket,Ferry,9985
+Jun-19,Opal Single Ticket,Light Rail,2841
+Jun-19,Opal Single Ticket,Light Rail,785
+Jun-19,Opal Single Ticket,Train,218974
+Jun-19,Opal Single Ticket,Metro,12588
+Jun-19,Opal Single Ticket,Train,53349
+Jun-19,Opal Single Ticket,Metro,7851
+Jul-19,Adult,Train,25768860
+Jul-19,Adult,Metro,1390001
+Jul-19,Adult,Bus,15823165
+Jul-19,Adult,Light Rail,669127
+Jul-19,Adult,Ferry,790593
+Jul-19,Adult,Bus,87764
+Jul-19,Adult,Bus,46970
+Jul-19,Adult,Bus,11597
+Jul-19,Child/Youth,Train,1380506
+Jul-19,Child/Youth,Metro,164783
+Jul-19,Child/Youth,Bus,1578565
+Jul-19,Child/Youth,Light Rail,65526
+Jul-19,Child/Youth,Ferry,148948
+Jul-19,Opal Single Ticket,Bus,29117
+Jul-19,Opal Single Ticket,Bus,21315
+Jul-19,Opal Single Ticket,Bus,5469
+Jul-19,Concession,Train,1800701
+Jul-19,Concession,Metro,134159
+Jul-19,Concession,Bus,1578007
+Jul-19,Concession,Light Rail,33597
+Jul-19,Concession,Ferry,22642
+Jul-19,CTP,Train,890275
+Jul-19,CTP,Metro,36923
+Jul-19,CTP,Light Rail,37082
+Jul-19,CTP,Ferry,50349
+Jul-19,Day Pass Ticket,Train,27
+Jul-19,Day Pass Ticket,Metro,1
+Jul-19,Day Pass Ticket,Bus,61
+Jul-19,Day Pass Ticket,Ferry,83
+Jul-19,Day Pass Ticket,Train,797
+Jul-19,Day Pass Ticket,Metro,22
+Jul-19,Day Pass Ticket,Bus,900
+Jul-19,Day Pass Ticket,Light Rail,20
+Jul-19,Day Pass Ticket,Ferry,10
+Jul-19,Other,Train,351847
+Jul-19,Other,Metro,10328
+Jul-19,Other,Bus,95618
+Jul-19,Other,Light Rail,1502
+Jul-19,Other,Ferry,4647
+Jul-19,Free Opal,Train,35294
+Jul-19,Free Opal,Metro,2159
+Jul-19,Free Opal,Bus,42759
+Jul-19,Free Opal,Light Rail,1291
+Jul-19,Free Opal,Ferry,1954
+Jul-19,Other,Bus,22584
+Jul-19,School Opal,Train,646026
+Jul-19,School Opal,Metro,45109
+Jul-19,School Opal,Bus,1644170
+Jul-19,School Opal,Light Rail,4780
+Jul-19,School Opal,Ferry,1752
+Jul-19,Gold Opal,Train,2993919
+Jul-19,Gold Opal,Metro,155990
+Jul-19,Gold Opal,Bus,4334952
+Jul-19,Gold Opal,Light Rail,169509
+Jul-19,Gold Opal,Ferry,185699
+Jul-19,Opal Single Ticket,Ferry,35865
+Jul-19,Opal Single Ticket,Ferry,15817
+Jul-19,Opal Single Ticket,Light Rail,2885
+Jul-19,Opal Single Ticket,Light Rail,1653
+Jul-19,Opal Single Ticket,Train,212479
+Jul-19,Opal Single Ticket,Metro,10958
+Jul-19,Opal Single Ticket,Train,67391
+Jul-19,Opal Single Ticket,Metro,8387
+Aug-19,Adult,Train,25583771
+Aug-19,Adult,Metro,1437608
+Aug-19,Adult,Bus,15900861
+Aug-19,Adult,Light Rail,673022
+Aug-19,Adult,Ferry,724780
+Aug-19,Adult,Bus,79217
+Aug-19,Adult,Bus,40983
+Aug-19,Adult,Bus,10600
+Aug-19,Child/Youth,Train,948560
+Aug-19,Child/Youth,Metro,85909
+Aug-19,Child/Youth,Bus,1260371
+Aug-19,Child/Youth,Light Rail,45254
+Aug-19,Child/Youth,Ferry,80831
+Aug-19,Opal Single Ticket,Bus,19594
+Aug-19,Opal Single Ticket,Bus,12843
+Aug-19,Opal Single Ticket,Bus,3384
+Aug-19,Concession,Train,2374111
+Aug-19,Concession,Metro,251912
+Aug-19,Concession,Bus,1914213
+Aug-19,Concession,Light Rail,41982
+Aug-19,Concession,Ferry,22873
+Aug-19,CTP,Train,1113001
+Aug-19,CTP,Metro,56587
+Aug-19,CTP,Bus,45975
+Aug-19,CTP,Light Rail,43751
+Aug-19,CTP,Ferry,58355
+Aug-19,Day Pass Ticket,Train,33
+Aug-19,Day Pass Ticket,Metro,2
+Aug-19,Day Pass Ticket,Bus,113
+Aug-19,Day Pass Ticket,Ferry,349
+Aug-19,Day Pass Ticket,Train,939
+Aug-19,Day Pass Ticket,Metro,11
+Aug-19,Day Pass Ticket,Bus,905
+Aug-19,Day Pass Ticket,Light Rail,15
+Aug-19,Day Pass Ticket,Ferry,28
+Aug-19,Other,Train,349886
+Aug-19,Other,Metro,9627
+Aug-19,Other,Bus,94889
+Aug-19,Other,Light Rail,1651
+Aug-19,Other,Ferry,3847
+Aug-19,Free Opal,Train,35716
+Aug-19,Free Opal,Metro,1974
+Aug-19,Free Opal,Bus,42665
+Aug-19,Free Opal,Light Rail,1325
+Aug-19,Free Opal,Ferry,1954
+Aug-19,Other,Bus,23135
+Aug-19,School Opal,Train,1273508
+Aug-19,School Opal,Metro,93320
+Aug-19,School Opal,Bus,3182243
+Aug-19,School Opal,Light Rail,10457
+Aug-19,School Opal,Ferry,3467
+Aug-19,Gold Opal,Train,2993017
+Aug-19,Gold Opal,Metro,135070
+Aug-19,Gold Opal,Bus,4320530
+Aug-19,Gold Opal,Light Rail,168039
+Aug-19,Gold Opal,Ferry,168724
+Aug-19,Opal Single Ticket,Ferry,31988
+Aug-19,Opal Single Ticket,Ferry,8804
+Aug-19,Opal Single Ticket,Light Rail,2823
+Aug-19,Opal Single Ticket,Light Rail,727
+Aug-19,Opal Single Ticket,Train,210421
+Aug-19,Opal Single Ticket,Metro,8621
+Aug-19,Opal Single Ticket,Train,44548
+Aug-19,Opal Single Ticket,Metro,3949
+Sep-19,Adult,Train,24439462
+Sep-19,Adult,Metro,1395364
+Sep-19,Adult,Bus,15217496
+Sep-19,Adult,Light Rail,575721
+Sep-19,Adult,Ferry,748378
+Sep-19,Adult,Bus,69894
+Sep-19,Adult,Bus,35769
+Sep-19,Adult,Bus,8661
+Sep-19,Child/Youth,Train,958683
+Sep-19,Child/Youth,Metro,87350
+Sep-19,Child/Youth,Bus,1230301
+Sep-19,Child/Youth,Light Rail,36991
+Sep-19,Child/Youth,Ferry,83066
+Sep-19,Opal Single Ticket,Bus,18939
+Sep-19,Opal Single Ticket,Bus,12737
+Sep-19,Opal Single Ticket,Bus,3586
+Sep-19,Concession,Train,2030930
+Sep-19,Concession,Metro,188829
+Sep-19,Concession,Bus,1651851
+Sep-19,Concession,Light Rail,34294
+Sep-19,Concession,Ferry,23149
+Sep-19,CTP,Train,1419949
+Sep-19,CTP,Metro,78623
+Sep-19,CTP,Bus,286305
+Sep-19,CTP,Light Rail,47200
+Sep-19,CTP,Ferry,81461
+Sep-19,Day Pass Ticket,Train,180
+Sep-19,Day Pass Ticket,Bus,64
+Sep-19,Day Pass Ticket,Light Rail,67
+Sep-19,Day Pass Ticket,Ferry,273
+Sep-19,Day Pass Ticket,Train,835
+Sep-19,Day Pass Ticket,Metro,8
+Sep-19,Day Pass Ticket,Bus,965
+Sep-19,Day Pass Ticket,Light Rail,32
+Sep-19,Day Pass Ticket,Ferry,35
+Sep-19,Other,Train,335156
+Sep-19,Other,Metro,9631
+Sep-19,Other,Bus,91530
+Sep-19,Other,Light Rail,1354
+Sep-19,Other,Ferry,4019
+Sep-19,Free Opal,Train,34036
+Sep-19,Free Opal,Metro,1872
+Sep-19,Free Opal,Bus,39795
+Sep-19,Free Opal,Light Rail,1094
+Sep-19,Free Opal,Ferry,2031
+Sep-19,Other,Bus,23624
+Sep-19,School Opal,Train,1156754
+Sep-19,School Opal,Metro,88990
+Sep-19,School Opal,Bus,2788612
+Sep-19,School Opal,Light Rail,9169
+Sep-19,School Opal,Ferry,2959
+Sep-19,Gold Opal,Train,2906578
+Sep-19,Gold Opal,Metro,127687
+Sep-19,Gold Opal,Bus,4146158
+Sep-19,Gold Opal,Light Rail,148612
+Sep-19,Gold Opal,Ferry,173519
+Sep-19,Opal Single Ticket,Ferry,29810
+Sep-19,Opal Single Ticket,Ferry,7458
+Sep-19,Opal Single Ticket,Light Rail,2291
+Sep-19,Opal Single Ticket,Light Rail,543
+Sep-19,Opal Single Ticket,Train,193064
+Sep-19,Opal Single Ticket,Metro,7742
+Sep-19,Opal Single Ticket,Train,42711
+Sep-19,Opal Single Ticket,Metro,3881
+Oct-19,Adult,Train,24651070
+Oct-19,Adult,Metro,1461548
+Oct-19,Adult,Bus,15278827
+Oct-19,Adult,Light Rail,631702
+Oct-19,Adult,Ferry,782712
+Oct-19,Adult,Bus,68763
+Oct-19,Adult,Bus,35689
+Oct-19,Adult,Bus,8464
+Oct-19,Child/Youth,Train,1238755
+Oct-19,Child/Youth,Metro,139949
+Oct-19,Child/Youth,Bus,1503845
+Oct-19,Child/Youth,Light Rail,56750
+Oct-19,Child/Youth,Ferry,121078
+Oct-19,Opal Single Ticket,Bus,23363
+Oct-19,Opal Single Ticket,Bus,16736
+Oct-19,Opal Single Ticket,Bus,4514
+Oct-19,Concession,Train,2075291
+Oct-19,Concession,Metro,234295
+Oct-19,Concession,Bus,1789622
+Oct-19,Concession,Light Rail,36384
+Oct-19,Concession,Ferry,23124
+Oct-19,CTP,Train,2485677
+Oct-19,CTP,Metro,148912
+Oct-19,CTP,Bus,1367495
+Oct-19,CTP,Light Rail,82384
+Oct-19,CTP,Ferry,144705
+Oct-19,Day Pass Ticket,Train,258
+Oct-19,Day Pass Ticket,Bus,94
+Oct-19,Day Pass Ticket,Light Rail,13
+Oct-19,Day Pass Ticket,Ferry,528
+Oct-19,Day Pass Ticket,Train,895
+Oct-19,Day Pass Ticket,Metro,12
+Oct-19,Day Pass Ticket,Bus,1091
+Oct-19,Day Pass Ticket,Light Rail,20
+Oct-19,Day Pass Ticket,Ferry,76
+Oct-19,Other,Train,353157
+Oct-19,Other,Metro,9796
+Oct-19,Other,Bus,96225
+Oct-19,Other,Light Rail,1756
+Oct-19,Other,Ferry,5071
+Oct-19,Free Opal,Train,36726
+Oct-19,Free Opal,Metro,1994
+Oct-19,Free Opal,Bus,42777
+Oct-19,Free Opal,Light Rail,1323
+Oct-19,Free Opal,Ferry,2311
+Oct-19,Other,Bus,25895
+Oct-19,School Opal,Train,771963
+Oct-19,School Opal,Metro,58309
+Oct-19,School Opal,Bus,1933260
+Oct-19,School Opal,Light Rail,6472
+Oct-19,School Opal,Ferry,2381
+Oct-19,Gold Opal,Train,3130129
+Oct-19,Gold Opal,Metro,139064
+Oct-19,Gold Opal,Bus,4467434
+Oct-19,Gold Opal,Light Rail,178727
+Oct-19,Gold Opal,Ferry,211866
+Oct-19,Opal Single Ticket,Ferry,36475
+Oct-19,Opal Single Ticket,Ferry,10120
+Oct-19,Opal Single Ticket,Light Rail,2286
+Oct-19,Opal Single Ticket,Light Rail,848
+Oct-19,Opal Single Ticket,Train,201464
+Oct-19,Opal Single Ticket,Metro,7919
+Oct-19,Opal Single Ticket,Train,53099
+Oct-19,Opal Single Ticket,Metro,5122
+Nov-19,Adult,Train,23606323
+Nov-19,Adult,Metro,1368787
+Nov-19,Adult,Bus,14719303
+Nov-19,Adult,Light Rail,613974
+Nov-19,Adult,Ferry,754173
+Nov-19,Adult,Bus,52753
+Nov-19,Adult,Bus,27310
+Nov-19,Adult,Bus,7189
+Nov-19,Child/Youth,Train,975672
+Nov-19,Child/Youth,Metro,92154
+Nov-19,Child/Youth,Bus,1273847
+Nov-19,Child/Youth,Light Rail,46507
+Nov-19,Child/Youth,Ferry,73879
+Nov-19,Opal Single Ticket,Bus,14456
+Nov-19,Opal Single Ticket,Bus,8991
+Nov-19,Opal Single Ticket,Bus,2881
+Nov-19,Concession,Train,1706591
+Nov-19,Concession,Metro,168049
+Nov-19,Concession,Bus,1511797
+Nov-19,Concession,Light Rail,32785
+Nov-19,Concession,Ferry,20952
+Nov-19,CTP,Train,3041703
+Nov-19,CTP,Metro,174479
+Nov-19,CTP,Bus,2036680
+Nov-19,CTP,Light Rail,98306
+Nov-19,CTP,Ferry,169582
+Nov-19,Day Pass Ticket,Train,429
+Nov-19,Day Pass Ticket,Metro,5
+Nov-19,Day Pass Ticket,Bus,81
+Nov-19,Day Pass Ticket,Ferry,431
+Nov-19,Day Pass Ticket,Train,1006
+Nov-19,Day Pass Ticket,Metro,17
+Nov-19,Day Pass Ticket,Bus,998
+Nov-19,Day Pass Ticket,Light Rail,18
+Nov-19,Day Pass Ticket,Ferry,111
+Nov-19,Other,Train,350623
+Nov-19,Other,Metro,9411
+Nov-19,Other,Bus,95973
+Nov-19,Other,Light Rail,1751
+Nov-19,Other,Ferry,5303
+Nov-19,Free Opal,Train,35204
+Nov-19,Free Opal,Metro,1906
+Nov-19,Free Opal,Bus,42709
+Nov-19,Free Opal,Light Rail,1328
+Nov-19,Free Opal,Ferry,2126
+Nov-19,Other,Bus,26304
+Nov-19,School Opal,Train,1140317
+Nov-19,School Opal,Metro,92178
+Nov-19,School Opal,Bus,2787603
+Nov-19,School Opal,Light Rail,9377
+Nov-19,School Opal,Ferry,3425
+Nov-19,Gold Opal,Train,3041509
+Nov-19,Gold Opal,Metro,130042
+Nov-19,Gold Opal,Bus,4444174
+Nov-19,Gold Opal,Light Rail,170285
+Nov-19,Gold Opal,Ferry,194361
+Nov-19,Opal Single Ticket,Ferry,36807
+Nov-19,Opal Single Ticket,Ferry,5826
+Nov-19,Opal Single Ticket,Light Rail,1971
+Nov-19,Opal Single Ticket,Light Rail,508
+Nov-19,Opal Single Ticket,Train,199332
+Nov-19,Opal Single Ticket,Metro,7271
+Nov-19,Opal Single Ticket,Train,38441
+Nov-19,Opal Single Ticket,Metro,3238
+Dec-19,Adult,Train,20632690
+Dec-19,Adult,Metro,1240804
+Dec-19,Adult,Bus,12722252
+Dec-19,Adult,Light Rail,1023861
+Dec-19,Adult,Ferry,830422
+Dec-19,Adult,Bus,51990
+Dec-19,Adult,Bus,27391
+Dec-19,Adult,Bus,7586
+Dec-19,Child/Youth,Train,1248962
+Dec-19,Child/Youth,Metro,151506
+Dec-19,Child/Youth,Bus,1447321
+Dec-19,Child/Youth,Light Rail,118039
+Dec-19,Child/Youth,Ferry,132933
+Dec-19,Opal Single Ticket,Bus,17165
+Dec-19,Opal Single Ticket,Bus,13106
+Dec-19,Opal Single Ticket,Bus,4314
+Dec-19,Concession,Train,1293890
+Dec-19,Concession,Metro,117858
+Dec-19,Concession,Bus,1033031
+Dec-19,Concession,Light Rail,46274
+Dec-19,Concession,Ferry,23086
+Dec-19,CTP,Train,3082829
+Dec-19,CTP,Metro,191824
+Dec-19,CTP,Bus,2232214
+Dec-19,CTP,Light Rail,203419
+Dec-19,CTP,Ferry,216150
+Dec-19,Day Pass Ticket,Train,103
+Dec-19,Day Pass Ticket,Bus,84
+Dec-19,Day Pass Ticket,Ferry,25
+Dec-19,Day Pass Ticket,Train,841
+Dec-19,Day Pass Ticket,Metro,7
+Dec-19,Day Pass Ticket,Bus,850
+Dec-19,Day Pass Ticket,Light Rail,16
+Dec-19,Day Pass Ticket,Ferry,79
+Dec-19,Other,Train,313184
+Dec-19,Other,Metro,9472
+Dec-19,Other,Bus,89096
+Dec-19,Other,Light Rail,3226
+Dec-19,Other,Ferry,5047
+Dec-19,Free Opal,Train,30754
+Dec-19,Free Opal,Metro,1910
+Dec-19,Free Opal,Bus,39503
+Dec-19,Free Opal,Light Rail,2233
+Dec-19,Free Opal,Ferry,2168
+Dec-19,Other,Bus,23818
+Dec-19,School Opal,Train,539145
+Dec-19,School Opal,Metro,51793
+Dec-19,School Opal,Bus,1307381
+Dec-19,School Opal,Light Rail,7486
+Dec-19,School Opal,Ferry,2510
+Dec-19,Gold Opal,Train,2856582
+Dec-19,Gold Opal,Metro,140387
+Dec-19,Gold Opal,Bus,4182665
+Dec-19,Gold Opal,Light Rail,268570
+Dec-19,Gold Opal,Ferry,182312
+Dec-19,Opal Single Ticket,Ferry,47920
+Dec-19,Opal Single Ticket,Ferry,15074
+Dec-19,Opal Single Ticket,Light Rail,7585
+Dec-19,Opal Single Ticket,Light Rail,2907
+Dec-19,Opal Single Ticket,Train,212735
+Dec-19,Opal Single Ticket,Metro,10143
+Dec-19,Opal Single Ticket,Train,63435
+Dec-19,Opal Single Ticket,Metro,7114
+Jan-20,Adult,Train,20047422
+Jan-20,Adult,Metro,1222213
+Jan-20,Adult,Bus,12404965
+Jan-20,Adult,Light Rail,1287340
+Jan-20,Adult,Ferry,803124
+Jan-20,Adult,Bus,49458
+Jan-20,Adult,Bus,25989
+Jan-20,Adult,Bus,7329
+Jan-20,Child/Youth,Train,1383839
+Jan-20,Child/Youth,Metro,173317
+Jan-20,Child/Youth,Bus,1611069
+Jan-20,Child/Youth,Light Rail,185322
+Jan-20,Child/Youth,Ferry,180915
+Jan-20,Opal Single Ticket,Bus,18956
+Jan-20,Opal Single Ticket,Bus,14724
+Jan-20,Opal Single Ticket,Bus,5103
+Jan-20,Concession,Train,1177198
+Jan-20,Concession,Metro,108098
+Jan-20,Concession,Bus,910944
+Jan-20,Concession,Light Rail,59744
+Jan-20,Concession,Ferry,22170
+Jan-20,CTP,Train,3416625
+Jan-20,CTP,Metro,198421
+Jan-20,CTP,Bus,2628423
+Jan-20,CTP,Light Rail,288022
+Jan-20,CTP,Ferry,232669
+Jan-20,Day Pass Ticket,Train,66
+Jan-20,Day Pass Ticket,Metro,2
+Jan-20,Day Pass Ticket,Bus,67
+Jan-20,Day Pass Ticket,Light Rail,2
+Jan-20,Day Pass Ticket,Ferry,4
+Jan-20,Day Pass Ticket,Train,886
+Jan-20,Day Pass Ticket,Metro,13
+Jan-20,Day Pass Ticket,Bus,908
+Jan-20,Day Pass Ticket,Light Rail,24
+Jan-20,Day Pass Ticket,Ferry,29
+Jan-20,Other,Train,303539
+Jan-20,Other,Metro,8277
+Jan-20,Other,Bus,86718
+Jan-20,Other,Light Rail,3301
+Jan-20,Other,Ferry,5270
+Jan-20,Free Opal,Train,29692
+Jan-20,Free Opal,Metro,1600
+Jan-20,Free Opal,Bus,38216
+Jan-20,Free Opal,Light Rail,2769
+Jan-20,Free Opal,Ferry,2192
+Jan-20,Other,Bus,25607
+Jan-20,School Opal,Train,135534
+Jan-20,School Opal,Metro,9594
+Jan-20,School Opal,Bus,336070
+Jan-20,School Opal,Light Rail,5056
+Jan-20,School Opal,Ferry,914
+Jan-20,Gold Opal,Train,2660591
+Jan-20,Gold Opal,Metro,130685
+Jan-20,Gold Opal,Bus,3965486
+Jan-20,Gold Opal,Light Rail,334259
+Jan-20,Gold Opal,Ferry,208272
+Jan-20,Opal Single Ticket,Ferry,48444
+Jan-20,Opal Single Ticket,Ferry,18322
+Jan-20,Opal Single Ticket,Light Rail,10700
+Jan-20,Opal Single Ticket,Light Rail,4367
+Jan-20,Opal Single Ticket,Train,176497
+Jan-20,Opal Single Ticket,Metro,7000
+Jan-20,Opal Single Ticket,Train,67572
+Jan-20,Opal Single Ticket,Metro,6226
+Feb-20,Adult,Train,19921172
+Feb-20,Adult,Metro,1210442
+Feb-20,Adult,Bus,12587420
+Feb-20,Adult,Light Rail,1153361
+Feb-20,Adult,Ferry,594851
+Feb-20,Adult,Bus,46306
+Feb-20,Adult,Bus,23497
+Feb-20,Adult,Bus,6781
+Feb-20,Child/Youth,Train,851652
+Feb-20,Child/Youth,Metro,104015
+Feb-20,Child/Youth,Bus,1267671
+Feb-20,Child/Youth,Light Rail,74902
+Feb-20,Child/Youth,Ferry,47403
+Feb-20,Opal Single Ticket,Bus,11037
+Feb-20,Opal Single Ticket,Bus,7638
+Feb-20,Opal Single Ticket,Bus,2825
+Feb-20,Concession,Train,1536386
+Feb-20,Concession,Metro,148953
+Feb-20,Concession,Bus,1322299
+Feb-20,Concession,Light Rail,90573
+Feb-20,Concession,Ferry,19386
+Feb-20,CTP,Train,3621285
+Feb-20,CTP,Metro,213212
+Feb-20,CTP,Bus,2889541
+Feb-20,CTP,Light Rail,288259
+Feb-20,CTP,Ferry,192978
+Feb-20,Day Pass Ticket,Train,38
+Feb-20,Day Pass Ticket,Bus,48
+Feb-20,Day Pass Ticket,Train,1062
+Feb-20,Day Pass Ticket,Metro,25
+Feb-20,Day Pass Ticket,Bus,1070
+Feb-20,Day Pass Ticket,Light Rail,61
+Feb-20,Day Pass Ticket,Ferry,21
+Feb-20,Other,Train,314197
+Feb-20,Other,Metro,9771
+Feb-20,Other,Bus,88938
+Feb-20,Other,Light Rail,2953
+Feb-20,Other,Ferry,4206
+Feb-20,Free Opal,Train,31272
+Feb-20,Free Opal,Metro,1583
+Feb-20,Free Opal,Bus,39465
+Feb-20,Free Opal,Light Rail,2461
+Feb-20,Free Opal,Ferry,1854
+Feb-20,Other,Bus,25615
+Feb-20,School Opal,Train,1164671
+Feb-20,School Opal,Metro,95832
+Feb-20,School Opal,Bus,2961680
+Feb-20,School Opal,Light Rail,50375
+Feb-20,School Opal,Ferry,6360
+Feb-20,Gold Opal,Train,2533490
+Feb-20,Gold Opal,Metro,107389
+Feb-20,Gold Opal,Bus,3924662
+Feb-20,Gold Opal,Light Rail,279333
+Feb-20,Gold Opal,Ferry,160799
+Feb-20,Opal Single Ticket,Ferry,31263
+Feb-20,Opal Single Ticket,Ferry,4187
+Feb-20,Opal Single Ticket,Light Rail,7394
+Feb-20,Opal Single Ticket,Light Rail,1087
+Feb-20,Opal Single Ticket,Train,159957
+Feb-20,Opal Single Ticket,Metro,5660
+Feb-20,Opal Single Ticket,Train,33628
+Feb-20,Opal Single Ticket,Metro,3213
+Mar-20,Adult,Train,14771583
+Mar-20,Adult,Metro,870038
+Mar-20,Adult,Bus,9373131
+Mar-20,Adult,Light Rail,750599
+Mar-20,Adult,Ferry,379294
+Mar-20,Adult,Bus,27590
+Mar-20,Adult,Bus,13872
+Mar-20,Adult,Bus,4215
+Mar-20,Child/Youth,Train,509401
+Mar-20,Child/Youth,Metro,58273
+Mar-20,Child/Youth,Bus,831831
+Mar-20,Child/Youth,Light Rail,36004
+Mar-20,Child/Youth,Ferry,26660
+Mar-20,Opal Single Ticket,Bus,6788
+Mar-20,Opal Single Ticket,Bus,4348
+Mar-20,Opal Single Ticket,Bus,1689
+Mar-20,Concession,Train,1470619
+Mar-20,Concession,Metro,169730
+Mar-20,Concession,Bus,1281861
+Mar-20,Concession,Light Rail,74522
+Mar-20,Concession,Ferry,14976
+Mar-20,CTP,Train,2677062
+Mar-20,CTP,Metro,161357
+Mar-20,CTP,Bus,2271222
+Mar-20,CTP,Light Rail,194518
+Mar-20,CTP,Ferry,132810
+Mar-20,Day Pass Ticket,Train,70
+Mar-20,Day Pass Ticket,Bus,61
+Mar-20,Day Pass Ticket,Light Rail,1
+Mar-20,Day Pass Ticket,Train,915
+Mar-20,Day Pass Ticket,Metro,17
+Mar-20,Day Pass Ticket,Bus,953
+Mar-20,Day Pass Ticket,Light Rail,20
+Mar-20,Day Pass Ticket,Ferry,17
+Mar-20,Other,Train,277750
+Mar-20,Other,Metro,8133
+Mar-20,Other,Bus,74277
+Mar-20,Other,Light Rail,2236
+Mar-20,Other,Ferry,2832
+Mar-20,Free Opal,Train,22363
+Mar-20,Free Opal,Metro,1152
+Mar-20,Free Opal,Bus,30754
+Mar-20,Free Opal,Light Rail,1552
+Mar-20,Free Opal,Ferry,1216
+Mar-20,Other,Bus,19475
+Mar-20,School Opal,Train,854274
+Mar-20,School Opal,Metro,67738
+Mar-20,School Opal,Bus,2180536
+Mar-20,School Opal,Light Rail,35191
+Mar-20,School Opal,Ferry,5374
+Mar-20,Gold Opal,Train,1801124
+Mar-20,Gold Opal,Metro,66483
+Mar-20,Gold Opal,Bus,3068966
+Mar-20,Gold Opal,Light Rail,164755
+Mar-20,Gold Opal,Ferry,95471
+Mar-20,Opal Single Ticket,Ferry,16082
+Mar-20,Opal Single Ticket,Ferry,2533
+Mar-20,Opal Single Ticket,Light Rail,4738
+Mar-20,Opal Single Ticket,Light Rail,547
+Mar-20,Opal Single Ticket,Train,97199
+Mar-20,Opal Single Ticket,Metro,3309
+Mar-20,Opal Single Ticket,Train,23918
+Mar-20,Opal Single Ticket,Metro,2270
+Apr-20,Adult,Train,4344129
+Apr-20,Adult,Metro,187366
+Apr-20,Adult,Bus,3003345
+Apr-20,Adult,Light Rail,146481
+Apr-20,Adult,Ferry,46951
+Apr-20,Adult,Bus,153
+Apr-20,Adult,Bus,71
+Apr-20,Adult,Bus,23
+Apr-20,Child/Youth,Train,69680
+Apr-20,Child/Youth,Metro,5426
+Apr-20,Child/Youth,Bus,156022
+Apr-20,Child/Youth,Light Rail,3438
+Apr-20,Child/Youth,Ferry,2268
+Apr-20,Opal Single Ticket,Bus,19
+Apr-20,Opal Single Ticket,Bus,15
+Apr-20,Opal Single Ticket,Bus,7
+Apr-20,Concession,Train,169942
+Apr-20,Concession,Metro,12484
+Apr-20,Concession,Bus,180150
+Apr-20,Concession,Light Rail,6589
+Apr-20,Concession,Ferry,1639
+Apr-20,CTP,Train,703420
+Apr-20,CTP,Metro,36251
+Apr-20,CTP,Bus,734339
+Apr-20,CTP,Light Rail,37047
+Apr-20,CTP,Ferry,19718
+Apr-20,Day Pass Ticket,Train,4
+Apr-20,Day Pass Ticket,Bus,6
+Apr-20,Day Pass Ticket,Train,489
+Apr-20,Day Pass Ticket,Metro,5
+Apr-20,Day Pass Ticket,Bus,444
+Apr-20,Day Pass Ticket,Light Rail,11
+Apr-20,Day Pass Ticket,Ferry,2
+Apr-20,Other,Train,155620
+Apr-20,Other,Metro,3234
+Apr-20,Other,Bus,34370
+Apr-20,Other,Light Rail,825
+Apr-20,Other,Ferry,1112
+Apr-20,Free Opal,Train,6323
+Apr-20,Free Opal,Metro,194
+Apr-20,Free Opal,Bus,11618
+Apr-20,Free Opal,Light Rail,258
+Apr-20,Free Opal,Ferry,348
+Apr-20,Other,Bus,7039
+Apr-20,School Opal,Train,7775
+Apr-20,School Opal,Metro,787
+Apr-20,School Opal,Bus,28417
+Apr-20,School Opal,Light Rail,237
+Apr-20,School Opal,Ferry,89
+Apr-20,Gold Opal,Train,617589
+Apr-20,Gold Opal,Metro,15988
+Apr-20,Gold Opal,Bus,1348784
+Apr-20,Gold Opal,Light Rail,36977
+Apr-20,Gold Opal,Ferry,18287
+Apr-20,Opal Single Ticket,Ferry,522
+Apr-20,Opal Single Ticket,Ferry,294
+Apr-20,Opal Single Ticket,Light Rail,122
+Apr-20,Opal Single Ticket,Light Rail,47
+Apr-20,Opal Single Ticket,Train,13577
+Apr-20,Opal Single Ticket,Metro,554
+Apr-20,Opal Single Ticket,Train,7177
+Apr-20,Opal Single Ticket,Metro,563
+May-20,Adult,Train,6117204
+May-20,Adult,Metro,279666
+May-20,Adult,Bus,4107310
+May-20,Adult,Light Rail,254202
+May-20,Adult,Ferry,101720
+May-20,Adult,Bus,138
+May-20,Adult,Bus,40
+May-20,Adult,Bus,25
+May-20,Child/Youth,Train,199113
+May-20,Child/Youth,Metro,18828
+May-20,Child/Youth,Bus,357558
+May-20,Child/Youth,Light Rail,11489
+May-20,Child/Youth,Ferry,7998
+May-20,Opal Single Ticket,Bus,25
+May-20,Opal Single Ticket,Bus,8
+May-20,Opal Single Ticket,Bus,4
+May-20,Concession,Train,303299
+May-20,Concession,Metro,23677
+May-20,Concession,Bus,289775
+May-20,Concession,Light Rail,14619
+May-20,Concession,Ferry,4289
+May-20,CTP,Train,1195199
+May-20,CTP,Metro,62148
+May-20,CTP,Bus,1156729
+May-20,CTP,Light Rail,76246
+May-20,CTP,Ferry,44239
+May-20,Day Pass Ticket,Bus,1
+May-20,Day Pass Ticket,Train,446
+May-20,Day Pass Ticket,Metro,8
+May-20,Day Pass Ticket,Bus,393
+May-20,Day Pass Ticket,Light Rail,10
+May-20,Day Pass Ticket,Ferry,2
+May-20,Other,Train,179768
+May-20,Other,Metro,4482
+May-20,Other,Bus,41491
+May-20,Other,Light Rail,1119
+May-20,Other,Ferry,1370
+May-20,Free Opal,Train,9664
+May-20,Free Opal,Metro,375
+May-20,Free Opal,Bus,15935
+May-20,Free Opal,Light Rail,640
+May-20,Free Opal,Ferry,551
+May-20,Other,Bus,10192
+May-20,School Opal,Train,345854
+May-20,School Opal,Metro,28670
+May-20,School Opal,Bus,727918
+May-20,School Opal,Light Rail,17905
+May-20,School Opal,Ferry,1919
+May-20,Gold Opal,Train,938107
+May-20,Gold Opal,Metro,29411
+May-20,Gold Opal,Bus,1842193
+May-20,Gold Opal,Light Rail,67053
+May-20,Gold Opal,Ferry,39819
+May-20,Opal Single Ticket,Ferry,1162
+May-20,Opal Single Ticket,Ferry,659
+May-20,Opal Single Ticket,Light Rail,387
+May-20,Opal Single Ticket,Light Rail,163
+May-20,Opal Single Ticket,Train,21690
+May-20,Opal Single Ticket,Metro,841
+May-20,Opal Single Ticket,Train,13330
+May-20,Opal Single Ticket,Metro,1221
+Jun-20,Adult,Train,8357270
+Jun-20,Adult,Metro,444552
+Jun-20,Adult,Bus,5296996
+Jun-20,Adult,Light Rail,406393
+Jun-20,Adult,Ferry,177637
+Jun-20,Adult,Bus,107
+Jun-20,Adult,Bus,61
+Jun-20,Adult,Bus,17
+Jun-20,Child/Youth,Train,380309
+Jun-20,Child/Youth,Metro,46163
+Jun-20,Child/Youth,Bus,605522
+Jun-20,Child/Youth,Light Rail,25510
+Jun-20,Child/Youth,Ferry,20127
+Jun-20,Opal Single Ticket,Bus,15
+Jun-20,Opal Single Ticket,Bus,21
+Jun-20,Opal Single Ticket,Bus,4
+Jun-20,Concession,Train,554058
+Jun-20,Concession,Metro,48461
+Jun-20,Concession,Bus,456231
+Jun-20,Concession,Light Rail,32459
+Jun-20,Concession,Ferry,9065
+Jun-20,CTP,Train,1900026
+Jun-20,CTP,Metro,112387
+Jun-20,CTP,Bus,1664174
+Jun-20,CTP,Light Rail,140495
+Jun-20,CTP,Ferry,83342
+Jun-20,Day Pass Ticket,Train,11
+Jun-20,Day Pass Ticket,Metro,4
+Jun-20,Day Pass Ticket,Bus,22
+Jun-20,Day Pass Ticket,Ferry,2
+Jun-20,Day Pass Ticket,Train,543
+Jun-20,Day Pass Ticket,Metro,4
+Jun-20,Day Pass Ticket,Bus,464
+Jun-20,Day Pass Ticket,Light Rail,32
+Jun-20,Day Pass Ticket,Ferry,3
+Jun-20,Other,Train,203267
+Jun-20,Other,Metro,5725
+Jun-20,Other,Bus,50008
+Jun-20,Other,Light Rail,1743
+Jun-20,Other,Ferry,2289
+Jun-20,Free Opal,Train,14546
+Jun-20,Free Opal,Metro,734
+Jun-20,Free Opal,Bus,21672
+Jun-20,Free Opal,Light Rail,1138
+Jun-20,Free Opal,Ferry,1034
+Jun-20,Other,Bus,13690
+Jun-20,School Opal,Train,936253
+Jun-20,School Opal,Metro,80422
+Jun-20,School Opal,Bus,1891322
+Jun-20,School Opal,Light Rail,45025
+Jun-20,School Opal,Ferry,5401
+Jun-20,Gold Opal,Train,1360337
+Jun-20,Gold Opal,Metro,52746
+Jun-20,Gold Opal,Bus,2385697
+Jun-20,Gold Opal,Light Rail,118312
+Jun-20,Gold Opal,Ferry,72560
+Jun-20,Opal Single Ticket,Ferry,3592
+Jun-20,Opal Single Ticket,Ferry,2299
+Jun-20,Opal Single Ticket,Light Rail,762
+Jun-20,Opal Single Ticket,Light Rail,410
+Jun-20,Opal Single Ticket,Train,35863
+Jun-20,Opal Single Ticket,Metro,1921
+Jun-20,Opal Single Ticket,Train,20187
+Jun-20,Opal Single Ticket,Metro,2508
+Jul-20,Adult,Train,9499639
+Jul-20,Adult,Metro,522269
+Jul-20,Adult,Bus,5980811
+Jul-20,Adult,Light Rail,521409
+Jul-20,Adult,Ferry,202450
+Jul-20,Adult,Bus,142
+Jul-20,Adult,Bus,76
+Jul-20,Adult,Bus,18
+Jul-20,Child/Youth,Train,643641
+Jul-20,Child/Youth,Metro,89378
+Jul-20,Child/Youth,Bus,863848
+Jul-20,Child/Youth,Light Rail,57156
+Jul-20,Child/Youth,Ferry,48004
+Jul-20,Opal Single Ticket,Bus,34
+Jul-20,Opal Single Ticket,Bus,31
+Jul-20,Opal Single Ticket,Bus,5
+Jul-20,Concession,Train,722855
+Jul-20,Concession,Metro,72925
+Jul-20,Concession,Bus,581048
+Jul-20,Concession,Light Rail,47485
+Jul-20,Concession,Ferry,12344
+Jul-20,CTP,Train,2292077
+Jul-20,CTP,Metro,139350
+Jul-20,CTP,Bus,2013614
+Jul-20,CTP,Light Rail,194622
+Jul-20,CTP,Ferry,101923
+Jul-20,Day Pass Ticket,Train,47
+Jul-20,Day Pass Ticket,Bus,62
+Jul-20,Day Pass Ticket,Train,579
+Jul-20,Day Pass Ticket,Metro,4
+Jul-20,Day Pass Ticket,Bus,559
+Jul-20,Day Pass Ticket,Light Rail,30
+Jul-20,Day Pass Ticket,Ferry,14
+Jul-20,Other,Train,216720
+Jul-20,Other,Metro,6046
+Jul-20,Other,Bus,54732
+Jul-20,Other,Light Rail,3323
+Jul-20,Other,Ferry,2701
+Jul-20,Free Opal,Train,16171
+Jul-20,Free Opal,Metro,826
+Jul-20,Free Opal,Bus,24073
+Jul-20,Free Opal,Light Rail,1336
+Jul-20,Free Opal,Ferry,1215
+Jul-20,Other,Bus,16368
+Jul-20,School Opal,Train,519597
+Jul-20,School Opal,Metro,48768
+Jul-20,School Opal,Bus,1033486
+Jul-20,School Opal,Light Rail,24956
+Jul-20,School Opal,Ferry,2989
+Jul-20,Gold Opal,Train,1466814
+Jul-20,Gold Opal,Metro,58530
+Jul-20,Gold Opal,Bus,2563464
+Jul-20,Gold Opal,Light Rail,141973
+Jul-20,Gold Opal,Ferry,80353
+Jul-20,Opal Single Ticket,Ferry,6021
+Jul-20,Opal Single Ticket,Ferry,5740
+Jul-20,Opal Single Ticket,Light Rail,1077
+Jul-20,Opal Single Ticket,Light Rail,1003
+Jul-20,Opal Single Ticket,Train,39724
+Jul-20,Opal Single Ticket,Metro,2016
+Jul-20,Opal Single Ticket,Train,29040
+Jul-20,Opal Single Ticket,Metro,3662
+Aug-20,Adult,Train,8635155
+Aug-20,Adult,Metro,503923
+Aug-20,Adult,Bus,5609631
+Aug-20,Adult,Light Rail,513778
+Aug-20,Adult,Ferry,170746
+Aug-20,Adult,Bus,114
+Aug-20,Adult,Bus,41
+Aug-20,Adult,Bus,22
+Aug-20,Child/Youth,Train,376987
+Aug-20,Child/Youth,Metro,47188
+Aug-20,Child/Youth,Bus,628201
+Aug-20,Child/Youth,Light Rail,27831
+Aug-20,Child/Youth,Ferry,16218
+Aug-20,Opal Single Ticket,Bus,9
+Aug-20,Opal Single Ticket,Bus,7
+Aug-20,Opal Single Ticket,Bus,5
+Aug-20,Concession,Train,756263
+Aug-20,Concession,Metro,104706
+Aug-20,Concession,Bus,622654
+Aug-20,Concession,Light Rail,54331
+Aug-20,Concession,Ferry,11428
+Aug-20,CTP,Train,2128878
+Aug-20,CTP,Metro,148270
+Aug-20,CTP,Bus,1939712
+Aug-20,CTP,Light Rail,192136
+Aug-20,CTP,Ferry,90937
+Aug-20,Day Pass Ticket,Train,7
+Aug-20,Day Pass Ticket,Bus,1
+Aug-20,Day Pass Ticket,Train,514
+Aug-20,Day Pass Ticket,Metro,5
+Aug-20,Day Pass Ticket,Bus,422
+Aug-20,Day Pass Ticket,Light Rail,20
+Aug-20,Day Pass Ticket,Ferry,1
+Aug-20,Other,Train,203844
+Aug-20,Other,Metro,5770
+Aug-20,Other,Bus,51775
+Aug-20,Other,Light Rail,4067
+Aug-20,Other,Ferry,2368
+Aug-20,Free Opal,Train,15100
+Aug-20,Free Opal,Metro,844
+Aug-20,Free Opal,Bus,22685
+Aug-20,Free Opal,Light Rail,1148
+Aug-20,Free Opal,Ferry,939
+Aug-20,Other,Bus,14999
+Aug-20,School Opal,Train,891939
+Aug-20,School Opal,Metro,80446
+Aug-20,School Opal,Bus,1806836
+Aug-20,School Opal,Light Rail,39183
+Aug-20,School Opal,Ferry,5201
+Aug-20,Gold Opal,Train,1333085
+Aug-20,Gold Opal,Metro,53995
+Aug-20,Gold Opal,Bus,2410075
+Aug-20,Gold Opal,Light Rail,132272
+Aug-20,Gold Opal,Ferry,68959
+Aug-20,Opal Single Ticket,Ferry,1898
+Aug-20,Opal Single Ticket,Ferry,1282
+Aug-20,Opal Single Ticket,Light Rail,451
+Aug-20,Opal Single Ticket,Light Rail,251
+Aug-20,Opal Single Ticket,Train,26791
+Aug-20,Opal Single Ticket,Metro,1613
+Aug-20,Opal Single Ticket,Train,16736
+Aug-20,Opal Single Ticket,Metro,2142
+Sep-20,Adult,Train,9172681
+Sep-20,Adult,Metro,533927
+Sep-20,Adult,Bus,5844392
+Sep-20,Adult,Light Rail,539264
+Sep-20,Adult,Ferry,192004
+Sep-20,Adult,Bus,76
+Sep-20,Adult,Bus,36
+Sep-20,Adult,Bus,24
+Sep-20,Child/Youth,Train,481158
+Sep-20,Child/Youth,Metro,61501
+Sep-20,Child/Youth,Bus,715957
+Sep-20,Child/Youth,Light Rail,36925
+Sep-20,Child/Youth,Ferry,28018
+Sep-20,Opal Single Ticket,Bus,5
+Sep-20,Opal Single Ticket,Bus,1
+Sep-20,Opal Single Ticket,Bus,5
+Sep-20,Concession,Train,836827
+Sep-20,Concession,Metro,94107
+Sep-20,Concession,Bus,674595
+Sep-20,Concession,Light Rail,68439
+Sep-20,Concession,Ferry,12944
+Sep-20,CTP,Train,2433375
+Sep-20,CTP,Metro,159481
+Sep-20,CTP,Bus,2131509
+Sep-20,CTP,Light Rail,214718
+Sep-20,CTP,Ferry,104920
+Sep-20,Day Pass Ticket,Train,17
+Sep-20,Day Pass Ticket,Bus,1
+Sep-20,Day Pass Ticket,Train,470
+Sep-20,Day Pass Ticket,Metro,6
+Sep-20,Day Pass Ticket,Bus,436
+Sep-20,Day Pass Ticket,Light Rail,13
+Sep-20,Day Pass Ticket,Ferry,4
+Sep-20,Other,Train,213889
+Sep-20,Other,Metro,6245
+Sep-20,Other,Bus,53927
+Sep-20,Other,Light Rail,4332
+Sep-20,Other,Ferry,3019
+Sep-20,Free Opal,Train,16910
+Sep-20,Free Opal,Metro,878
+Sep-20,Free Opal,Bus,23695
+Sep-20,Free Opal,Light Rail,1379
+Sep-20,Free Opal,Ferry,1163
+Sep-20,Other,Bus,16714
+Sep-20,School Opal,Train,846898
+Sep-20,School Opal,Metro,80811
+Sep-20,School Opal,Bus,1625421
+Sep-20,School Opal,Light Rail,39608
+Sep-20,School Opal,Ferry,5788
+Sep-20,Gold Opal,Train,1501862
+Sep-20,Gold Opal,Metro,62527
+Sep-20,Gold Opal,Bus,2603832
+Sep-20,Gold Opal,Light Rail,153899
+Sep-20,Gold Opal,Ferry,89053
+Sep-20,Opal Single Ticket,Ferry,2772
+Sep-20,Opal Single Ticket,Ferry,2306
+Sep-20,Opal Single Ticket,Light Rail,634
+Sep-20,Opal Single Ticket,Light Rail,394
+Sep-20,Opal Single Ticket,Train,31229
+Sep-20,Opal Single Ticket,Metro,1676
+Sep-20,Opal Single Ticket,Train,20973
+Sep-20,Opal Single Ticket,Metro,2653
+Oct-20,Adult,Train,9591778
+Oct-20,Adult,Metro,552180
+Oct-20,Adult,Bus,6006332
+Oct-20,Adult,Light Rail,632151
+Oct-20,Adult,Ferry,232826
+Oct-20,Adult,Bus,107
+Oct-20,Adult,Bus,46
+Oct-20,Adult,Bus,25
+Oct-20,Child/Youth,Train,638173
+Oct-20,Child/Youth,Metro,80137
+Oct-20,Child/Youth,Bus,838452
+Oct-20,Child/Youth,Light Rail,58974
+Oct-20,Child/Youth,Ferry,57850
+Oct-20,Opal Single Ticket,Bus,17
+Oct-20,Opal Single Ticket,Bus,10
+Oct-20,Opal Single Ticket,Bus,7
+Oct-20,Concession,Train,859401
+Oct-20,Concession,Metro,102905
+Oct-20,Concession,Bus,691561
+Oct-20,Concession,Light Rail,85187
+Oct-20,Concession,Ferry,14082
+Oct-20,CTP,Train,2817668
+Oct-20,CTP,Metro,173066
+Oct-20,CTP,Bus,2395589
+Oct-20,CTP,Light Rail,274808
+Oct-20,CTP,Ferry,128751
+Oct-20,Day Pass Ticket,Train,11
+Oct-20,Day Pass Ticket,Bus,1
+Oct-20,Day Pass Ticket,Ferry,4
+Oct-20,Day Pass Ticket,Train,523
+Oct-20,Day Pass Ticket,Metro,13
+Oct-20,Day Pass Ticket,Bus,527
+Oct-20,Day Pass Ticket,Light Rail,30
+Oct-20,Day Pass Ticket,Ferry,20
+Oct-20,Other,Train,217613
+Oct-20,Other,Metro,6414
+Oct-20,Other,Bus,56430
+Oct-20,Other,Light Rail,5719
+Oct-20,Other,Ferry,3562
+Oct-20,Free Opal,Train,18019
+Oct-20,Free Opal,Metro,945
+Oct-20,Free Opal,Bus,24881
+Oct-20,Free Opal,Light Rail,1541
+Oct-20,Free Opal,Ferry,1425
+Oct-20,Other,Bus,16944
+Oct-20,School Opal,Train,646636
+Oct-20,School Opal,Metro,63594
+Oct-20,School Opal,Bus,1261371
+Oct-20,School Opal,Light Rail,28522
+Oct-20,School Opal,Ferry,4702
+Oct-20,Gold Opal,Train,1644798
+Oct-20,Gold Opal,Metro,68481
+Oct-20,Gold Opal,Bus,2766738
+Oct-20,Gold Opal,Light Rail,188672
+Oct-20,Gold Opal,Ferry,106677
+Oct-20,Opal Single Ticket,Ferry,5593
+Oct-20,Opal Single Ticket,Ferry,5240
+Oct-20,Opal Single Ticket,Light Rail,1075
+Oct-20,Opal Single Ticket,Light Rail,866
+Oct-20,Opal Single Ticket,Train,39312
+Oct-20,Opal Single Ticket,Metro,2060
+Oct-20,Opal Single Ticket,Train,28525
+Oct-20,Opal Single Ticket,Metro,3007
+Nov-20,Adult,Train,9919415
+Nov-20,Adult,Metro,617476
+Nov-20,Adult,Bus,6166389
+Nov-20,Adult,Light Rail,685141
+Nov-20,Adult,Ferry,219061
+Nov-20,Adult,Bus,78
+Nov-20,Adult,Bus,30
+Nov-20,Adult,Bus,13
+Nov-20,Child/Youth,Train,514868
+Nov-20,Child/Youth,Metro,66747
+Nov-20,Child/Youth,Bus,704689
+Nov-20,Child/Youth,Light Rail,45912
+Nov-20,Child/Youth,Ferry,28016
+Nov-20,Opal Single Ticket,Bus,4
+Nov-20,Opal Single Ticket,Bus,7
+Nov-20,Opal Single Ticket,Bus,4
+Nov-20,Concession,Train,837790
+Nov-20,Concession,Metro,86880
+Nov-20,Concession,Bus,678187
+Nov-20,Concession,Light Rail,85355
+Nov-20,Concession,Ferry,13061
+Nov-20,CTP,Train,3065452
+Nov-20,CTP,Metro,201491
+Nov-20,CTP,Bus,2558091
+Nov-20,CTP,Light Rail,314136
+Nov-20,CTP,Ferry,132605
+Nov-20,Day Pass Ticket,Train,29
+Nov-20,Day Pass Ticket,Bus,17
+Nov-20,Day Pass Ticket,Train,522
+Nov-20,Day Pass Ticket,Metro,1
+Nov-20,Day Pass Ticket,Bus,563
+Nov-20,Day Pass Ticket,Light Rail,23
+Nov-20,Day Pass Ticket,Ferry,12
+Nov-20,Other,Train,226179
+Nov-20,Other,Metro,7401
+Nov-20,Other,Bus,59168
+Nov-20,Other,Light Rail,5995
+Nov-20,Other,Ferry,3443
+Nov-20,Free Opal,Train,19717
+Nov-20,Free Opal,Metro,1081
+Nov-20,Free Opal,Bus,26771
+Nov-20,Free Opal,Light Rail,1759
+Nov-20,Free Opal,Ferry,1514
+Nov-20,Other,Bus,17146
+Nov-20,School Opal,Train,900820
+Nov-20,School Opal,Metro,93904
+Nov-20,School Opal,Bus,1701786
+Nov-20,School Opal,Light Rail,38838
+Nov-20,School Opal,Ferry,7451
+Nov-20,Gold Opal,Train,1767809
+Nov-20,Gold Opal,Metro,81964
+Nov-20,Gold Opal,Bus,2896802
+Nov-20,Gold Opal,Light Rail,213033
+Nov-20,Gold Opal,Ferry,116804
+Nov-20,Opal Single Ticket,Ferry,4573
+Nov-20,Opal Single Ticket,Ferry,2573
+Nov-20,Opal Single Ticket,Light Rail,1026
+Nov-20,Opal Single Ticket,Light Rail,597
+Nov-20,Opal Single Ticket,Train,41236
+Nov-20,Opal Single Ticket,Metro,2462
+Nov-20,Opal Single Ticket,Train,23433
+Nov-20,Opal Single Ticket,Metro,2839
+Dec-20,Adult,Train,9225046
+Dec-20,Adult,Metro,583500
+Dec-20,Adult,Bus,5739175
+Dec-20,Adult,Light Rail,716948
+Dec-20,Adult,Ferry,197131
+Dec-20,Adult,Bus,96
+Dec-20,Adult,Bus,30
+Dec-20,Adult,Bus,6
+Dec-20,Child/Youth,Train,635972
+Dec-20,Child/Youth,Metro,94959
+Dec-20,Child/Youth,Bus,800460
+Dec-20,Child/Youth,Light Rail,64923
+Dec-20,Child/Youth,Ferry,34165
+Dec-20,Opal Single Ticket,Bus,1
+Dec-20,Opal Single Ticket,Bus,6
+Dec-20,Opal Single Ticket,Bus,2
+Dec-20,Concession,Train,756484
+Dec-20,Concession,Metro,78503
+Dec-20,Concession,Bus,580697
+Dec-20,Concession,Light Rail,71350
+Dec-20,Concession,Ferry,11777
+Dec-20,CTP,Train,3091734
+Dec-20,CTP,Metro,215788
+Dec-20,CTP,Bus,2549345
+Dec-20,CTP,Light Rail,350597
+Dec-20,CTP,Ferry,126639
+Dec-20,Day Pass Ticket,Train,12
+Dec-20,Day Pass Ticket,Bus,11
+Dec-20,Day Pass Ticket,Light Rail,2
+Dec-20,Day Pass Ticket,Train,641
+Dec-20,Day Pass Ticket,Metro,9
+Dec-20,Day Pass Ticket,Bus,618
+Dec-20,Day Pass Ticket,Light Rail,21
+Dec-20,Day Pass Ticket,Ferry,15
+Dec-20,Other,Train,226494
+Dec-20,Other,Metro,7699
+Dec-20,Other,Bus,56361
+Dec-20,Other,Light Rail,6826
+Dec-20,Other,Ferry,2932
+Dec-20,Free Opal,Train,18057
+Dec-20,Free Opal,Metro,1082
+Dec-20,Free Opal,Bus,25512
+Dec-20,Free Opal,Light Rail,1830
+Dec-20,Free Opal,Ferry,1292
+Dec-20,Other,Bus,17201
+Dec-20,School Opal,Train,429805
+Dec-20,School Opal,Metro,51121
+Dec-20,School Opal,Bus,780929
+Dec-20,School Opal,Light Rail,20519
+Dec-20,School Opal,Ferry,4291
+Dec-20,Gold Opal,Train,1706291
+Dec-20,Gold Opal,Metro,77723
+Dec-20,Gold Opal,Bus,2841423
+Dec-20,Gold Opal,Light Rail,216952
+Dec-20,Gold Opal,Ferry,93970
+Dec-20,Opal Single Ticket,Ferry,5608
+Dec-20,Opal Single Ticket,Ferry,3470
+Dec-20,Opal Single Ticket,Light Rail,1418
+Dec-20,Opal Single Ticket,Light Rail,860
+Dec-20,Opal Single Ticket,Train,51766
+Dec-20,Opal Single Ticket,Metro,3080
+Dec-20,Opal Single Ticket,Train,31494
+Dec-20,Opal Single Ticket,Metro,4100
+Jan-21,Adult,Train,7869191
+Jan-21,Adult,Metro,489531
+Jan-21,Adult,Bus,5148624
+Jan-21,Adult,Light Rail,627839
+Jan-21,Adult,Ferry,211318
+Jan-21,Adult,Bus,61
+Jan-21,Adult,Bus,23
+Jan-21,Adult,Bus,9
+Jan-21,Child/Youth,Train,715610
+Jan-21,Child/Youth,Metro,105764
+Jan-21,Child/Youth,Bus,887024
+Jan-21,Child/Youth,Light Rail,77802
+Jan-21,Child/Youth,Ferry,62949
+Jan-21,Opal Single Ticket,Bus,17
+Jan-21,Opal Single Ticket,Bus,2
+Jan-21,Concession,Train,628940
+Jan-21,Concession,Metro,67660
+Jan-21,Concession,Bus,499048
+Jan-21,Concession,Light Rail,64830
+Jan-21,Concession,Ferry,13986
+Jan-21,CTP,Train,2686459
+Jan-21,CTP,Metro,180974
+Jan-21,CTP,Bus,2416896
+Jan-21,CTP,Light Rail,309592
+Jan-21,CTP,Ferry,141585
+Jan-21,Day Pass Ticket,Train,1
+Jan-21,Day Pass Ticket,Bus,2
+Jan-21,Day Pass Ticket,Ferry,1
+Jan-21,Day Pass Ticket,Train,721
+Jan-21,Day Pass Ticket,Metro,6
+Jan-21,Day Pass Ticket,Bus,604
+Jan-21,Day Pass Ticket,Light Rail,27
+Jan-21,Day Pass Ticket,Ferry,18
+Jan-21,Other,Train,205188
+Jan-21,Other,Metro,6574
+Jan-21,Other,Bus,48782
+Jan-21,Other,Light Rail,5735
+Jan-21,Other,Ferry,3292
+Jan-21,Free Opal,Train,13909
+Jan-21,Free Opal,Metro,812
+Jan-21,Free Opal,Bus,21806
+Jan-21,Free Opal,Light Rail,1690
+Jan-21,Free Opal,Ferry,1329
+Jan-21,Other,Bus,15373
+Jan-21,School Opal,Train,50576
+Jan-21,School Opal,Metro,5223
+Jan-21,School Opal,Bus,81935
+Jan-21,School Opal,Light Rail,2499
+Jan-21,School Opal,Ferry,730
+Jan-21,Gold Opal,Train,1384427
+Jan-21,Gold Opal,Metro,62489
+Jan-21,Gold Opal,Bus,2447119
+Jan-21,Gold Opal,Light Rail,181710
+Jan-21,Gold Opal,Ferry,94831
+Jan-21,Opal Single Ticket,Ferry,4247
+Jan-21,Opal Single Ticket,Ferry,4985
+Jan-21,Opal Single Ticket,Light Rail,918
+Jan-21,Opal Single Ticket,Light Rail,987
+Jan-21,Opal Single Ticket,Train,31739
+Jan-21,Opal Single Ticket,Metro,1901
+Jan-21,Opal Single Ticket,Train,29775
+Jan-21,Opal Single Ticket,Metro,3751
+Feb-21,Adult,Train,9681207
+Feb-21,Adult,Metro,642411
+Feb-21,Adult,Bus,5907430
+Feb-21,Adult,Light Rail,759987
+Feb-21,Adult,Ferry,218010
+Feb-21,Adult,Bus,152
+Feb-21,Adult,Bus,33
+Feb-21,Adult,Bus,11
+Feb-21,Child/Youth,Train,556563
+Feb-21,Child/Youth,Metro,77584
+Feb-21,Child/Youth,Bus,737454
+Feb-21,Child/Youth,Light Rail,67431
+Feb-21,Child/Youth,Ferry,25386
+Feb-21,Opal Single Ticket,Bus,3
+Feb-21,Opal Single Ticket,Bus,2
+Feb-21,Concession,Train,980597
+Feb-21,Concession,Metro,104930
+Feb-21,Concession,Bus,707314
+Feb-21,Concession,Light Rail,159731
+Feb-21,Concession,Ferry,15515
+Feb-21,CTP,Train,3440694
+Feb-21,CTP,Metro,236161
+Feb-21,CTP,Bus,2714548
+Feb-21,CTP,Light Rail,385649
+Feb-21,CTP,Ferry,148965
+Feb-21,Day Pass Ticket,Train,3
+Feb-21,Day Pass Ticket,Bus,15
+Feb-21,Day Pass Ticket,Train,605
+Feb-21,Day Pass Ticket,Metro,10
+Feb-21,Day Pass Ticket,Bus,667
+Feb-21,Day Pass Ticket,Light Rail,21
+Feb-21,Day Pass Ticket,Ferry,6
+Feb-21,Other,Train,221297
+Feb-21,Other,Metro,7230
+Feb-21,Other,Bus,55329
+Feb-21,Other,Light Rail,5960
+Feb-21,Other,Ferry,3479
+Feb-21,Free Opal,Train,20426
+Feb-21,Free Opal,Metro,1117
+Feb-21,Free Opal,Bus,26110
+Feb-21,Free Opal,Light Rail,1983
+Feb-21,Free Opal,Ferry,1444
+Feb-21,Other,Bus,18068
+Feb-21,School Opal,Train,1037993
+Feb-21,School Opal,Metro,103196
+Feb-21,School Opal,Bus,1989485
+Feb-21,School Opal,Light Rail,52130
+Feb-21,School Opal,Ferry,9873
+Feb-21,Gold Opal,Train,1758361
+Feb-21,Gold Opal,Metro,85141
+Feb-21,Gold Opal,Bus,2808255
+Feb-21,Gold Opal,Light Rail,228925
+Feb-21,Gold Opal,Ferry,118035
+Feb-21,Opal Single Ticket,Ferry,4346
+Feb-21,Opal Single Ticket,Ferry,2201
+Feb-21,Opal Single Ticket,Light Rail,884
+Feb-21,Opal Single Ticket,Light Rail,506
+Feb-21,Opal Single Ticket,Train,44261
+Feb-21,Opal Single Ticket,Metro,2486
+Feb-21,Opal Single Ticket,Train,23446
+Feb-21,Opal Single Ticket,Metro,2792
+Mar-21,Adult,Train,11142431
+Mar-21,Adult,Metro,753250
+Mar-21,Adult,Bus,6661997
+Mar-21,Adult,Light Rail,801365
+Mar-21,Adult,Ferry,237686
+Mar-21,Adult,Bus,92
+Mar-21,Adult,Bus,35
+Mar-21,Adult,Bus,19
+Mar-21,Child/Youth,Train,532750
+Mar-21,Child/Youth,Metro,69779
+Mar-21,Child/Youth,Bus,697395
+Mar-21,Child/Youth,Light Rail,52309
+Mar-21,Child/Youth,Ferry,31065
+Mar-21,Concession,Train,1540913
+Mar-21,Concession,Metro,202933
+Mar-21,Concession,Bus,1076821
+Mar-21,Concession,Light Rail,229557
+Mar-21,Concession,Ferry,16842
+Mar-21,CTP,Train,4083006
+Mar-21,CTP,Metro,282204
+Mar-21,CTP,Bus,3112024
+Mar-21,CTP,Light Rail,413285
+Mar-21,CTP,Ferry,165859
+Mar-21,Day Pass Ticket,Train,27
+Mar-21,Day Pass Ticket,Bus,31
+Mar-21,Day Pass Ticket,Train,725
+Mar-21,Day Pass Ticket,Metro,3
+Mar-21,Day Pass Ticket,Bus,725
+Mar-21,Day Pass Ticket,Light Rail,27
+Mar-21,Day Pass Ticket,Ferry,16
+Mar-21,Other,Train,251744
+Mar-21,Other,Metro,8584
+Mar-21,Other,Bus,62780
+Mar-21,Other,Light Rail,6407
+Mar-21,Other,Ferry,3991
+Mar-21,Free Opal,Train,23298
+Mar-21,Free Opal,Metro,1271
+Mar-21,Free Opal,Bus,29437
+Mar-21,Free Opal,Light Rail,2132
+Mar-21,Free Opal,Ferry,1492
+Mar-21,Other,Bus,21078
+Mar-21,School Opal,Train,1190300
+Mar-21,School Opal,Metro,122144
+Mar-21,School Opal,Bus,2153901
+Mar-21,School Opal,Light Rail,50776
+Mar-21,School Opal,Ferry,10491
+Mar-21,Gold Opal,Train,2071838
+Mar-21,Gold Opal,Metro,100401
+Mar-21,Gold Opal,Bus,3215739
+Mar-21,Gold Opal,Light Rail,259203
+Mar-21,Gold Opal,Ferry,133259
+Mar-21,Opal Single Ticket,Ferry,6248
+Mar-21,Opal Single Ticket,Ferry,3014
+Mar-21,Opal Single Ticket,Light Rail,1081
+Mar-21,Opal Single Ticket,Light Rail,492
+Mar-21,Opal Single Ticket,Train,60743
+Mar-21,Opal Single Ticket,Metro,2989
+Mar-21,Opal Single Ticket,Train,28028
+Mar-21,Opal Single Ticket,Metro,2756
+Apr-21,Adult,Train,10852255
+Apr-21,Adult,Metro,724933
+Apr-21,Adult,Bus,6250652
+Apr-21,Adult,Light Rail,934599
+Apr-21,Adult,Ferry,340228
+Apr-21,Adult,Bus,73
+Apr-21,Adult,Bus,70
+Apr-21,Adult,Bus,17
+Apr-21,Child/Youth,Train,935882
+Apr-21,Child/Youth,Metro,112888
+Apr-21,Child/Youth,Bus,936865
+Apr-21,Child/Youth,Light Rail,125713
+Apr-21,Child/Youth,Ferry,96891
+Apr-21,Opal Single Ticket,Bus,5
+Apr-21,Opal Single Ticket,Bus,9
+Apr-21,Opal Single Ticket,Bus,1
+Apr-21,Concession,Train,1227628
+Apr-21,Concession,Metro,139038
+Apr-21,Concession,Bus,846573
+Apr-21,Concession,Light Rail,196902
+Apr-21,Concession,Ferry,17490
+Apr-21,CTP,Train,4379493
+Apr-21,CTP,Metro,294486
+Apr-21,CTP,Bus,3177099
+Apr-21,CTP,Light Rail,521713
+Apr-21,CTP,Ferry,247035
+Apr-21,Day Pass Ticket,Train,8
+Apr-21,Day Pass Ticket,Bus,5
+Apr-21,Day Pass Ticket,Train,584
+Apr-21,Day Pass Ticket,Metro,7
+Apr-21,Day Pass Ticket,Bus,502
+Apr-21,Day Pass Ticket,Light Rail,19
+Apr-21,Day Pass Ticket,Ferry,15
+Apr-21,Other,Train,239457
+Apr-21,Other,Metro,8072
+Apr-21,Other,Bus,60810
+Apr-21,Other,Light Rail,7916
+Apr-21,Other,Ferry,4982
+Apr-21,Free Opal,Train,23328
+Apr-21,Free Opal,Metro,1412
+Apr-21,Free Opal,Bus,28799
+Apr-21,Free Opal,Light Rail,2956
+Apr-21,Free Opal,Ferry,1974
+Apr-21,Other,Bus,19530
+Apr-21,School Opal,Train,534720
+Apr-21,School Opal,Metro,56909
+Apr-21,School Opal,Bus,946897
+Apr-21,School Opal,Light Rail,22281
+Apr-21,School Opal,Ferry,4864
+Apr-21,Gold Opal,Train,2218946
+Apr-21,Gold Opal,Metro,107808
+Apr-21,Gold Opal,Bus,3203204
+Apr-21,Gold Opal,Light Rail,330539
+Apr-21,Gold Opal,Ferry,178749
+Apr-21,Opal Single Ticket,Ferry,18735
+Apr-21,Opal Single Ticket,Ferry,15144
+Apr-21,Opal Single Ticket,Light Rail,2765
+Apr-21,Opal Single Ticket,Light Rail,2219
+Apr-21,Opal Single Ticket,Train,83270
+Apr-21,Opal Single Ticket,Metro,3971
+Apr-21,Opal Single Ticket,Train,56928
+Apr-21,Opal Single Ticket,Metro,5286
+May-21,Adult,Train,11083214
+May-21,Adult,Metro,784759
+May-21,Adult,Bus,6504495
+May-21,Adult,Light Rail,911130
+May-21,Adult,Ferry,246613
+May-21,Adult,Bus,89
+May-21,Adult,Bus,22
+May-21,Adult,Bus,15
+May-21,Child/Youth,Train,551285
+May-21,Child/Youth,Metro,76183
+May-21,Child/Youth,Bus,684511
+May-21,Child/Youth,Light Rail,60324
+May-21,Child/Youth,Ferry,31202
+May-21,Opal Single Ticket,Bus,7
+May-21,Opal Single Ticket,Bus,1
+May-21,Opal Single Ticket,Bus,3
+May-21,Concession,Train,1268868
+May-21,Concession,Metro,172821
+May-21,Concession,Bus,920032
+May-21,Concession,Light Rail,143357
+May-21,Concession,Ferry,14721
+May-21,CTP,Train,4502379
+May-21,CTP,Metro,324035
+May-21,CTP,Bus,3319276
+May-21,CTP,Light Rail,520234
+May-21,CTP,Ferry,192875
+May-21,Day Pass Ticket,Train,36
+May-21,Day Pass Ticket,Bus,5
+May-21,Day Pass Ticket,Light Rail,87
+May-21,Day Pass Ticket,Ferry,612
+May-21,Day Pass Ticket,Train,690
+May-21,Day Pass Ticket,Metro,3
+May-21,Day Pass Ticket,Bus,727
+May-21,Day Pass Ticket,Light Rail,25
+May-21,Day Pass Ticket,Ferry,38
+May-21,Other,Train,243732
+May-21,Other,Metro,9284
+May-21,Other,Bus,63334
+May-21,Other,Light Rail,7962
+May-21,Other,Ferry,4583
+May-21,Free Opal,Train,22989
+May-21,Free Opal,Metro,1426
+May-21,Free Opal,Bus,28884
+May-21,Free Opal,Light Rail,2610
+May-21,Free Opal,Ferry,1648
+May-21,Other,Bus,20804
+May-21,School Opal,Train,1070994
+May-21,School Opal,Metro,117474
+May-21,School Opal,Bus,1849310
+May-21,School Opal,Light Rail,41673
+May-21,School Opal,Ferry,8929
+May-21,Gold Opal,Train,2196224
+May-21,Gold Opal,Metro,114252
+May-21,Gold Opal,Bus,3258937
+May-21,Gold Opal,Light Rail,309228
+May-21,Gold Opal,Ferry,146719
+May-21,Opal Single Ticket,Ferry,8717
+May-21,Opal Single Ticket,Ferry,4322
+May-21,Opal Single Ticket,Light Rail,1663
+May-21,Opal Single Ticket,Light Rail,992
+May-21,Opal Single Ticket,Train,66707
+May-21,Opal Single Ticket,Metro,3415
+May-21,Opal Single Ticket,Train,31491
+May-21,Opal Single Ticket,Metro,3857
+Jun-21,Adult,Train,9207753
+Jun-21,Adult,Metro,617927
+Jun-21,Adult,Bus,5480610
+Jun-21,Adult,Light Rail,736205
+Jun-21,Adult,Ferry,185678
+Jun-21,Adult,Bus,66
+Jun-21,Adult,Bus,28
+Jun-21,Adult,Bus,13
+Jun-21,Child/Youth,Train,432363
+Jun-21,Child/Youth,Metro,55744
+Jun-21,Child/Youth,Bus,570279
+Jun-21,Child/Youth,Light Rail,46986
+Jun-21,Child/Youth,Ferry,26586
+Jun-21,Opal Single Ticket,Bus,3
+Jun-21,Opal Single Ticket,Bus,1
+Jun-21,Opal Single Ticket,Bus,2
+Jun-21,Concession,Train,902120
+Jun-21,Concession,Metro,104679
+Jun-21,Concession,Bus,682886
+Jun-21,Concession,Light Rail,181712
+Jun-21,Concession,Ferry,10512
+Jun-21,CTP,Train,3730766
+Jun-21,CTP,Metro,246817
+Jun-21,CTP,Bus,2814237
+Jun-21,CTP,Light Rail,429108
+Jun-21,CTP,Ferry,141456
+Jun-21,Day Pass Ticket,Train,10
+Jun-21,Day Pass Ticket,Bus,8
+Jun-21,Day Pass Ticket,Ferry,192
+Jun-21,Day Pass Ticket,Train,656
+Jun-21,Day Pass Ticket,Metro,5
+Jun-21,Day Pass Ticket,Bus,595
+Jun-21,Day Pass Ticket,Light Rail,17
+Jun-21,Day Pass Ticket,Ferry,4
+Jun-21,Other,Train,174401
+Jun-21,Other,Metro,6129
+Jun-21,Other,Bus,44912
+Jun-21,Other,Light Rail,5312
+Jun-21,Other,Ferry,2662
+Jun-21,Free Opal,Train,18227
+Jun-21,Free Opal,Metro,1070
+Jun-21,Free Opal,Bus,24437
+Jun-21,Free Opal,Light Rail,2067
+Jun-21,Free Opal,Ferry,1268
+Jun-21,Other,Bus,18803
+Jun-21,School Opal,Train,834277
+Jun-21,School Opal,Metro,94870
+Jun-21,School Opal,Bus,1404565
+Jun-21,School Opal,Light Rail,30742
+Jun-21,School Opal,Ferry,6187
+Jun-21,Gold Opal,Train,1818996
+Jun-21,Gold Opal,Metro,89799
+Jun-21,Gold Opal,Bus,2817884
+Jun-21,Gold Opal,Light Rail,238740
+Jun-21,Gold Opal,Ferry,103636
+Jun-21,Opal Single Ticket,Ferry,5169
+Jun-21,Opal Single Ticket,Ferry,3029
+Jun-21,Opal Single Ticket,Light Rail,1127
+Jun-21,Opal Single Ticket,Light Rail,685
+Jun-21,Opal Single Ticket,Train,47869
+Jun-21,Opal Single Ticket,Metro,2213
+Jun-21,Opal Single Ticket,Train,26038
+Jun-21,Opal Single Ticket,Metro,2771
+Jul-21,Adult,Train,3303530
+Jul-21,Adult,Metro,179849
+Jul-21,Adult,Bus,2299880
+Jul-21,Adult,Light Rail,186420
+Jul-21,Adult,Ferry,30457
+Jul-21,Adult,Bus,56
+Jul-21,Adult,Bus,25
+Jul-21,Adult,Bus,11
+Jul-21,Child/Youth,Train,66913
+Jul-21,Child/Youth,Metro,5913
+Jul-21,Child/Youth,Bus,167037
+Jul-21,Child/Youth,Light Rail,6128
+Jul-21,Child/Youth,Ferry,3759
+Jul-21,Opal Single Ticket,Bus,1
+Jul-21,Opal Single Ticket,Bus,1
+Jul-21,Concession,Train,171887
+Jul-21,Concession,Metro,17652
+Jul-21,Concession,Bus,179630
+Jul-21,Concession,Light Rail,14281
+Jul-21,Concession,Ferry,1684
+Jul-21,CTP,Train,1055844
+Jul-21,CTP,Metro,62260
+Jul-21,CTP,Bus,1083341
+Jul-21,CTP,Light Rail,89160
+Jul-21,CTP,Ferry,25112
+Jul-21,Day Pass Ticket,Train,386
+Jul-21,Day Pass Ticket,Metro,2
+Jul-21,Day Pass Ticket,Bus,386
+Jul-21,Day Pass Ticket,Light Rail,8
+Jul-21,Day Pass Ticket,Ferry,4
+Jul-21,Other,Train,90532
+Jul-21,Other,Metro,2308
+Jul-21,Other,Bus,20412
+Jul-21,Other,Light Rail,1630
+Jul-21,Other,Ferry,734
+Jul-21,Free Opal,Train,5093
+Jul-21,Free Opal,Metro,191
+Jul-21,Free Opal,Bus,10140
+Jul-21,Free Opal,Light Rail,550
+Jul-21,Free Opal,Ferry,353
+Jul-21,Other,Bus,9478
+Jul-21,School Opal,Train,13373
+Jul-21,School Opal,Metro,616
+Jul-21,School Opal,Bus,74866
+Jul-21,School Opal,Light Rail,1199
+Jul-21,School Opal,Ferry,703
+Jul-21,Gold Opal,Train,542932
+Jul-21,Gold Opal,Metro,18309
+Jul-21,Gold Opal,Bus,1261330
+Jul-21,Gold Opal,Light Rail,51834
+Jul-21,Gold Opal,Ferry,17700
+Jul-21,Opal Single Ticket,Ferry,196
+Jul-21,Opal Single Ticket,Ferry,185
+Jul-21,Opal Single Ticket,Light Rail,154
+Jul-21,Opal Single Ticket,Light Rail,127
+Jul-21,Opal Single Ticket,Train,10479
+Jul-21,Opal Single Ticket,Metro,455
+Jul-21,Opal Single Ticket,Train,7864
+Jul-21,Opal Single Ticket,Metro,640
+Aug-21,Adult,Train,2672862
+Aug-21,Adult,Metro,132635
+Aug-21,Adult,Bus,1945211
+Aug-21,Adult,Light Rail,153727
+Aug-21,Adult,Ferry,22078
+Aug-21,Adult,Bus,62
+Aug-21,Adult,Bus,29
+Aug-21,Adult,Bus,9
+Aug-21,Child/Youth,Train,38935
+Aug-21,Child/Youth,Metro,3023
+Aug-21,Child/Youth,Bus,100445
+Aug-21,Child/Youth,Light Rail,2399
+Aug-21,Child/Youth,Ferry,1563
+Aug-21,Opal Single Ticket,Bus,1
+Aug-21,Concession,Train,122594
+Aug-21,Concession,Metro,11687
+Aug-21,Concession,Bus,129968
+Aug-21,Concession,Light Rail,9962
+Aug-21,Concession,Ferry,951
+Aug-21,CTP,Train,902288
+Aug-21,CTP,Metro,44113
+Aug-21,CTP,Bus,949416
+Aug-21,CTP,Light Rail,75088
+Aug-21,CTP,Ferry,20015
+Aug-21,Day Pass Ticket,Train,1
+Aug-21,Day Pass Ticket,Bus,4
+Aug-21,Day Pass Ticket,Train,432
+Aug-21,Day Pass Ticket,Metro,4
+Aug-21,Day Pass Ticket,Bus,405
+Aug-21,Day Pass Ticket,Light Rail,12
+Aug-21,Day Pass Ticket,Ferry,3
+Aug-21,Other,Train,63791
+Aug-21,Other,Metro,1519
+Aug-21,Other,Bus,17777
+Aug-21,Other,Light Rail,1411
+Aug-21,Other,Ferry,739
+Aug-21,Free Opal,Train,4012
+Aug-21,Free Opal,Metro,128
+Aug-21,Free Opal,Bus,8885
+Aug-21,Free Opal,Light Rail,401
+Aug-21,Free Opal,Ferry,169
+Aug-21,Other,Bus,6463
+Aug-21,School Opal,Train,8871
+Aug-21,School Opal,Metro,705
+Aug-21,School Opal,Bus,48228
+Aug-21,School Opal,Light Rail,604
+Aug-21,School Opal,Ferry,321
+Aug-21,Gold Opal,Train,419744
+Aug-21,Gold Opal,Metro,13021
+Aug-21,Gold Opal,Bus,1080294
+Aug-21,Gold Opal,Light Rail,42738
+Aug-21,Gold Opal,Ferry,13459
+Aug-21,Opal Single Ticket,Ferry,172
+Aug-21,Opal Single Ticket,Ferry,148
+Aug-21,Opal Single Ticket,Light Rail,72
+Aug-21,Opal Single Ticket,Light Rail,52
+Aug-21,Opal Single Ticket,Train,7516
+Aug-21,Opal Single Ticket,Metro,276
+Aug-21,Opal Single Ticket,Train,4843
+Aug-21,Opal Single Ticket,Metro,507
+Sep-21,Adult,Train,2823340
+Sep-21,Adult,Metro,136617
+Sep-21,Adult,Bus,2026419
+Sep-21,Adult,Light Rail,181468
+Sep-21,Adult,Ferry,28620
+Sep-21,Adult,Bus,47
+Sep-21,Adult,Bus,17
+Sep-21,Adult,Bus,8
+Sep-21,Child/Youth,Train,62255
+Sep-21,Child/Youth,Metro,4479
+Sep-21,Child/Youth,Bus,152734
+Sep-21,Child/Youth,Light Rail,5447
+Sep-21,Child/Youth,Ferry,4618
+Sep-21,Opal Single Ticket,Bus,1
+Sep-21,Concession,Train,130994
+Sep-21,Concession,Metro,11143
+Sep-21,Concession,Bus,134804
+Sep-21,Concession,Light Rail,11478
+Sep-21,Concession,Ferry,1114
+Sep-21,CTP,Train,1010138
+Sep-21,CTP,Metro,47090
+Sep-21,CTP,Bus,1072112
+Sep-21,CTP,Light Rail,95276
+Sep-21,CTP,Ferry,26730
+Sep-21,Day Pass Ticket,Train,6
+Sep-21,Day Pass Ticket,Bus,6
+Sep-21,Day Pass Ticket,Train,393
+Sep-21,Day Pass Ticket,Metro,7
+Sep-21,Day Pass Ticket,Bus,424
+Sep-21,Day Pass Ticket,Light Rail,14
+Sep-21,Other,Train,63703
+Sep-21,Other,Metro,1147
+Sep-21,Other,Bus,21387
+Sep-21,Other,Light Rail,1728
+Sep-21,Other,Ferry,876
+Sep-21,Free Opal,Train,4688
+Sep-21,Free Opal,Metro,139
+Sep-21,Free Opal,Bus,9912
+Sep-21,Free Opal,Light Rail,509
+Sep-21,Free Opal,Ferry,272
+Sep-21,Other,Bus,7547
+Sep-21,School Opal,Train,4961
+Sep-21,School Opal,Metro,478
+Sep-21,School Opal,Bus,21891
+Sep-21,School Opal,Light Rail,264
+Sep-21,School Opal,Ferry,115
+Sep-21,Gold Opal,Train,477776
+Sep-21,Gold Opal,Metro,15393
+Sep-21,Gold Opal,Bus,1209858
+Sep-21,Gold Opal,Light Rail,53835
+Sep-21,Gold Opal,Ferry,19998
+Sep-21,Opal Single Ticket,Ferry,214
+Sep-21,Opal Single Ticket,Ferry,367
+Sep-21,Opal Single Ticket,Light Rail,77
+Sep-21,Opal Single Ticket,Light Rail,67
+Sep-21,Opal Single Ticket,Train,8100
+Sep-21,Opal Single Ticket,Metro,293
+Sep-21,Opal Single Ticket,Train,5699
+Sep-21,Opal Single Ticket,Metro,634
+Oct-21,Adult,Train,4898487
+Oct-21,Adult,Metro,280790
+Oct-21,Adult,Bus,3249805
+Oct-21,Adult,Light Rail,372123
+Oct-21,Adult,Ferry,112548
+Oct-21,Adult,Bus,131
+Oct-21,Adult,Bus,51
+Oct-21,Adult,Bus,15
+Oct-21,Child/Youth,Train,268070
+Oct-21,Child/Youth,Metro,36456
+Oct-21,Child/Youth,Bus,381176
+Oct-21,Child/Youth,Light Rail,25393
+Oct-21,Child/Youth,Ferry,21759
+Oct-21,Opal Single Ticket,Bus,2
+Oct-21,Opal Single Ticket,Bus,18
+Oct-21,Opal Single Ticket,Bus,3
+Oct-21,Concession,Train,377617
+Oct-21,Concession,Metro,44037
+Oct-21,Concession,Bus,314007
+Oct-21,Concession,Light Rail,43886
+Oct-21,Concession,Ferry,7215
+Oct-21,CTP,Train,2257721
+Oct-21,CTP,Metro,136772
+Oct-21,CTP,Bus,1961145
+Oct-21,CTP,Light Rail,255765
+Oct-21,CTP,Ferry,109228
+Oct-21,Day Pass Ticket,Train,6
+Oct-21,Day Pass Ticket,Bus,2
+Oct-21,Day Pass Ticket,Light Rail,1
+Oct-21,Day Pass Ticket,Train,476
+Oct-21,Day Pass Ticket,Metro,4
+Oct-21,Day Pass Ticket,Bus,512
+Oct-21,Day Pass Ticket,Light Rail,29
+Oct-21,Day Pass Ticket,Ferry,2
+Oct-21,Other,Train,116346
+Oct-21,Other,Metro,3504
+Oct-21,Other,Bus,35329
+Oct-21,Other,Light Rail,3691
+Oct-21,Other,Ferry,2394
+Oct-21,Free Opal,Train,10412
+Oct-21,Free Opal,Metro,569
+Oct-21,Free Opal,Bus,16626
+Oct-21,Free Opal,Light Rail,1076
+Oct-21,Free Opal,Ferry,880
+Oct-21,Other,Bus,12369
+Oct-21,School Opal,Train,245858
+Oct-21,School Opal,Metro,28833
+Oct-21,School Opal,Bus,460443
+Oct-21,School Opal,Light Rail,11144
+Oct-21,School Opal,Ferry,2953
+Oct-21,Gold Opal,Train,1045123
+Oct-21,Gold Opal,Metro,48030
+Oct-21,Gold Opal,Bus,1967905
+Oct-21,Gold Opal,Light Rail,131606
+Oct-21,Gold Opal,Ferry,71248
+Oct-21,Opal Single Ticket,Ferry,2157
+Oct-21,Opal Single Ticket,Ferry,2099
+Oct-21,Opal Single Ticket,Light Rail,385
+Oct-21,Opal Single Ticket,Light Rail,303
+Oct-21,Opal Single Ticket,Train,20147
+Oct-21,Opal Single Ticket,Metro,1249
+Oct-21,Opal Single Ticket,Train,16303
+Oct-21,Opal Single Ticket,Metro,1933
+Nov-21,Adult,Train,7240864
+Nov-21,Adult,Metro,452954
+Nov-21,Adult,Bus,4475868
+Nov-21,Adult,Light Rail,436404
+Nov-21,Adult,Ferry,149851
+Nov-21,Adult,Bus,93
+Nov-21,Adult,Bus,34
+Nov-21,Adult,Bus,10
+Nov-21,Child/Youth,Train,385203
+Nov-21,Child/Youth,Metro,55977
+Nov-21,Child/Youth,Bus,519653
+Nov-21,Child/Youth,Light Rail,22022
+Nov-21,Child/Youth,Ferry,19692
+Nov-21,Opal Single Ticket,Bus,3
+Nov-21,Concession,Train,625489
+Nov-21,Concession,Metro,72774
+Nov-21,Concession,Bus,479864
+Nov-21,Concession,Light Rail,61425
+Nov-21,Concession,Ferry,8697
+Nov-21,CTP,Train,3480234
+Nov-21,CTP,Metro,216940
+Nov-21,CTP,Bus,2702675
+Nov-21,CTP,Light Rail,318933
+Nov-21,CTP,Ferry,145215
+Nov-21,Day Pass Ticket,Train,11
+Nov-21,Day Pass Ticket,Bus,3
+Nov-21,Day Pass Ticket,Light Rail,5
+Nov-21,Day Pass Ticket,Train,507
+Nov-21,Day Pass Ticket,Metro,5
+Nov-21,Day Pass Ticket,Bus,528
+Nov-21,Day Pass Ticket,Light Rail,17
+Nov-21,Day Pass Ticket,Ferry,2
+Nov-21,Other,Train,176091
+Nov-21,Other,Metro,5866
+Nov-21,Other,Bus,47652
+Nov-21,Other,Light Rail,4282
+Nov-21,Other,Ferry,2839
+Nov-21,Free Opal,Train,16182
+Nov-21,Free Opal,Metro,967
+Nov-21,Free Opal,Bus,22062
+Nov-21,Free Opal,Light Rail,1292
+Nov-21,Free Opal,Ferry,1169
+Nov-21,Other,Bus,17583
+Nov-21,School Opal,Train,947788
+Nov-21,School Opal,Metro,116422
+Nov-21,School Opal,Bus,1582582
+Nov-21,School Opal,Light Rail,25205
+Nov-21,School Opal,Ferry,8679
+Nov-21,Gold Opal,Train,1631839
+Nov-21,Gold Opal,Metro,81250
+Nov-21,Gold Opal,Bus,2587962
+Nov-21,Gold Opal,Light Rail,150267
+Nov-21,Gold Opal,Ferry,98389
+Nov-21,Opal Single Ticket,Ferry,4208
+Nov-21,Opal Single Ticket,Ferry,2455
+Nov-21,Opal Single Ticket,Light Rail,494
+Nov-21,Opal Single Ticket,Light Rail,293
+Nov-21,Opal Single Ticket,Train,41254
+Nov-21,Opal Single Ticket,Metro,2200
+Nov-21,Opal Single Ticket,Train,22923
+Nov-21,Opal Single Ticket,Metro,2666
+Dec-21,Adult,Train,6944384
+Dec-21,Adult,Metro,468401
+Dec-21,Adult,Bus,4224733
+Dec-21,Adult,Light Rail,567365
+Dec-21,Adult,Ferry,209567
+Dec-21,Adult,Bus,124
+Dec-21,Adult,Bus,44
+Dec-21,Adult,Bus,19
+Dec-21,Child/Youth,Train,562600
+Dec-21,Child/Youth,Metro,89830
+Dec-21,Child/Youth,Bus,637255
+Dec-21,Child/Youth,Light Rail,54227
+Dec-21,Child/Youth,Ferry,52941
+Dec-21,Opal Single Ticket,Bus,1
+Dec-21,Opal Single Ticket,Bus,2
+Dec-21,Concession,Train,639846
+Dec-21,Concession,Metro,79637
+Dec-21,Concession,Bus,471774
+Dec-21,Concession,Light Rail,68888
+Dec-21,Concession,Ferry,12388
+Dec-21,CTP,Train,3497237
+Dec-21,CTP,Metro,244548
+Dec-21,CTP,Bus,2631049
+Dec-21,CTP,Light Rail,403722
+Dec-21,CTP,Ferry,217890
+Dec-21,Day Pass Ticket,Train,14
+Dec-21,Day Pass Ticket,Bus,21
+Dec-21,Day Pass Ticket,Light Rail,3
+Dec-21,Day Pass Ticket,Ferry,7
+Dec-21,Day Pass Ticket,Train,601
+Dec-21,Day Pass Ticket,Metro,13
+Dec-21,Day Pass Ticket,Bus,604
+Dec-21,Day Pass Ticket,Light Rail,40
+Dec-21,Day Pass Ticket,Ferry,48
+Dec-21,Other,Train,176929
+Dec-21,Other,Metro,6606
+Dec-21,Other,Bus,47570
+Dec-21,Other,Light Rail,5869
+Dec-21,Other,Ferry,3825
+Dec-21,Free Opal,Train,15046
+Dec-21,Free Opal,Metro,899
+Dec-21,Free Opal,Bus,21412
+Dec-21,Free Opal,Light Rail,1851
+Dec-21,Free Opal,Ferry,1331
+Dec-21,Other,Bus,18475
+Dec-21,School Opal,Train,387366
+Dec-21,School Opal,Metro,55544
+Dec-21,School Opal,Bus,603437
+Dec-21,School Opal,Light Rail,14805
+Dec-21,School Opal,Ferry,5125
+Dec-21,Gold Opal,Train,1586825
+Dec-21,Gold Opal,Metro,79251
+Dec-21,Gold Opal,Bus,2490492
+Dec-21,Gold Opal,Light Rail,187658
+Dec-21,Gold Opal,Ferry,107297
+Dec-21,Opal Single Ticket,Ferry,12391
+Dec-21,Opal Single Ticket,Ferry,9570
+Dec-21,Opal Single Ticket,Light Rail,1140
+Dec-21,Opal Single Ticket,Light Rail,855
+Dec-21,Opal Single Ticket,Train,55444
+Dec-21,Opal Single Ticket,Metro,3228
+Dec-21,Opal Single Ticket,Train,34888
+Dec-21,Opal Single Ticket,Metro,4165
+Jan-22,Adult,Train,5176801
+Jan-22,Adult,Metro,303258
+Jan-22,Adult,Bus,3280150
+Jan-22,Adult,Light Rail,451366
+Jan-22,Adult,Ferry,201854
+Jan-22,Adult,Bus,93
+Jan-22,Adult,Bus,21
+Jan-22,Adult,Bus,14
+Jan-22,Child/Youth,Train,505128
+Jan-22,Child/Youth,Metro,72529
+Jan-22,Child/Youth,Bus,552340
+Jan-22,Child/Youth,Light Rail,55106
+Jan-22,Child/Youth,Ferry,70512
+Jan-22,Opal Single Ticket,Bus,2
+Jan-22,Opal Single Ticket,Bus,1
+Jan-22,Concession,Train,429252
+Jan-22,Concession,Metro,50098
+Jan-22,Concession,Bus,332743
+Jan-22,Concession,Light Rail,45876
+Jan-22,Concession,Ferry,10798
+Jan-22,CTP,Train,2554131
+Jan-22,CTP,Metro,161355
+Jan-22,CTP,Bus,2088109
+Jan-22,CTP,Light Rail,312879
+Jan-22,CTP,Ferry,211482
+Jan-22,Day Pass Ticket,Train,5
+Jan-22,Day Pass Ticket,Bus,9
+Jan-22,Day Pass Ticket,Light Rail,1
+Jan-22,Day Pass Ticket,Ferry,2
+Jan-22,Day Pass Ticket,Train,574
+Jan-22,Day Pass Ticket,Metro,5
+Jan-22,Day Pass Ticket,Bus,437
+Jan-22,Day Pass Ticket,Light Rail,26
+Jan-22,Day Pass Ticket,Ferry,8
+Jan-22,Other,Train,139527
+Jan-22,Other,Metro,4492
+Jan-22,Other,Bus,37542
+Jan-22,Other,Light Rail,4664
+Jan-22,Other,Ferry,4167
+Jan-22,Free Opal,Train,10852
+Jan-22,Free Opal,Metro,620
+Jan-22,Free Opal,Bus,16557
+Jan-22,Free Opal,Light Rail,1471
+Jan-22,Free Opal,Ferry,1295
+Jan-22,Other,Bus,15290
+Jan-22,School Opal,Train,18336
+Jan-22,School Opal,Metro,2758
+Jan-22,School Opal,Bus,23011
+Jan-22,School Opal,Light Rail,793
+Jan-22,School Opal,Ferry,584
+Jan-22,Gold Opal,Train,1149408
+Jan-22,Gold Opal,Metro,48621
+Jan-22,Gold Opal,Bus,1915765
+Jan-22,Gold Opal,Light Rail,143982
+Jan-22,Gold Opal,Ferry,96703
+Jan-22,Opal Single Ticket,Ferry,15507
+Jan-22,Opal Single Ticket,Ferry,13836
+Jan-22,Opal Single Ticket,Light Rail,1067
+Jan-22,Opal Single Ticket,Light Rail,873
+Jan-22,Opal Single Ticket,Train,40368
+Jan-22,Opal Single Ticket,Metro,1974
+Jan-22,Opal Single Ticket,Train,32074
+Jan-22,Opal Single Ticket,Metro,3432
+Feb-22,Adult,Train,6040182
+Feb-22,Adult,Metro,392103
+Feb-22,Adult,Bus,4244808
+Feb-22,Adult,Light Rail,553409
+Feb-22,Adult,Ferry,173621
+Feb-22,Adult,Bus,73
+Feb-22,Adult,Bus,28
+Feb-22,Adult,Bus,7
+Feb-22,Child/Youth,Train,446173
+Feb-22,Child/Youth,Metro,69520
+Feb-22,Child/Youth,Bus,562929
+Feb-22,Child/Youth,Light Rail,51964
+Feb-22,Child/Youth,Ferry,23157
+Feb-22,Opal Single Ticket,Bus,1
+Feb-22,Opal Single Ticket,Bus,3
+Feb-22,Concession,Train,707095
+Feb-22,Concession,Metro,90031
+Feb-22,Concession,Bus,566350
+Feb-22,Concession,Light Rail,140277
+Feb-22,Concession,Ferry,12268
+Feb-22,CTP,Train,3131179
+Feb-22,CTP,Metro,208243
+Feb-22,CTP,Bus,2739591
+Feb-22,CTP,Light Rail,400830
+Feb-22,CTP,Ferry,184821
+Feb-22,Day Pass Ticket,Train,2
+Feb-22,Day Pass Ticket,Train,497
+Feb-22,Day Pass Ticket,Metro,3
+Feb-22,Day Pass Ticket,Bus,389
+Feb-22,Day Pass Ticket,Light Rail,15
+Feb-22,Day Pass Ticket,Ferry,4
+Feb-22,Other,Train,151437
+Feb-22,Other,Metro,5587
+Feb-22,Other,Bus,44817
+Feb-22,Other,Light Rail,4984
+Feb-22,Other,Ferry,3539
+Feb-22,Free Opal,Train,13427
+Feb-22,Free Opal,Metro,815
+Feb-22,Free Opal,Bus,20091
+Feb-22,Free Opal,Light Rail,1776
+Feb-22,Free Opal,Ferry,1061
+Feb-22,Other,Bus,18034
+Feb-22,School Opal,Train,851333
+Feb-22,School Opal,Metro,107578
+Feb-22,School Opal,Bus,1483705
+Feb-22,School Opal,Light Rail,35281
+Feb-22,School Opal,Ferry,9522
+Feb-22,Gold Opal,Train,1318743
+Feb-22,Gold Opal,Metro,62320
+Feb-22,Gold Opal,Bus,2280735
+Feb-22,Gold Opal,Light Rail,180145
+Feb-22,Gold Opal,Ferry,99494
+Feb-22,Opal Single Ticket,Ferry,7854
+Feb-22,Opal Single Ticket,Ferry,3791
+Feb-22,Opal Single Ticket,Light Rail,991
+Feb-22,Opal Single Ticket,Light Rail,415
+Feb-22,Opal Single Ticket,Train,44855
+Feb-22,Opal Single Ticket,Metro,2142
+Feb-22,Opal Single Ticket,Train,23762
+Feb-22,Opal Single Ticket,Metro,2430
+Mar-22,Adult,Train,7671085
+Mar-22,Adult,Metro,545201
+Mar-22,Adult,Bus,5275005
+Mar-22,Adult,Light Rail,788385
+Mar-22,Adult,Ferry,215463
+Mar-22,Adult,Bus,104
+Mar-22,Adult,Bus,38
+Mar-22,Adult,Bus,14
+Mar-22,Child/Youth,Train,420388
+Mar-22,Child/Youth,Metro,70762
+Mar-22,Child/Youth,Bus,542260
+Mar-22,Child/Youth,Light Rail,56517
+Mar-22,Child/Youth,Ferry,31567
+Mar-22,Opal Single Ticket,Bus,3
+Mar-22,Concession,Train,1170947
+Mar-22,Concession,Metro,184842
+Mar-22,Concession,Bus,896181
+Mar-22,Concession,Light Rail,226808
+Mar-22,Concession,Ferry,15266
+Mar-22,CTP,Train,4111466
+Mar-22,CTP,Metro,298153
+Mar-22,CTP,Bus,3460409
+Mar-22,CTP,Light Rail,589751
+Mar-22,CTP,Ferry,236344
+Mar-22,Day Pass Ticket,Train,2
+Mar-22,Day Pass Ticket,Bus,18
+Mar-22,Day Pass Ticket,Train,529
+Mar-22,Day Pass Ticket,Metro,5
+Mar-22,Day Pass Ticket,Bus,503
+Mar-22,Day Pass Ticket,Light Rail,21
+Mar-22,Day Pass Ticket,Ferry,5
+Mar-22,Other,Train,189739
+Mar-22,Other,Metro,7699
+Mar-22,Other,Bus,52935
+Mar-22,Other,Light Rail,6799
+Mar-22,Other,Ferry,3318
+Mar-22,Free Opal,Train,16367
+Mar-22,Free Opal,Metro,979
+Mar-22,Free Opal,Bus,23571
+Mar-22,Free Opal,Light Rail,2527
+Mar-22,Free Opal,Ferry,1222
+Mar-22,Other,Bus,21147
+Mar-22,School Opal,Train,911751
+Mar-22,School Opal,Metro,123529
+Mar-22,School Opal,Bus,1469333
+Mar-22,School Opal,Light Rail,36097
+Mar-22,School Opal,Ferry,9308
+Mar-22,Gold Opal,Train,1614839
+Mar-22,Gold Opal,Metro,80905
+Mar-22,Gold Opal,Bus,2664934
+Mar-22,Gold Opal,Light Rail,266341
+Mar-22,Gold Opal,Ferry,108081
+Mar-22,Opal Single Ticket,Ferry,11094
+Mar-22,Opal Single Ticket,Ferry,5201
+Mar-22,Opal Single Ticket,Light Rail,1576
+Mar-22,Opal Single Ticket,Light Rail,671
+Mar-22,Opal Single Ticket,Train,62264
+Mar-22,Opal Single Ticket,Metro,3164
+Mar-22,Opal Single Ticket,Train,26392
+Mar-22,Opal Single Ticket,Metro,3428
+Apr-22,Adult,Train,8524511
+Apr-22,Adult,Metro,604787
+Apr-22,Adult,Bus,5006854
+Apr-22,Adult,Light Rail,951394
+Apr-22,Adult,Ferry,424839
+Apr-22,Adult,Bus,149
+Apr-22,Adult,Bus,109
+Apr-22,Adult,Bus,148
+Apr-22,Child/Youth,Train,832396
+Apr-22,Child/Youth,Metro,126592
+Apr-22,Child/Youth,Bus,663096
+Apr-22,Child/Youth,Light Rail,125332
+Apr-22,Child/Youth,Ferry,120905
+Apr-22,Opal Single Ticket,Bus,12
+Apr-22,Opal Single Ticket,Bus,3
+Apr-22,Concession,Train,953331
+Apr-22,Concession,Metro,124694
+Apr-22,Concession,Bus,647357
+Apr-22,Concession,Light Rail,174463
+Apr-22,Concession,Ferry,18312
+Apr-22,CTP,Train,4535313
+Apr-22,CTP,Metro,316827
+Apr-22,CTP,Bus,3146796
+Apr-22,CTP,Light Rail,615146
+Apr-22,CTP,Ferry,352454
+Apr-22,Day Pass Ticket,Train,2
+Apr-22,Day Pass Ticket,Bus,6
+Apr-22,Day Pass Ticket,Ferry,63
+Apr-22,Day Pass Ticket,Train,477
+Apr-22,Day Pass Ticket,Metro,2
+Apr-22,Day Pass Ticket,Bus,367
+Apr-22,Day Pass Ticket,Light Rail,6
+Apr-22,Day Pass Ticket,Ferry,28
+Apr-22,Other,Train,187612
+Apr-22,Other,Metro,7373
+Apr-22,Other,Bus,45399
+Apr-22,Other,Light Rail,6552
+Apr-22,Other,Ferry,3903
+Apr-22,Free Opal,Train,16992
+Apr-22,Free Opal,Metro,931
+Apr-22,Free Opal,Bus,20971
+Apr-22,Free Opal,Light Rail,2358
+Apr-22,Free Opal,Ferry,1305
+Apr-22,Other,Bus,19661
+Apr-22,School Opal,Train,398546
+Apr-22,School Opal,Metro,53990
+Apr-22,School Opal,Bus,574559
+Apr-22,School Opal,Light Rail,13166
+Apr-22,School Opal,Ferry,3866
+Apr-22,Gold Opal,Train,1792395
+Apr-22,Gold Opal,Metro,96771
+Apr-22,Gold Opal,Bus,2488231
+Apr-22,Gold Opal,Light Rail,278917
+Apr-22,Gold Opal,Ferry,141577
+Apr-22,Opal Single Ticket,Ferry,12096
+Apr-22,Opal Single Ticket,Ferry,8094
+Apr-22,Opal Single Ticket,Light Rail,1659
+Apr-22,Opal Single Ticket,Light Rail,896
+Apr-22,Opal Single Ticket,Train,59034
+Apr-22,Opal Single Ticket,Metro,2836
+Apr-22,Opal Single Ticket,Train,31540
+Apr-22,Opal Single Ticket,Metro,3682
+May-22,Adult,Train,9530862
+May-22,Adult,Metro,682645
+May-22,Adult,Bus,5632116
+May-22,Adult,Light Rail,941120
+May-22,Adult,Ferry,285457
+May-22,Adult,Bus,106
+May-22,Adult,Bus,34
+May-22,Adult,Bus,16
+May-22,Child/Youth,Train,514081
+May-22,Child/Youth,Metro,76054
+May-22,Child/Youth,Bus,550795
+May-22,Child/Youth,Light Rail,58003
+May-22,Child/Youth,Ferry,47597
+May-22,Opal Single Ticket,Bus,2
+May-22,Opal Single Ticket,Bus,4
+May-22,Concession,Train,1075324
+May-22,Concession,Metro,160565
+May-22,Concession,Bus,756242
+May-22,Concession,Light Rail,147144
+May-22,Concession,Ferry,15636
+May-22,CTP,Train,5491488
+May-22,CTP,Metro,386701
+May-22,CTP,Bus,3857044
+May-22,CTP,Light Rail,714401
+May-22,CTP,Ferry,326216
+May-22,Day Pass Ticket,Train,62
+May-22,Day Pass Ticket,Bus,17
+May-22,Day Pass Ticket,Train,579
+May-22,Day Pass Ticket,Metro,11
+May-22,Day Pass Ticket,Bus,555
+May-22,Day Pass Ticket,Light Rail,25
+May-22,Day Pass Ticket,Ferry,22
+May-22,Other,Train,221741
+May-22,Other,Metro,9020
+May-22,Other,Bus,54714
+May-22,Other,Light Rail,7314
+May-22,Other,Ferry,4405
+May-22,Free Opal,Train,20779
+May-22,Free Opal,Metro,1291
+May-22,Free Opal,Bus,25184
+May-22,Free Opal,Light Rail,2750
+May-22,Free Opal,Ferry,1576
+May-22,Other,Bus,21803
+May-22,School Opal,Train,1012990
+May-22,School Opal,Metro,132269
+May-22,School Opal,Bus,1453409
+May-22,School Opal,Light Rail,34231
+May-22,School Opal,Ferry,10250
+May-22,Gold Opal,Train,2003021
+May-22,Gold Opal,Metro,106441
+May-22,Gold Opal,Bus,2859536
+May-22,Gold Opal,Light Rail,306419
+May-22,Gold Opal,Ferry,140823
+May-22,Opal Single Ticket,Ferry,16156
+May-22,Opal Single Ticket,Ferry,7719
+May-22,Opal Single Ticket,Light Rail,2277
+May-22,Opal Single Ticket,Light Rail,915
+May-22,Opal Single Ticket,Train,81255
+May-22,Opal Single Ticket,Metro,4086
+May-22,Opal Single Ticket,Train,34097
+May-22,Opal Single Ticket,Metro,4230
+Jun-22,Adult,Train,9599430
+Jun-22,Adult,Metro,675361
+Jun-22,Adult,Bus,5574794
+Jun-22,Adult,Light Rail,974646
+Jun-22,Adult,Ferry,346291
+Jun-22,Adult,Bus,93
+Jun-22,Adult,Bus,39
+Jun-22,Adult,Bus,8
+Jun-22,Child/Youth,Train,658677
+Jun-22,Child/Youth,Metro,87208
+Jun-22,Child/Youth,Bus,568172
+Jun-22,Child/Youth,Light Rail,82612
+Jun-22,Child/Youth,Ferry,81404
+Jun-22,Opal Single Ticket,Bus,4
+Jun-22,Opal Single Ticket,Bus,2
+Jun-22,Concession,Train,926877
+Jun-22,Concession,Metro,113875
+Jun-22,Concession,Bus,663253
+Jun-22,Concession,Light Rail,238148
+Jun-22,Concession,Ferry,18557
+Jun-22,CTP,Train,5787575
+Jun-22,CTP,Metro,382184
+Jun-22,CTP,Bus,3877626
+Jun-22,CTP,Light Rail,765968
+Jun-22,CTP,Ferry,406455
+Jun-22,Day Pass Ticket,Train,196
+Jun-22,Day Pass Ticket,Bus,15
+Jun-22,Day Pass Ticket,Train,752
+Jun-22,Day Pass Ticket,Metro,5
+Jun-22,Day Pass Ticket,Bus,665
+Jun-22,Day Pass Ticket,Light Rail,29
+Jun-22,Day Pass Ticket,Ferry,16
+Jun-22,Other,Train,223849
+Jun-22,Other,Metro,9548
+Jun-22,Other,Bus,55746
+Jun-22,Other,Light Rail,8092
+Jun-22,Other,Ferry,5103
+Jun-22,Free Opal,Train,20476
+Jun-22,Free Opal,Metro,1147
+Jun-22,Free Opal,Bus,25494
+Jun-22,Free Opal,Light Rail,2926
+Jun-22,Free Opal,Ferry,1857
+Jun-22,Other,Bus,19223
+Jun-22,School Opal,Train,928372
+Jun-22,School Opal,Metro,127005
+Jun-22,School Opal,Bus,1333603
+Jun-22,School Opal,Light Rail,30928
+Jun-22,School Opal,Ferry,8959
+Jun-22,Gold Opal,Train,2065840
+Jun-22,Gold Opal,Metro,114975
+Jun-22,Gold Opal,Bus,2859395
+Jun-22,Gold Opal,Light Rail,337616
+Jun-22,Gold Opal,Ferry,170352
+Jun-22,Opal Single Ticket,Ferry,23803
+Jun-22,Opal Single Ticket,Ferry,16354
+Jun-22,Opal Single Ticket,Light Rail,2940
+Jun-22,Opal Single Ticket,Light Rail,1753
+Jun-22,Opal Single Ticket,Train,96650
+Jun-22,Opal Single Ticket,Metro,4440
+Jun-22,Opal Single Ticket,Train,53636
+Jun-22,Opal Single Ticket,Metro,5245
+Jul-22,Adult,Train,8505857
+Jul-22,Adult,Metro,602643
+Jul-22,Adult,Bus,5385400
+Jul-22,Adult,Light Rail,941788
+Jul-22,Adult,Ferry,257423
+Jul-22,Adult,Bus,85
+Jul-22,Adult,Bus,40
+Jul-22,Adult,Bus,18
+Jul-22,Child/Youth,Train,657340
+Jul-22,Child/Youth,Metro,113396
+Jul-22,Child/Youth,Bus,677145
+Jul-22,Child/Youth,Light Rail,107183
+Jul-22,Child/Youth,Ferry,71905
+Jul-22,Opal Single Ticket,Bus,1
+Jul-22,Opal Single Ticket,Bus,1
+Jul-22,Concession,Train,821714
+Jul-22,Concession,Metro,102727
+Jul-22,Concession,Bus,619503
+Jul-22,Concession,Light Rail,191810
+Jul-22,Concession,Ferry,12041
+Jul-22,CTP,Train,5029629
+Jul-22,CTP,Metro,341982
+Jul-22,CTP,Bus,3838227
+Jul-22,CTP,Light Rail,741452
+Jul-22,CTP,Ferry,289461
+Jul-22,Day Pass Ticket,Train,10
+Jul-22,Day Pass Ticket,Bus,2
+Jul-22,Day Pass Ticket,Light Rail,4
+Jul-22,Day Pass Ticket,Train,558
+Jul-22,Day Pass Ticket,Metro,8
+Jul-22,Day Pass Ticket,Bus,591
+Jul-22,Day Pass Ticket,Light Rail,29
+Jul-22,Day Pass Ticket,Ferry,7
+Jul-22,Other,Train,142520
+Jul-22,Other,Metro,7928
+Jul-22,Other,Bus,51073
+Jul-22,Other,Light Rail,7201
+Jul-22,Other,Ferry,3361
+Jul-22,Free Opal,Train,16303
+Jul-22,Free Opal,Metro,990
+Jul-22,Free Opal,Bus,22670
+Jul-22,Free Opal,Light Rail,2344
+Jul-22,Free Opal,Ferry,1202
+Jul-22,Other,Bus,18983
+Jul-22,School Opal,Train,446561
+Jul-22,School Opal,Metro,64043
+Jul-22,School Opal,Bus,649786
+Jul-22,School Opal,Light Rail,14828
+Jul-22,School Opal,Ferry,3722
+Jul-22,Gold Opal,Train,1673035
+Jul-22,Gold Opal,Metro,94024
+Jul-22,Gold Opal,Bus,2590620
+Jul-22,Gold Opal,Light Rail,275890
+Jul-22,Gold Opal,Ferry,104607
+Jul-22,Opal Single Ticket,Ferry,21046
+Jul-22,Opal Single Ticket,Ferry,15127
+Jul-22,Opal Single Ticket,Light Rail,3443
+Jul-22,Opal Single Ticket,Light Rail,2392
+Jul-22,Opal Single Ticket,Train,78750
+Jul-22,Opal Single Ticket,Metro,3943
+Jul-22,Opal Single Ticket,Train,46925
+Jul-22,Opal Single Ticket,Metro,5458
+Aug-22,Adult,Train,8832790
+Aug-22,Adult,Metro,680455
+Aug-22,Adult,Bus,6018740
+Aug-22,Adult,Light Rail,982069
+Aug-22,Adult,Ferry,294302
+Aug-22,Adult,Bus,94
+Aug-22,Adult,Bus,52
+Aug-22,Adult,Bus,22
+Aug-22,Child/Youth,Train,416534
+Aug-22,Child/Youth,Metro,68298
+Aug-22,Child/Youth,Bus,556563
+Aug-22,Child/Youth,Light Rail,61505
+Aug-22,Child/Youth,Ferry,44986
+Aug-22,Concession,Train,1138259
+Aug-22,Concession,Metro,186240
+Aug-22,Concession,Bus,898039
+Aug-22,Concession,Light Rail,172408
+Aug-22,Concession,Ferry,16600
+Aug-22,CTP,Train,5206540
+Aug-22,CTP,Metro,399797
+Aug-22,CTP,Bus,4329612
+Aug-22,CTP,Light Rail,778397
+Aug-22,CTP,Ferry,341515
+Aug-22,Day Pass Ticket,Train,7
+Aug-22,Day Pass Ticket,Bus,9
+Aug-22,Day Pass Ticket,Light Rail,5
+Aug-22,Day Pass Ticket,Train,562
+Aug-22,Day Pass Ticket,Metro,3
+Aug-22,Day Pass Ticket,Bus,787
+Aug-22,Day Pass Ticket,Light Rail,38
+Aug-22,Day Pass Ticket,Ferry,7
+Aug-22,Other,Train,108228
+Aug-22,Other,Metro,8780
+Aug-22,Other,Bus,55583
+Aug-22,Other,Light Rail,7555
+Aug-22,Other,Ferry,3470
+Aug-22,Free Opal,Train,15758
+Aug-22,Free Opal,Metro,1041
+Aug-22,Free Opal,Bus,26661
+Aug-22,Free Opal,Light Rail,2619
+Aug-22,Free Opal,Ferry,1429
+Aug-22,Other,Bus,21070
+Aug-22,School Opal,Train,896023
+Aug-22,School Opal,Metro,148403
+Aug-22,School Opal,Bus,1558539
+Aug-22,School Opal,Light Rail,33868
+Aug-22,School Opal,Ferry,9400
+Aug-22,Gold Opal,Train,1783567
+Aug-22,Gold Opal,Metro,102663
+Aug-22,Gold Opal,Bus,2936059
+Aug-22,Gold Opal,Light Rail,307001
+Aug-22,Gold Opal,Ferry,137410
+Aug-22,Opal Single Ticket,Ferry,21714
+Aug-22,Opal Single Ticket,Ferry,9912
+Aug-22,Opal Single Ticket,Light Rail,3200
+Aug-22,Opal Single Ticket,Light Rail,1261
+Aug-22,Opal Single Ticket,Train,68780
+Aug-22,Opal Single Ticket,Metro,3449
+Aug-22,Opal Single Ticket,Train,24711
+Aug-22,Opal Single Ticket,Metro,3428
+Sep-22,Adult,Train,8976720
+Sep-22,Adult,Metro,660673
+Sep-22,Adult,Bus,5809458
+Sep-22,Adult,Light Rail,1017785
+Sep-22,Adult,Ferry,302439
+Sep-22,Adult,Bus,81
+Sep-22,Adult,Bus,48
+Sep-22,Adult,Bus,24
+Sep-22,Child/Youth,Train,563286
+Sep-22,Child/Youth,Metro,88386
+Sep-22,Child/Youth,Bus,623682
+Sep-22,Child/Youth,Light Rail,91882
+Sep-22,Child/Youth,Ferry,69066
+Sep-22,Opal Single Ticket,Bus,5
+Sep-22,Opal Single Ticket,Bus,7
+Sep-22,Concession,Train,1010931
+Sep-22,Concession,Metro,132959
+Sep-22,Concession,Bus,747522
+Sep-22,Concession,Light Rail,202936
+Sep-22,Concession,Ferry,14785
+Sep-22,CTP,Train,5584493
+Sep-22,CTP,Metro,397176
+Sep-22,CTP,Bus,4348438
+Sep-22,CTP,Light Rail,839697
+Sep-22,CTP,Ferry,369608
+Sep-22,Day Pass Ticket,Train,11
+Sep-22,Day Pass Ticket,Bus,6
+Sep-22,Day Pass Ticket,Ferry,6
+Sep-22,Day Pass Ticket,Train,661
+Sep-22,Day Pass Ticket,Metro,4
+Sep-22,Day Pass Ticket,Bus,693
+Sep-22,Day Pass Ticket,Light Rail,19
+Sep-22,Day Pass Ticket,Ferry,34
+Sep-22,Other,Train,118894
+Sep-22,Other,Metro,7222
+Sep-22,Other,Bus,53584
+Sep-22,Other,Light Rail,7184
+Sep-22,Other,Ferry,3624
+Sep-22,Free Opal,Train,16554
+Sep-22,Free Opal,Metro,922
+Sep-22,Free Opal,Bus,24843
+Sep-22,Free Opal,Light Rail,2657
+Sep-22,Free Opal,Ferry,1485
+Sep-22,Other,Bus,21062
+Sep-22,School Opal,Train,632981
+Sep-22,School Opal,Metro,103633
+Sep-22,School Opal,Bus,1050246
+Sep-22,School Opal,Light Rail,26405
+Sep-22,School Opal,Ferry,7475
+Sep-22,Gold Opal,Train,1849464
+Sep-22,Gold Opal,Metro,106598
+Sep-22,Gold Opal,Bus,2807482
+Sep-22,Gold Opal,Light Rail,305705
+Sep-22,Gold Opal,Ferry,135130
+Sep-22,Opal Single Ticket,Ferry,24863
+Sep-22,Opal Single Ticket,Ferry,15116
+Sep-22,Opal Single Ticket,Light Rail,3426
+Sep-22,Opal Single Ticket,Light Rail,1837
+Sep-22,Opal Single Ticket,Train,76159
+Sep-22,Opal Single Ticket,Metro,3587
+Sep-22,Opal Single Ticket,Train,34558
+Sep-22,Opal Single Ticket,Metro,3904
+Oct-22,Adult,Train,9482179
+Oct-22,Adult,Metro,642145
+Oct-22,Adult,Bus,6136773
+Oct-22,Adult,Light Rail,1019352
+Oct-22,Adult,Ferry,325122
+Oct-22,Adult,Bus,134
+Oct-22,Adult,Bus,42
+Oct-22,Adult,Bus,22
+Oct-22,Child/Youth,Train,605550
+Oct-22,Child/Youth,Metro,90128
+Oct-22,Child/Youth,Bus,683823
+Oct-22,Child/Youth,Light Rail,85426
+Oct-22,Child/Youth,Ferry,70259
+Oct-22,Concession,Train,1046116
+Oct-22,Concession,Metro,144844
+Oct-22,Concession,Bus,774831
+Oct-22,Concession,Light Rail,190739
+Oct-22,Concession,Ferry,13911
+Oct-22,CTP,Train,6285173
+Oct-22,CTP,Metro,408491
+Oct-22,CTP,Bus,4854953
+Oct-22,CTP,Light Rail,920500
+Oct-22,CTP,Ferry,390884
+Oct-22,Day Pass Ticket,Train,72
+Oct-22,Day Pass Ticket,Bus,18
+Oct-22,Day Pass Ticket,Light Rail,45
+Oct-22,Day Pass Ticket,Ferry,45
+Oct-22,Day Pass Ticket,Train,713
+Oct-22,Day Pass Ticket,Metro,12
+Oct-22,Day Pass Ticket,Bus,788
+Oct-22,Day Pass Ticket,Light Rail,40
+Oct-22,Day Pass Ticket,Ferry,11
+Oct-22,Other,Train,132850
+Oct-22,Other,Metro,8227
+Oct-22,Other,Bus,56671
+Oct-22,Other,Light Rail,7197
+Oct-22,Other,Ferry,3867
+Oct-22,Free Opal,Train,17974
+Oct-22,Free Opal,Metro,1069
+Oct-22,Free Opal,Bus,26586
+Oct-22,Free Opal,Light Rail,2675
+Oct-22,Free Opal,Ferry,1684
+Oct-22,Other,Bus,20702
+Oct-22,School Opal,Train,661274
+Oct-22,School Opal,Metro,104338
+Oct-22,School Opal,Bus,1066215
+Oct-22,School Opal,Light Rail,20003
+Oct-22,School Opal,Ferry,6787
+Oct-22,Gold Opal,Train,2046978
+Oct-22,Gold Opal,Metro,109339
+Oct-22,Gold Opal,Bus,2961033
+Oct-22,Gold Opal,Light Rail,320637
+Oct-22,Gold Opal,Ferry,149758
+Oct-22,Opal Single Ticket,Ferry,27587
+Oct-22,Opal Single Ticket,Ferry,12306
+Oct-22,Opal Single Ticket,Light Rail,4414
+Oct-22,Opal Single Ticket,Light Rail,1665
+Oct-22,Opal Single Ticket,Train,92735
+Oct-22,Opal Single Ticket,Metro,3953
+Oct-22,Opal Single Ticket,Train,38905
+Oct-22,Opal Single Ticket,Metro,4472
+Nov-22,Adult,Train,8160819
+Nov-22,Adult,Metro,604879
+Nov-22,Adult,Bus,6474148
+Nov-22,Adult,Light Rail,1063223
+Nov-22,Adult,Ferry,371568
+Nov-22,Adult,Bus,91
+Nov-22,Adult,Bus,36
+Nov-22,Adult,Bus,22
+Nov-22,Child/Youth,Train,443403
+Nov-22,Child/Youth,Metro,74878
+Nov-22,Child/Youth,Bus,627975
+Nov-22,Child/Youth,Light Rail,66409
+Nov-22,Child/Youth,Ferry,54727
+Nov-22,Opal Single Ticket,Bus,1
+Nov-22,Opal Single Ticket,Bus,3
+Nov-22,Opal Single Ticket,Bus,1
+Nov-22,Concession,Train,706517
+Nov-22,Concession,Metro,96744
+Nov-22,Concession,Bus,683684
+Nov-22,Concession,Light Rail,183694
+Nov-22,Concession,Ferry,16325
+Nov-22,CTP,Train,5503863
+Nov-22,CTP,Metro,386998
+Nov-22,CTP,Bus,5249541
+Nov-22,CTP,Light Rail,956717
+Nov-22,CTP,Ferry,488778
+Nov-22,Day Pass Ticket,Train,137
+Nov-22,Day Pass Ticket,Bus,11
+Nov-22,Day Pass Ticket,Light Rail,2
+Nov-22,Day Pass Ticket,Ferry,69
+Nov-22,Day Pass Ticket,Train,629
+Nov-22,Day Pass Ticket,Metro,11
+Nov-22,Day Pass Ticket,Bus,846
+Nov-22,Day Pass Ticket,Light Rail,44
+Nov-22,Day Pass Ticket,Ferry,21
+Nov-22,Other,Train,120096
+Nov-22,Other,Metro,7755
+Nov-22,Other,Bus,60203
+Nov-22,Other,Light Rail,7874
+Nov-22,Other,Ferry,4163
+Nov-22,Free Opal,Train,16005
+Nov-22,Free Opal,Metro,930
+Nov-22,Free Opal,Bus,29299
+Nov-22,Free Opal,Light Rail,2913
+Nov-22,Free Opal,Ferry,1842
+Nov-22,Other,Bus,21311
+Nov-22,School Opal,Train,684882
+Nov-22,School Opal,Metro,112233
+Nov-22,School Opal,Bus,1430322
+Nov-22,School Opal,Light Rail,28666
+Nov-22,School Opal,Ferry,10021
+Nov-22,Gold Opal,Train,1762103
+Nov-22,Gold Opal,Metro,104597
+Nov-22,Gold Opal,Bus,3198927
+Nov-22,Gold Opal,Light Rail,331749
+Nov-22,Gold Opal,Ferry,172226
+Nov-22,Opal Single Ticket,Ferry,31619
+Nov-22,Opal Single Ticket,Ferry,8872
+Nov-22,Opal Single Ticket,Light Rail,3875
+Nov-22,Opal Single Ticket,Light Rail,967
+Nov-22,Opal Single Ticket,Train,81731
+Nov-22,Opal Single Ticket,Metro,4073
+Nov-22,Opal Single Ticket,Train,25125
+Nov-22,Opal Single Ticket,Metro,3742
+Dec-22,Adult,Train,9440309
+Dec-22,Adult,Metro,674886
+Dec-22,Adult,Bus,6005060
+Dec-22,Adult,Light Rail,1158784
+Dec-22,Adult,Ferry,429176
+Dec-22,Adult,Bus,89
+Dec-22,Adult,Bus,26
+Dec-22,Adult,Bus,23
+Dec-22,Child/Youth,Train,801421
+Dec-22,Child/Youth,Metro,126355
+Dec-22,Child/Youth,Bus,779633
+Dec-22,Child/Youth,Light Rail,129748
+Dec-22,Child/Youth,Ferry,103735
+Dec-22,Opal Single Ticket,Bus,2
+Dec-22,Opal Single Ticket,Bus,1
+Dec-22,Concession,Train,729352
+Dec-22,Concession,Metro,90333
+Dec-22,Concession,Bus,540844
+Dec-22,Concession,Light Rail,102961
+Dec-22,Concession,Ferry,17670
+Dec-22,CTP,Train,6825016
+Dec-22,CTP,Metro,467954
+Dec-22,CTP,Bus,5154068
+Dec-22,CTP,Light Rail,1053040
+Dec-22,CTP,Ferry,566889
+Dec-22,Day Pass Ticket,Train,90
+Dec-22,Day Pass Ticket,Bus,76
+Dec-22,Day Pass Ticket,Light Rail,195
+Dec-22,Day Pass Ticket,Ferry,99
+Dec-22,Day Pass Ticket,Train,958
+Dec-22,Day Pass Ticket,Metro,13
+Dec-22,Day Pass Ticket,Bus,875
+Dec-22,Day Pass Ticket,Light Rail,73
+Dec-22,Day Pass Ticket,Ferry,27
+Dec-22,Other,Train,205108
+Dec-22,Other,Metro,9087
+Dec-22,Other,Bus,57600
+Dec-22,Other,Light Rail,8923
+Dec-22,Other,Ferry,4430
+Dec-22,Free Opal,Train,20288
+Dec-22,Free Opal,Metro,1212
+Dec-22,Free Opal,Bus,27112
+Dec-22,Free Opal,Light Rail,2934
+Dec-22,Free Opal,Ferry,1886
+Dec-22,Other,Bus,19991
+Dec-22,School Opal,Train,401437
+Dec-22,School Opal,Metro,65619
+Dec-22,School Opal,Bus,609216
+Dec-22,School Opal,Light Rail,14245
+Dec-22,School Opal,Ferry,5633
+Dec-22,Gold Opal,Train,2128260
+Dec-22,Gold Opal,Metro,127601
+Dec-22,Gold Opal,Bus,3033997
+Dec-22,Gold Opal,Light Rail,354456
+Dec-22,Gold Opal,Ferry,168663
+Dec-22,Opal Single Ticket,Ferry,40557
+Dec-22,Opal Single Ticket,Ferry,22256
+Dec-22,Opal Single Ticket,Light Rail,5591
+Dec-22,Opal Single Ticket,Light Rail,3115
+Dec-22,Opal Single Ticket,Train,117625
+Dec-22,Opal Single Ticket,Metro,6339
+Dec-22,Opal Single Ticket,Train,63508
+Dec-22,Opal Single Ticket,Metro,7821
+Jan-23,Adult,Train,9018713
+Jan-23,Adult,Metro,616617
+Jan-23,Adult,Bus,5837688
+Jan-23,Adult,Light Rail,1110981
+Jan-23,Adult,Ferry,458697
+Jan-23,Adult,Bus,118
+Jan-23,Adult,Bus,39
+Jan-23,Adult,Bus,16
+Jan-23,Child/Youth,Train,967399
+Jan-23,Child/Youth,Metro,150281
+Jan-23,Child/Youth,Bus,937575
+Jan-23,Child/Youth,Light Rail,170987
+Jan-23,Child/Youth,Ferry,156183
+Jan-23,Opal Single Ticket,Bus,4
+Jan-23,Opal Single Ticket,Bus,2
+Jan-23,Concession,Train,663041
+Jan-23,Concession,Metro,79385
+Jan-23,Concession,Bus,497056
+Jan-23,Concession,Light Rail,93351
+Jan-23,Concession,Ferry,16483
+Jan-23,CTP,Train,6630220
+Jan-23,CTP,Metro,415504
+Jan-23,CTP,Bus,5225867
+Jan-23,CTP,Light Rail,1031438
+Jan-23,CTP,Ferry,602638
+Jan-23,Day Pass Ticket,Train,17
+Jan-23,Day Pass Ticket,Bus,27
+Jan-23,Day Pass Ticket,Light Rail,2
+Jan-23,Day Pass Ticket,Train,892
+Jan-23,Day Pass Ticket,Metro,10
+Jan-23,Day Pass Ticket,Bus,843
+Jan-23,Day Pass Ticket,Light Rail,40
+Jan-23,Day Pass Ticket,Ferry,3
+Jan-23,Other,Train,193986
+Jan-23,Other,Metro,7705
+Jan-23,Other,Bus,53044
+Jan-23,Other,Light Rail,8167
+Jan-23,Other,Ferry,5006
+Jan-23,Free Opal,Train,18695
+Jan-23,Free Opal,Metro,1034
+Jan-23,Free Opal,Bus,24933
+Jan-23,Free Opal,Light Rail,3026
+Jan-23,Free Opal,Ferry,2108
+Jan-23,Other,Bus,20233
+Jan-23,School Opal,Train,46014
+Jan-23,School Opal,Metro,7161
+Jan-23,School Opal,Bus,68263
+Jan-23,School Opal,Light Rail,2246
+Jan-23,School Opal,Ferry,592
+Jan-23,Gold Opal,Train,2013174
+Jan-23,Gold Opal,Metro,117304
+Jan-23,Gold Opal,Bus,2864913
+Jan-23,Gold Opal,Light Rail,358571
+Jan-23,Gold Opal,Ferry,198602
+Jan-23,Opal Single Ticket,Ferry,42441
+Jan-23,Opal Single Ticket,Ferry,27107
+Jan-23,Opal Single Ticket,Light Rail,5136
+Jan-23,Opal Single Ticket,Light Rail,3370
+Jan-23,Opal Single Ticket,Train,103423
+Jan-23,Opal Single Ticket,Metro,5058
+Jan-23,Opal Single Ticket,Train,72852
+Jan-23,Opal Single Ticket,Metro,7938
+Feb-23,Adult,Train,9966221
+Feb-23,Adult,Metro,719458
+Feb-23,Adult,Bus,6556480
+Feb-23,Adult,Light Rail,1156528
+Feb-23,Adult,Ferry,372101
+Feb-23,Adult,Bus,123
+Feb-23,Adult,Bus,45
+Feb-23,Adult,Bus,18
+Feb-23,Child/Youth,Train,588340
+Feb-23,Child/Youth,Metro,92516
+Feb-23,Child/Youth,Bus,711553
+Feb-23,Child/Youth,Light Rail,86549
+Feb-23,Child/Youth,Ferry,44689
+Feb-23,Opal Single Ticket,Bus,3
+Feb-23,Concession,Train,1028752
+Feb-23,Concession,Metro,126243
+Feb-23,Concession,Bus,744808
+Feb-23,Concession,Light Rail,227531
+Feb-23,Concession,Ferry,16731
+Feb-23,CTP,Train,7363351
+Feb-23,CTP,Metro,480110
+Feb-23,CTP,Bus,5722372
+Feb-23,CTP,Light Rail,1117377
+Feb-23,CTP,Ferry,522601
+Feb-23,Day Pass Ticket,Train,43
+Feb-23,Day Pass Ticket,Bus,17
+Feb-23,Day Pass Ticket,Train,744
+Feb-23,Day Pass Ticket,Metro,15
+Feb-23,Day Pass Ticket,Bus,797
+Feb-23,Day Pass Ticket,Light Rail,49
+Feb-23,Day Pass Ticket,Ferry,11
+Feb-23,Other,Train,203824
+Feb-23,Other,Metro,8932
+Feb-23,Other,Bus,56198
+Feb-23,Other,Light Rail,7841
+Feb-23,Other,Ferry,4377
+Feb-23,Free Opal,Train,21275
+Feb-23,Free Opal,Metro,1186
+Feb-23,Free Opal,Bus,27684
+Feb-23,Free Opal,Light Rail,2880
+Feb-23,Free Opal,Ferry,1734
+Feb-23,Other,Bus,20943
+Feb-23,School Opal,Train,1020671
+Feb-23,School Opal,Metro,148817
+Feb-23,School Opal,Bus,1649956
+Feb-23,School Opal,Light Rail,39837
+Feb-23,School Opal,Ferry,9663
+Feb-23,Gold Opal,Train,2096692
+Feb-23,Gold Opal,Metro,119054
+Feb-23,Gold Opal,Bus,3008755
+Feb-23,Gold Opal,Light Rail,355797
+Feb-23,Gold Opal,Ferry,177824
+Feb-23,Opal Single Ticket,Ferry,29743
+Feb-23,Opal Single Ticket,Ferry,6722
+Feb-23,Opal Single Ticket,Light Rail,3896
+Feb-23,Opal Single Ticket,Light Rail,919
+Feb-23,Opal Single Ticket,Train,99920
+Feb-23,Opal Single Ticket,Metro,4560
+Feb-23,Opal Single Ticket,Train,34769
+Feb-23,Opal Single Ticket,Metro,4013
+Mar-23,Adult,Train,11361473
+Mar-23,Adult,Metro,859491
+Mar-23,Adult,Bus,7519038
+Mar-23,Adult,Light Rail,1263515
+Mar-23,Adult,Ferry,392791
+Mar-23,Adult,Bus,166
+Mar-23,Adult,Bus,43
+Mar-23,Adult,Bus,35
+Mar-23,Child/Youth,Train,581902
+Mar-23,Child/Youth,Metro,94967
+Mar-23,Child/Youth,Bus,700890
+Mar-23,Child/Youth,Light Rail,79402
+Mar-23,Child/Youth,Ferry,47928
+Mar-23,Opal Single Ticket,Bus,2
+Mar-23,Opal Single Ticket,Bus,1
+Mar-23,Opal Single Ticket,Bus,4
+Mar-23,Concession,Train,1610377
+Mar-23,Concession,Metro,236763
+Mar-23,Concession,Bus,1124148
+Mar-23,Concession,Light Rail,328904
+Mar-23,Concession,Ferry,20678
+Mar-23,CTP,Train,8328869
+Mar-23,CTP,Metro,593827
+Mar-23,CTP,Bus,6535087
+Mar-23,CTP,Light Rail,1240900
+Mar-23,CTP,Ferry,560673
+Mar-23,Day Pass Ticket,Train,35
+Mar-23,Day Pass Ticket,Bus,5
+Mar-23,Day Pass Ticket,Train,753
+Mar-23,Day Pass Ticket,Metro,16
+Mar-23,Day Pass Ticket,Bus,828
+Mar-23,Day Pass Ticket,Light Rail,32
+Mar-23,Day Pass Ticket,Ferry,14
+Mar-23,Other,Train,226388
+Mar-23,Other,Metro,10210
+Mar-23,Other,Bus,63019
+Mar-23,Other,Light Rail,8668
+Mar-23,Other,Ferry,4107
+Mar-23,Free Opal,Train,23917
+Mar-23,Free Opal,Metro,1577
+Mar-23,Free Opal,Bus,31190
+Mar-23,Free Opal,Light Rail,3118
+Mar-23,Free Opal,Ferry,1835
+Mar-23,Other,Bus,23727
+Mar-23,School Opal,Train,1167751
+Mar-23,School Opal,Metro,173163
+Mar-23,School Opal,Bus,1838842
+Mar-23,School Opal,Light Rail,46106
+Mar-23,School Opal,Ferry,11554
+Mar-23,Gold Opal,Train,2317254
+Mar-23,Gold Opal,Metro,135604
+Mar-23,Gold Opal,Bus,3379990
+Mar-23,Gold Opal,Light Rail,372739
+Mar-23,Gold Opal,Ferry,179375
+Mar-23,Opal Single Ticket,Ferry,30795
+Mar-23,Opal Single Ticket,Ferry,9368
+Mar-23,Opal Single Ticket,Light Rail,3803
+Mar-23,Opal Single Ticket,Light Rail,1069
+Mar-23,Opal Single Ticket,Train,110408
+Mar-23,Opal Single Ticket,Metro,4970
+Mar-23,Opal Single Ticket,Train,40080
+Mar-23,Opal Single Ticket,Metro,4484
+Apr-23,Adult,Train,9567193
+Apr-23,Adult,Metro,692354
+Apr-23,Adult,Bus,6160543
+Apr-23,Adult,Light Rail,1035060
+Apr-23,Adult,Ferry,376680
+Apr-23,Adult,Bus,136
+Apr-23,Adult,Bus,38
+Apr-23,Adult,Bus,19
+Apr-23,Child/Youth,Train,835400
+Apr-23,Child/Youth,Metro,132364
+Apr-23,Child/Youth,Bus,793429
+Apr-23,Child/Youth,Light Rail,119764
+Apr-23,Child/Youth,Ferry,105759
+Apr-23,Opal Single Ticket,Bus,4
+Apr-23,Concession,Train,1054815
+Apr-23,Concession,Metro,133672
+Apr-23,Concession,Bus,737056
+Apr-23,Concession,Light Rail,218283
+Apr-23,Concession,Ferry,15783
+Apr-23,CTP,Train,7118961
+Apr-23,CTP,Metro,488164
+Apr-23,CTP,Bus,5449786
+Apr-23,CTP,Light Rail,1001129
+Apr-23,CTP,Ferry,505026
+Apr-23,Day Pass Ticket,Train,17
+Apr-23,Day Pass Ticket,Bus,10
+Apr-23,Day Pass Ticket,Light Rail,1
+Apr-23,Day Pass Ticket,Train,724
+Apr-23,Day Pass Ticket,Metro,12
+Apr-23,Day Pass Ticket,Bus,640
+Apr-23,Day Pass Ticket,Light Rail,48
+Apr-23,Day Pass Ticket,Ferry,10
+Apr-23,Other,Train,189165
+Apr-23,Other,Metro,7441
+Apr-23,Other,Bus,52762
+Apr-23,Other,Light Rail,7343
+Apr-23,Other,Ferry,3908
+Apr-23,Free Opal,Train,20247
+Apr-23,Free Opal,Metro,1154
+Apr-23,Free Opal,Bus,25999
+Apr-23,Free Opal,Light Rail,2502
+Apr-23,Free Opal,Ferry,1571
+Apr-23,Other,Bus,19879
+Apr-23,School Opal,Train,352915
+Apr-23,School Opal,Metro,52326
+Apr-23,School Opal,Bus,535317
+Apr-23,School Opal,Light Rail,13673
+Apr-23,School Opal,Ferry,3444
+Apr-23,Gold Opal,Train,2045717
+Apr-23,Gold Opal,Metro,120699
+Apr-23,Gold Opal,Bus,2870360
+Apr-23,Gold Opal,Light Rail,312835
+Apr-23,Gold Opal,Ferry,165124
+Apr-23,Opal Single Ticket,Ferry,35373
+Apr-23,Opal Single Ticket,Ferry,21510
+Apr-23,Opal Single Ticket,Light Rail,3796
+Apr-23,Opal Single Ticket,Light Rail,2192
+Apr-23,Opal Single Ticket,Train,93819
+Apr-23,Opal Single Ticket,Metro,4655
+Apr-23,Opal Single Ticket,Train,60464
+Apr-23,Opal Single Ticket,Metro,6337
+May-23,Adult,Train,11513916
+May-23,Adult,Metro,850043
+May-23,Adult,Bus,7183054
+May-23,Adult,Light Rail,1210127
+May-23,Adult,Ferry,342935
+May-23,Adult,Bus,122
+May-23,Adult,Bus,60
+May-23,Adult,Bus,50
+May-23,Child/Youth,Train,541395
+May-23,Child/Youth,Metro,77264
+May-23,Child/Youth,Bus,620035
+May-23,Child/Youth,Light Rail,67316
+May-23,Child/Youth,Ferry,44247
+May-23,Opal Single Ticket,Bus,4
+May-23,Opal Single Ticket,Bus,6
+May-23,Concession,Train,1282805
+May-23,Concession,Metro,186032
+May-23,Concession,Bus,913933
+May-23,Concession,Light Rail,195075
+May-23,Concession,Ferry,17959
+May-23,CTP,Train,8499972
+May-23,CTP,Metro,591619
+May-23,CTP,Bus,6225131
+May-23,CTP,Light Rail,1168270
+May-23,CTP,Ferry,476029
+May-23,Day Pass Ticket,Train,40
+May-23,Day Pass Ticket,Metro,14
+May-23,Day Pass Ticket,Bus,42
+May-23,Day Pass Ticket,Light Rail,41
+May-23,Day Pass Ticket,Ferry,192
+May-23,Day Pass Ticket,Train,848
+May-23,Day Pass Ticket,Metro,7
+May-23,Day Pass Ticket,Bus,812
+May-23,Day Pass Ticket,Light Rail,44
+May-23,Day Pass Ticket,Ferry,62
+May-23,Other,Train,229190
+May-23,Other,Metro,10185
+May-23,Other,Bus,60831
+May-23,Other,Light Rail,8635
+May-23,Other,Ferry,4379
+May-23,Free Opal,Train,23881
+May-23,Free Opal,Metro,1470
+May-23,Free Opal,Bus,30606
+May-23,Free Opal,Light Rail,3017
+May-23,Free Opal,Ferry,1826
+May-23,Other,Bus,23498
+May-23,School Opal,Train,1169300
+May-23,School Opal,Metro,172299
+May-23,School Opal,Bus,1732938
+May-23,School Opal,Light Rail,45586
+May-23,School Opal,Ferry,10800
+May-23,Gold Opal,Train,2363546
+May-23,Gold Opal,Metro,135577
+May-23,Gold Opal,Bus,3303661
+May-23,Gold Opal,Light Rail,376123
+May-23,Gold Opal,Ferry,179950
+May-23,Opal Single Ticket,Ferry,22430
+May-23,Opal Single Ticket,Ferry,7432
+May-23,Opal Single Ticket,Light Rail,3756
+May-23,Opal Single Ticket,Light Rail,1159
+May-23,Opal Single Ticket,Train,95421
+May-23,Opal Single Ticket,Metro,4280
+May-23,Opal Single Ticket,Train,38794
+May-23,Opal Single Ticket,Metro,4203
+Jun-23,Adult,Train,11125518
+Jun-23,Adult,Metro,804348
+Jun-23,Adult,Bus,6737620
+Jun-23,Adult,Light Rail,1215247
+Jun-23,Adult,Ferry,368793
+Jun-23,Adult,Bus,122
+Jun-23,Adult,Bus,36
+Jun-23,Adult,Bus,20
+Jun-23,Child/Youth,Train,699889
+Jun-23,Child/Youth,Metro,97142
+Jun-23,Child/Youth,Bus,631376
+Jun-23,Child/Youth,Light Rail,98239
+Jun-23,Child/Youth,Ferry,81197
+Jun-23,Opal Single Ticket,Bus,2
+Jun-23,Opal Single Ticket,Bus,2
+Jun-23,Opal Single Ticket,Bus,2
+Jun-23,Concession,Train,1035260
+Jun-23,Concession,Metro,127955
+Jun-23,Concession,Bus,738771
+Jun-23,Concession,Light Rail,290288
+Jun-23,Concession,Ferry,17989
+Jun-23,CTP,Train,8362292
+Jun-23,CTP,Metro,561048
+Jun-23,CTP,Bus,5807866
+Jun-23,CTP,Light Rail,1192649
+Jun-23,CTP,Ferry,525745
+Jun-23,Day Pass Ticket,Train,53
+Jun-23,Day Pass Ticket,Bus,32
+Jun-23,Day Pass Ticket,Ferry,180
+Jun-23,Day Pass Ticket,Train,762
+Jun-23,Day Pass Ticket,Metro,12
+Jun-23,Day Pass Ticket,Bus,795
+Jun-23,Day Pass Ticket,Light Rail,54
+Jun-23,Day Pass Ticket,Ferry,25
+Jun-23,Other,Train,232823
+Jun-23,Other,Metro,10409
+Jun-23,Other,Bus,59092
+Jun-23,Other,Light Rail,9010
+Jun-23,Other,Ferry,4629
+Jun-23,Free Opal,Train,22808
+Jun-23,Free Opal,Metro,1396
+Jun-23,Free Opal,Bus,28632
+Jun-23,Free Opal,Light Rail,3044
+Jun-23,Free Opal,Ferry,1959
+Jun-23,Other,Bus,21708
+Jun-23,School Opal,Train,989713
+Jun-23,School Opal,Metro,151260
+Jun-23,School Opal,Bus,1438756
+Jun-23,School Opal,Light Rail,36701
+Jun-23,School Opal,Ferry,9444
+Jun-23,Gold Opal,Train,2313958
+Jun-23,Gold Opal,Metro,137428
+Jun-23,Gold Opal,Bus,3121090
+Jun-23,Gold Opal,Light Rail,378319
+Jun-23,Gold Opal,Ferry,187557
+Jun-23,Opal Single Ticket,Ferry,25841
+Jun-23,Opal Single Ticket,Ferry,15060
+Jun-23,Opal Single Ticket,Light Rail,3976
+Jun-23,Opal Single Ticket,Light Rail,2101
+Jun-23,Opal Single Ticket,Train,98915
+Jun-23,Opal Single Ticket,Metro,5053
+Jun-23,Opal Single Ticket,Train,55583
+Jun-23,Opal Single Ticket,Metro,5699
+Jul-23,Adult,Train,11122119
+Jul-23,Adult,Metro,825582
+Jul-23,Adult,Bus,6954647
+Jul-23,Adult,Light Rail,1149868
+Jul-23,Adult,Ferry,377456
+Jul-23,Adult,Bus,167
+Jul-23,Adult,Bus,58
+Jul-23,Adult,Bus,31
+Jul-23,Child/Youth,Train,907208
+Jul-23,Child/Youth,Metro,149843
+Jul-23,Child/Youth,Bus,862457
+Jul-23,Child/Youth,Light Rail,134564
+Jul-23,Child/Youth,Ferry,115924
+Jul-23,Opal Single Ticket,Bus,2
+Jul-23,Opal Single Ticket,Bus,2
+Jul-23,Concession,Train,977222
+Jul-23,Concession,Metro,124525
+Jul-23,Concession,Bus,704268
+Jul-23,Concession,Light Rail,235995
+Jul-23,Concession,Ferry,16318
+Jul-23,CTP,Train,8136606
+Jul-23,CTP,Metro,569571
+Jul-23,CTP,Bus,5933683
+Jul-23,CTP,Light Rail,1104264
+Jul-23,CTP,Ferry,507179
+Jul-23,Day Pass Ticket,Train,257
+Jul-23,Day Pass Ticket,Bus,75
+Jul-23,Day Pass Ticket,Light Rail,3
+Jul-23,Day Pass Ticket,Train,846
+Jul-23,Day Pass Ticket,Metro,5
+Jul-23,Day Pass Ticket,Bus,897
+Jul-23,Day Pass Ticket,Light Rail,54
+Jul-23,Day Pass Ticket,Ferry,14
+Jul-23,Other,Train,218727
+Jul-23,Other,Metro,9371
+Jul-23,Other,Bus,55711
+Jul-23,Other,Light Rail,7572
+Jul-23,Other,Ferry,4069
+Jul-23,Free Opal,Train,22258
+Jul-23,Free Opal,Metro,1427
+Jul-23,Free Opal,Bus,28817
+Jul-23,Free Opal,Light Rail,2689
+Jul-23,Free Opal,Ferry,1813
+Jul-23,Other,Bus,22410
+Jul-23,School Opal,Train,515761
+Jul-23,School Opal,Metro,78880
+Jul-23,School Opal,Bus,732360
+Jul-23,School Opal,Light Rail,18370
+Jul-23,School Opal,Ferry,4909
+Jul-23,Gold Opal,Train,2273206
+Jul-23,Gold Opal,Metro,143432
+Jul-23,Gold Opal,Bus,3144619
+Jul-23,Gold Opal,Light Rail,343471
+Jul-23,Gold Opal,Ferry,177909
+Jul-23,Opal Single Ticket,Ferry,33586
+Jul-23,Opal Single Ticket,Ferry,23753
+Jul-23,Opal Single Ticket,Light Rail,4842
+Jul-23,Opal Single Ticket,Light Rail,3125
+Jul-23,Opal Single Ticket,Train,101309
+Jul-23,Opal Single Ticket,Metro,5401
+Jul-23,Opal Single Ticket,Train,68642
+Jul-23,Opal Single Ticket,Metro,7864
+Aug-23,Adult,Train,12120198
+Aug-23,Adult,Metro,909233
+Aug-23,Adult,Bus,7488394
+Aug-23,Adult,Light Rail,1275747
+Aug-23,Adult,Ferry,350097
+Aug-23,Adult,Bus,119
+Aug-23,Adult,Bus,40
+Aug-23,Adult,Bus,12
+Aug-23,Child/Youth,Train,601211
+Aug-23,Child/Youth,Metro,83827
+Aug-23,Child/Youth,Bus,654775
+Aug-23,Child/Youth,Light Rail,90965
+Aug-23,Child/Youth,Ferry,58485
+Aug-23,Opal Single Ticket,Bus,9
+Aug-23,Opal Single Ticket,Bus,1
+Aug-23,Concession,Train,1466217
+Aug-23,Concession,Metro,215132
+Aug-23,Concession,Bus,1009829
+Aug-23,Concession,Light Rail,218189
+Aug-23,Concession,Ferry,17980
+Aug-23,CTP,Train,9038757
+Aug-23,CTP,Metro,635045
+Aug-23,CTP,Bus,6452578
+Aug-23,CTP,Light Rail,1253138
+Aug-23,CTP,Ferry,492569
+Aug-23,Day Pass Ticket,Train,53
+Aug-23,Day Pass Ticket,Bus,24
+Aug-23,Day Pass Ticket,Light Rail,8
+Aug-23,Day Pass Ticket,Train,954
+Aug-23,Day Pass Ticket,Metro,11
+Aug-23,Day Pass Ticket,Bus,1072
+Aug-23,Day Pass Ticket,Light Rail,45
+Aug-23,Day Pass Ticket,Ferry,6
+Aug-23,Other,Train,244741
+Aug-23,Other,Metro,10206
+Aug-23,Other,Bus,61504
+Aug-23,Other,Light Rail,9078
+Aug-23,Other,Ferry,4023
+Aug-23,Free Opal,Train,24221
+Aug-23,Free Opal,Metro,1528
+Aug-23,Free Opal,Bus,30404
+Aug-23,Free Opal,Light Rail,3044
+Aug-23,Free Opal,Ferry,1505
+Aug-23,Other,Bus,23305
+Aug-23,School Opal,Train,1166240
+Aug-23,School Opal,Metro,177958
+Aug-23,School Opal,Bus,1659586
+Aug-23,School Opal,Light Rail,40469
+Aug-23,School Opal,Ferry,10774
+Aug-23,Gold Opal,Train,2435494
+Aug-23,Gold Opal,Metro,146962
+Aug-23,Gold Opal,Bus,3327349
+Aug-23,Gold Opal,Light Rail,381478
+Aug-23,Gold Opal,Ferry,171227
+Aug-23,Opal Single Ticket,Ferry,28060
+Aug-23,Opal Single Ticket,Ferry,12682
+Aug-23,Opal Single Ticket,Light Rail,4586
+Aug-23,Opal Single Ticket,Light Rail,2033
+Aug-23,Opal Single Ticket,Train,98722
+Aug-23,Opal Single Ticket,Metro,4397
+Aug-23,Opal Single Ticket,Train,45109
+Aug-23,Opal Single Ticket,Metro,4478
+Sep-23,Adult,Train,11311219
+Sep-23,Adult,Metro,840910
+Sep-23,Adult,Bus,7210065
+Sep-23,Adult,Light Rail,1358618
+Sep-23,Adult,Ferry,376791
+Sep-23,Adult,Bus,205
+Sep-23,Adult,Bus,36
+Sep-23,Adult,Bus,21
+Sep-23,Child/Youth,Train,738875
+Sep-23,Child/Youth,Metro,117707
+Sep-23,Child/Youth,Bus,745820
+Sep-23,Child/Youth,Light Rail,125859
+Sep-23,Child/Youth,Ferry,92422
+Sep-23,Opal Single Ticket,Bus,4
+Sep-23,Opal Single Ticket,Bus,6
+Sep-23,Concession,Train,1262255
+Sep-23,Concession,Metro,158540
+Sep-23,Concession,Bus,878719
+Sep-23,Concession,Light Rail,271630
+Sep-23,Concession,Ferry,19627
+Sep-23,CTP,Train,8689041
+Sep-23,CTP,Metro,604732
+Sep-23,CTP,Bus,6414509
+Sep-23,CTP,Light Rail,1359296
+Sep-23,CTP,Ferry,556722
+Sep-23,Day Pass Ticket,Train,39
+Sep-23,Day Pass Ticket,Bus,35
+Sep-23,Day Pass Ticket,Light Rail,2
+Sep-23,Day Pass Ticket,Ferry,288
+Sep-23,Day Pass Ticket,Train,946
+Sep-23,Day Pass Ticket,Metro,3
+Sep-23,Day Pass Ticket,Bus,1104
+Sep-23,Day Pass Ticket,Light Rail,41
+Sep-23,Day Pass Ticket,Ferry,64
+Sep-23,Other,Train,225478
+Sep-23,Other,Metro,9809
+Sep-23,Other,Bus,59160
+Sep-23,Other,Light Rail,9270
+Sep-23,Other,Ferry,4148
+Sep-23,Free Opal,Train,22390
+Sep-23,Free Opal,Metro,1399
+Sep-23,Free Opal,Bus,28199
+Sep-23,Free Opal,Light Rail,3081
+Sep-23,Free Opal,Ferry,1866
+Sep-23,Other,Bus,21874
+Sep-23,School Opal,Train,786034
+Sep-23,School Opal,Metro,126407
+Sep-23,School Opal,Bus,1103009
+Sep-23,School Opal,Light Rail,27329
+Sep-23,School Opal,Ferry,9030
+Sep-23,Gold Opal,Train,2331482
+Sep-23,Gold Opal,Metro,146648
+Sep-23,Gold Opal,Bus,3177181
+Sep-23,Gold Opal,Light Rail,397490
+Sep-23,Gold Opal,Ferry,179761
+Sep-23,Opal Single Ticket,Ferry,29477
+Sep-23,Opal Single Ticket,Ferry,16992
+Sep-23,Opal Single Ticket,Light Rail,4465
+Sep-23,Opal Single Ticket,Light Rail,2130
+Sep-23,Opal Single Ticket,Train,94539
+Sep-23,Opal Single Ticket,Metro,4262
+Sep-23,Opal Single Ticket,Train,52145
+Sep-23,Opal Single Ticket,Metro,6096
+Oct-23,Adult,Train,11463667
+Oct-23,Adult,Metro,852938
+Oct-23,Adult,Bus,7376720
+Oct-23,Adult,Light Rail,1348216
+Oct-23,Adult,Ferry,442219
+Oct-23,Adult,Bus,109
+Oct-23,Adult,Bus,48
+Oct-23,Adult,Bus,26
+Oct-23,Child/Youth,Train,705858
+Oct-23,Child/Youth,Metro,110704
+Oct-23,Child/Youth,Bus,750832
+Oct-23,Child/Youth,Light Rail,104704
+Oct-23,Child/Youth,Ferry,86327
+Oct-23,Opal Single Ticket,Bus,1
+Oct-23,Opal Single Ticket,Bus,1
+Oct-23,Concession,Train,1300116
+Oct-23,Concession,Metro,177429
+Oct-23,Concession,Bus,913122
+Oct-23,Concession,Light Rail,275764
+Oct-23,Concession,Ferry,20405
+Oct-23,CTP,Train,9076600
+Oct-23,CTP,Metro,601032
+Oct-23,CTP,Bus,6848735
+Oct-23,CTP,Light Rail,1413262
+Oct-23,CTP,Ferry,702214
+Oct-23,Day Pass Ticket,Train,23
+Oct-23,Day Pass Ticket,Bus,46
+Oct-23,Day Pass Ticket,Light Rail,1
+Oct-23,Day Pass Ticket,Train,999
+Oct-23,Day Pass Ticket,Metro,10
+Oct-23,Day Pass Ticket,Bus,965
+Oct-23,Day Pass Ticket,Light Rail,68
+Oct-23,Day Pass Ticket,Ferry,25
+Oct-23,Other,Train,233221
+Oct-23,Other,Metro,10057
+Oct-23,Other,Bus,62160
+Oct-23,Other,Light Rail,9672
+Oct-23,Other,Ferry,4548
+Oct-23,Free Opal,Train,22991
+Oct-23,Free Opal,Metro,1623
+Oct-23,Free Opal,Bus,29730
+Oct-23,Free Opal,Light Rail,2962
+Oct-23,Free Opal,Ferry,1941
+Oct-23,Other,Bus,22581
+Oct-23,School Opal,Train,798096
+Oct-23,School Opal,Metro,128319
+Oct-23,School Opal,Bus,1149219
+Oct-23,School Opal,Light Rail,26385
+Oct-23,School Opal,Ferry,7801
+Oct-23,Gold Opal,Train,2357874
+Oct-23,Gold Opal,Metro,141713
+Oct-23,Gold Opal,Bus,3261947
+Oct-23,Gold Opal,Light Rail,403177
+Oct-23,Gold Opal,Ferry,190452
+Oct-23,Opal Single Ticket,Ferry,30061
+Oct-23,Opal Single Ticket,Ferry,14062
+Oct-23,Opal Single Ticket,Light Rail,4201
+Oct-23,Opal Single Ticket,Light Rail,1770
+Oct-23,Opal Single Ticket,Train,96729
+Oct-23,Opal Single Ticket,Metro,4173
+Oct-23,Opal Single Ticket,Train,49139
+Oct-23,Opal Single Ticket,Metro,5416
+Nov-23,Adult,Train,11520770
+Nov-23,Adult,Metro,854398
+Nov-23,Adult,Bus,7332267
+Nov-23,Adult,Light Rail,1303119
+Nov-23,Adult,Ferry,404050
+Nov-23,Adult,Bus,120
+Nov-23,Adult,Bus,72
+Nov-23,Adult,Bus,29
+Nov-23,Child/Youth,Train,591971
+Nov-23,Child/Youth,Metro,90685
+Nov-23,Child/Youth,Bus,638475
+Nov-23,Child/Youth,Light Rail,82530
+Nov-23,Child/Youth,Ferry,54515
+Nov-23,Opal Single Ticket,Bus,1
+Nov-23,Opal Single Ticket,Bus,2
+Nov-23,Concession,Train,1036134
+Nov-23,Concession,Metro,128213
+Nov-23,Concession,Bus,764431
+Nov-23,Concession,Light Rail,228118
+Nov-23,Concession,Ferry,16881
+Nov-23,CTP,Train,9333408
+Nov-23,CTP,Metro,611217
+Nov-23,CTP,Bus,7022689
+Nov-23,CTP,Light Rail,1454149
+Nov-23,CTP,Ferry,700752
+Nov-23,Day Pass Ticket,Train,99
+Nov-23,Day Pass Ticket,Bus,35
+Nov-23,Day Pass Ticket,Light Rail,6
+Nov-23,Day Pass Ticket,Ferry,179
+Nov-23,Day Pass Ticket,Train,847
+Nov-23,Day Pass Ticket,Metro,103
+Nov-23,Day Pass Ticket,Bus,1000
+Nov-23,Day Pass Ticket,Light Rail,23
+Nov-23,Day Pass Ticket,Ferry,51
+Nov-23,Other,Train,240870
+Nov-23,Other,Metro,10148
+Nov-23,Other,Bus,62959
+Nov-23,Other,Light Rail,10259
+Nov-23,Other,Ferry,4495
+Nov-23,Free Opal,Train,24423
+Nov-23,Free Opal,Metro,1674
+Nov-23,Free Opal,Bus,30071
+Nov-23,Free Opal,Light Rail,3282
+Nov-23,Free Opal,Ferry,1798
+Nov-23,Other,Bus,22514
+Nov-23,School Opal,Train,1015165
+Nov-23,School Opal,Metro,166224
+Nov-23,School Opal,Bus,1421368
+Nov-23,School Opal,Light Rail,36321
+Nov-23,School Opal,Ferry,11206
+Nov-23,Gold Opal,Train,2426988
+Nov-23,Gold Opal,Metro,147231
+Nov-23,Gold Opal,Bus,3352004
+Nov-23,Gold Opal,Light Rail,395800
+Nov-23,Gold Opal,Ferry,178886
+Nov-23,Opal Single Ticket,Ferry,26596
+Nov-23,Opal Single Ticket,Ferry,7473
+Nov-23,Opal Single Ticket,Light Rail,4257
+Nov-23,Opal Single Ticket,Light Rail,1258
+Nov-23,Opal Single Ticket,Train,98566
+Nov-23,Opal Single Ticket,Metro,4240
+Nov-23,Opal Single Ticket,Train,37905
+Nov-23,Opal Single Ticket,Metro,4173
+Dec-23,Adult,Train,10198973
+Dec-23,Adult,Metro,696546
+Dec-23,Adult,Bus,6558058
+Dec-23,Adult,Light Rail,1307770
+Dec-23,Adult,Ferry,491772
+Dec-23,Adult,Bus,140
+Dec-23,Adult,Bus,36
+Dec-23,Adult,Bus,21
+Dec-23,Child/Youth,Train,837053
+Dec-23,Child/Youth,Metro,118165
+Dec-23,Child/Youth,Bus,788695
+Dec-23,Child/Youth,Light Rail,150385
+Dec-23,Child/Youth,Ferry,117082
+Dec-23,Opal Single Ticket,Bus,2
+Dec-23,Opal Single Ticket,Bus,1
+Dec-23,Concession,Train,757253
+Dec-23,Concession,Metro,86504
+Dec-23,Concession,Bus,564924
+Dec-23,Concession,Light Rail,113096
+Dec-23,Concession,Ferry,20165
+Dec-23,CTP,Train,8647726
+Dec-23,CTP,Metro,495827
+Dec-23,CTP,Bus,6687137
+Dec-23,CTP,Light Rail,1471476
+Dec-23,CTP,Ferry,871206
+Dec-23,Day Pass Ticket,Train,20
+Dec-23,Day Pass Ticket,Bus,17
+Dec-23,Day Pass Ticket,Light Rail,5
+Dec-23,Day Pass Ticket,Ferry,1
+Dec-23,Day Pass Ticket,Train,972
+Dec-23,Day Pass Ticket,Metro,16
+Dec-23,Day Pass Ticket,Bus,1002
+Dec-23,Day Pass Ticket,Light Rail,62
+Dec-23,Day Pass Ticket,Ferry,54
+Dec-23,Other,Train,225374
+Dec-23,Other,Metro,8690
+Dec-23,Other,Bus,59638
+Dec-23,Other,Light Rail,10667
+Dec-23,Other,Ferry,4786
+Dec-23,Free Opal,Train,20970
+Dec-23,Free Opal,Metro,1253
+Dec-23,Free Opal,Bus,27716
+Dec-23,Free Opal,Light Rail,3228
+Dec-23,Free Opal,Ferry,1937
+Dec-23,Other,Bus,19650
+Dec-23,School Opal,Train,394784
+Dec-23,School Opal,Metro,67107
+Dec-23,School Opal,Bus,547473
+Dec-23,School Opal,Light Rail,16331
+Dec-23,School Opal,Ferry,7817
+Dec-23,Gold Opal,Train,2286113
+Dec-23,Gold Opal,Metro,133112
+Dec-23,Gold Opal,Bus,3116395
+Dec-23,Gold Opal,Light Rail,412941
+Dec-23,Gold Opal,Ferry,189510
+Dec-23,Opal Single Ticket,Ferry,43482
+Dec-23,Opal Single Ticket,Ferry,23980
+Dec-23,Opal Single Ticket,Light Rail,5543
+Dec-23,Opal Single Ticket,Light Rail,3046
+Dec-23,Opal Single Ticket,Train,114217
+Dec-23,Opal Single Ticket,Metro,5328
+Dec-23,Opal Single Ticket,Train,70483
+Dec-23,Opal Single Ticket,Metro,6936
+Jan-24,Adult,Train,9761386
+Jan-24,Adult,Metro,694858
+Jan-24,Adult,Bus,6431567
+Jan-24,Adult,Light Rail,1201688
+Jan-24,Adult,Ferry,510730
+Jan-24,Adult,Bus,153
+Jan-24,Adult,Bus,58
+Jan-24,Adult,Bus,33
+Jan-24,Child/Youth,Train,990126
+Jan-24,Child/Youth,Metro,153636
+Jan-24,Child/Youth,Bus,955597
+Jan-24,Child/Youth,Light Rail,189990
+Jan-24,Child/Youth,Ferry,178737
+Jan-24,Opal Single Ticket,Bus,2
+Jan-24,Opal Single Ticket,Bus,5
+Jan-24,Opal Single Ticket,Bus,2
+Jan-24,Concession,Train,691578
+Jan-24,Concession,Metro,83564
+Jan-24,Concession,Bus,525938
+Jan-24,Concession,Light Rail,97896
+Jan-24,Concession,Ferry,19725
+Jan-24,CTP,Train,8328524
+Jan-24,CTP,Metro,493499
+Jan-24,CTP,Bus,6712143
+Jan-24,CTP,Light Rail,1363815
+Jan-24,CTP,Ferry,917387
+Jan-24,Day Pass Ticket,Train,19
+Jan-24,Day Pass Ticket,Bus,14
+Jan-24,Day Pass Ticket,Light Rail,8
+Jan-24,Day Pass Ticket,Ferry,1
+Jan-24,Day Pass Ticket,Train,910
+Jan-24,Day Pass Ticket,Metro,23
+Jan-24,Day Pass Ticket,Bus,1217
+Jan-24,Day Pass Ticket,Light Rail,79
+Jan-24,Day Pass Ticket,Ferry,54
+Jan-24,Other,Train,212573
+Jan-24,Other,Metro,8101
+Jan-24,Other,Bus,56115
+Jan-24,Other,Light Rail,9352
+Jan-24,Other,Ferry,5041
+Jan-24,Free Opal,Train,19670
+Jan-24,Free Opal,Metro,1185
+Jan-24,Free Opal,Bus,27006
+Jan-24,Free Opal,Light Rail,2929
+Jan-24,Free Opal,Ferry,2034
+Jan-24,Other,Bus,21799
+Jan-24,School Opal,Train,28741
+Jan-24,School Opal,Metro,3139
+Jan-24,School Opal,Bus,31302
+Jan-24,School Opal,Light Rail,1345
+Jan-24,School Opal,Ferry,628
+Jan-24,Gold Opal,Train,2159745
+Jan-24,Gold Opal,Metro,131751
+Jan-24,Gold Opal,Bus,3044731
+Jan-24,Gold Opal,Light Rail,401388
+Jan-24,Gold Opal,Ferry,215800
+Jan-24,Opal Single Ticket,Ferry,44639
+Jan-24,Opal Single Ticket,Ferry,29225
+Jan-24,Opal Single Ticket,Light Rail,5026
+Jan-24,Opal Single Ticket,Light Rail,3518
+Jan-24,Opal Single Ticket,Train,96665
+Jan-24,Opal Single Ticket,Metro,4313
+Jan-24,Opal Single Ticket,Train,75787
+Jan-24,Opal Single Ticket,Metro,7430
+Feb-24,Adult,Train,11065961
+Feb-24,Adult,Metro,816646
+Feb-24,Adult,Bus,7220924
+Feb-24,Adult,Light Rail,1336335
+Feb-24,Adult,Ferry,444347
+Feb-24,Adult,Bus,132
+Feb-24,Adult,Bus,49
+Feb-24,Adult,Bus,14
+Feb-24,Child/Youth,Train,657730
+Feb-24,Child/Youth,Metro,94530
+Feb-24,Child/Youth,Bus,729898
+Feb-24,Child/Youth,Light Rail,118509
+Feb-24,Child/Youth,Ferry,63340
+Feb-24,Opal Single Ticket,Bus,4
+Feb-24,Opal Single Ticket,Bus,4
+Feb-24,Concession,Train,1208277
+Feb-24,Concession,Metro,153603
+Feb-24,Concession,Bus,845380
+Feb-24,Concession,Light Rail,288289
+Feb-24,Concession,Ferry,20363
+Feb-24,CTP,Train,9659653
+Feb-24,CTP,Metro,586732
+Feb-24,CTP,Bus,7202010
+Feb-24,CTP,Light Rail,1558077
+Feb-24,CTP,Ferry,834025
+Feb-24,Day Pass Ticket,Train,14
+Feb-24,Day Pass Ticket,Bus,10
+Feb-24,Day Pass Ticket,Train,1060
+Feb-24,Day Pass Ticket,Metro,15
+Feb-24,Day Pass Ticket,Bus,1198
+Feb-24,Day Pass Ticket,Light Rail,63
+Feb-24,Day Pass Ticket,Ferry,48
+Feb-24,Other,Train,224493
+Feb-24,Other,Metro,8471
+Feb-24,Other,Bus,58826
+Feb-24,Other,Light Rail,9060
+Feb-24,Other,Ferry,4210
+Feb-24,Free Opal,Train,22693
+Feb-24,Free Opal,Metro,1430
+Feb-24,Free Opal,Bus,27664
+Feb-24,Free Opal,Light Rail,3146
+Feb-24,Free Opal,Ferry,1739
+Feb-24,Other,Bus,19553
+Feb-24,School Opal,Train,1086356
+Feb-24,School Opal,Metro,168441
+Feb-24,School Opal,Bus,1528035
+Feb-24,School Opal,Light Rail,46355
+Feb-24,School Opal,Ferry,11140
+Feb-24,Gold Opal,Train,2316008
+Feb-24,Gold Opal,Metro,135024
+Feb-24,Gold Opal,Bus,3150673
+Feb-24,Gold Opal,Light Rail,393540
+Feb-24,Gold Opal,Ferry,185346
+Feb-24,Opal Single Ticket,Ferry,35042
+Feb-24,Opal Single Ticket,Ferry,11246
+Feb-24,Opal Single Ticket,Light Rail,4736
+Feb-24,Opal Single Ticket,Light Rail,1746
+Feb-24,Opal Single Ticket,Train,103265
+Feb-24,Opal Single Ticket,Metro,4015
+Feb-24,Opal Single Ticket,Train,41670
+Feb-24,Opal Single Ticket,Metro,3669
+Mar-24,Adult,Train,11523217
+Mar-24,Adult,Metro,806511
+Mar-24,Adult,Bus,7313069
+Mar-24,Adult,Light Rail,1344444
+Mar-24,Adult,Ferry,476411
+Mar-24,Adult,Bus,151
+Mar-24,Adult,Bus,45
+Mar-24,Adult,Bus,26
+Mar-24,Child/Youth,Train,673540
+Mar-24,Child/Youth,Metro,77443
+Mar-24,Child/Youth,Bus,669586
+Mar-24,Child/Youth,Light Rail,99926
+Mar-24,Child/Youth,Ferry,71044
+Mar-24,Opal Single Ticket,Bus,3
+Mar-24,Concession,Train,1691060
+Mar-24,Concession,Metro,229318
+Mar-24,Concession,Bus,1127295
+Mar-24,Concession,Light Rail,355368
+Mar-24,Concession,Ferry,26459
+Mar-24,CTP,Train,10182369
+Mar-24,CTP,Metro,579769
+Mar-24,CTP,Bus,7413241
+Mar-24,CTP,Light Rail,1609425
+Mar-24,CTP,Ferry,893411
+Mar-24,Day Pass Ticket,Train,118
+Mar-24,Day Pass Ticket,Bus,9
+Mar-24,Day Pass Ticket,Light Rail,6
+Mar-24,Day Pass Ticket,Ferry,4
+Mar-24,Day Pass Ticket,Train,914
+Mar-24,Day Pass Ticket,Metro,6
+Mar-24,Day Pass Ticket,Bus,1094
+Mar-24,Day Pass Ticket,Light Rail,59
+Mar-24,Day Pass Ticket,Ferry,42
+Mar-24,Other,Train,230790
+Mar-24,Other,Metro,8478
+Mar-24,Other,Bus,61225
+Mar-24,Other,Light Rail,9800
+Mar-24,Other,Ferry,4622
+Mar-24,Free Opal,Train,24443
+Mar-24,Free Opal,Metro,1422
+Mar-24,Free Opal,Bus,29272
+Mar-24,Free Opal,Light Rail,3468
+Mar-24,Free Opal,Ferry,1980
+Mar-24,Other,Bus,30549
+Mar-24,School Opal,Train,1097497
+Mar-24,School Opal,Metro,165436
+Mar-24,School Opal,Bus,1480056
+Mar-24,School Opal,Light Rail,48018
+Mar-24,School Opal,Ferry,11017
+Mar-24,Gold Opal,Train,2547532
+Mar-24,Gold Opal,Metro,134950
+Mar-24,Gold Opal,Bus,3346829
+Mar-24,Gold Opal,Light Rail,455470
+Mar-24,Gold Opal,Ferry,219892
+Mar-24,Opal Single Ticket,Ferry,35060
+Mar-24,Opal Single Ticket,Ferry,12898
+Mar-24,Opal Single Ticket,Light Rail,4234
+Mar-24,Opal Single Ticket,Light Rail,1615
+Mar-24,Opal Single Ticket,Train,101397
+Mar-24,Opal Single Ticket,Metro,3577
+Mar-24,Opal Single Ticket,Train,44722
+Mar-24,Opal Single Ticket,Metro,3117
+Apr-24,Adult,Train,10396277
+Apr-24,Adult,Metro,781979
+Apr-24,Adult,Bus,6773024
+Apr-24,Adult,Light Rail,1221104
+Apr-24,Adult,Ferry,416526
+Apr-24,Adult,Bus,129
+Apr-24,Adult,Bus,44
+Apr-24,Adult,Bus,21
+Apr-24,Child/Youth,Train,802714
+Apr-24,Child/Youth,Metro,120094
+Apr-24,Child/Youth,Bus,784615
+Apr-24,Child/Youth,Light Rail,137350
+Apr-24,Child/Youth,Ferry,115922
+Apr-24,Opal Single Ticket,Bus,8
+Apr-24,Opal Single Ticket,Bus,1
+Apr-24,Concession,Train,1317824
+Apr-24,Concession,Metro,169334
+Apr-24,Concession,Bus,920108
+Apr-24,Concession,Light Rail,293959
+Apr-24,Concession,Ferry,22520
+Apr-24,CTP,Train,9110115
+Apr-24,CTP,Metro,582706
+Apr-24,CTP,Bus,6993228
+Apr-24,CTP,Light Rail,1450252
+Apr-24,CTP,Ferry,752219
+Apr-24,Day Pass Ticket,Train,25
+Apr-24,Day Pass Ticket,Bus,53
+Apr-24,Day Pass Ticket,Light Rail,5
+Apr-24,Day Pass Ticket,Ferry,2
+Apr-24,Day Pass Ticket,Train,855
+Apr-24,Day Pass Ticket,Metro,10
+Apr-24,Day Pass Ticket,Bus,1078
+Apr-24,Day Pass Ticket,Light Rail,61
+Apr-24,Day Pass Ticket,Ferry,33
+Apr-24,Other,Train,223523
+Apr-24,Other,Metro,8575
+Apr-24,Other,Bus,63322
+Apr-24,Other,Light Rail,9612
+Apr-24,Other,Ferry,4771
+Apr-24,Free Opal,Train,23460
+Apr-24,Free Opal,Metro,1442
+Apr-24,Free Opal,Bus,27860
+Apr-24,Free Opal,Light Rail,3227
+Apr-24,Free Opal,Ferry,1931
+Apr-24,Other,Bus,17668
+Apr-24,School Opal,Train,501127
+Apr-24,School Opal,Metro,80970
+Apr-24,School Opal,Bus,655730
+Apr-24,School Opal,Light Rail,22128
+Apr-24,School Opal,Ferry,5740
+Apr-24,Gold Opal,Train,2291788
+Apr-24,Gold Opal,Metro,137017
+Apr-24,Gold Opal,Bus,3156444
+Apr-24,Gold Opal,Light Rail,403593
+Apr-24,Gold Opal,Ferry,199553
+Apr-24,Opal Single Ticket,Ferry,30098
+Apr-24,Opal Single Ticket,Ferry,19702
+Apr-24,Opal Single Ticket,Light Rail,3791
+Apr-24,Opal Single Ticket,Light Rail,2366
+Apr-24,Opal Single Ticket,Train,84587
+Apr-24,Opal Single Ticket,Metro,3766
+Apr-24,Opal Single Ticket,Train,58860
+Apr-24,Opal Single Ticket,Metro,6045
+May-24,Adult,Train,11533783
+May-24,Adult,Metro,893693
+May-24,Adult,Bus,7223028
+May-24,Adult,Light Rail,1259449
+May-24,Adult,Ferry,339893
+May-24,Adult,Bus,143
+May-24,Adult,Bus,56
+May-24,Adult,Bus,41
+May-24,Child/Youth,Train,544546
+May-24,Child/Youth,Metro,73088
+May-24,Child/Youth,Bus,574343
+May-24,Child/Youth,Light Rail,68525
+May-24,Child/Youth,Ferry,42430
+May-24,Opal Single Ticket,Bus,2
+May-24,Opal Single Ticket,Bus,2
+May-24,Opal Single Ticket,Bus,1
+May-24,Concession,Train,1426274
+May-24,Concession,Metro,209496
+May-24,Concession,Bus,1014007
+May-24,Concession,Light Rail,242353
+May-24,Concession,Ferry,20930
+May-24,CTP,Train,10112517
+May-24,CTP,Metro,657767
+May-24,CTP,Bus,7317814
+May-24,CTP,Light Rail,1470966
+May-24,CTP,Ferry,628748
+May-24,Day Pass Ticket,Train,108
+May-24,Day Pass Ticket,Metro,31
+May-24,Day Pass Ticket,Bus,37
+May-24,Day Pass Ticket,Light Rail,2
+May-24,Day Pass Ticket,Ferry,102
+May-24,Day Pass Ticket,Train,1013
+May-24,Day Pass Ticket,Metro,9
+May-24,Day Pass Ticket,Bus,991
+May-24,Day Pass Ticket,Light Rail,51
+May-24,Day Pass Ticket,Ferry,33
+May-24,Other,Train,258310
+May-24,Other,Metro,10796
+May-24,Other,Bus,74651
+May-24,Other,Light Rail,10741
+May-24,Other,Ferry,4524
+May-24,Free Opal,Train,25614
+May-24,Free Opal,Metro,1741
+May-24,Free Opal,Bus,28414
+May-24,Free Opal,Light Rail,3098
+May-24,Free Opal,Ferry,1646
+May-24,Other,Bus,22170
+May-24,School Opal,Train,1197747
+May-24,School Opal,Metro,196271
+May-24,School Opal,Bus,1543901
+May-24,School Opal,Light Rail,50589
+May-24,School Opal,Ferry,11349
+May-24,Gold Opal,Train,2520358
+May-24,Gold Opal,Metro,149757
+May-24,Gold Opal,Bus,3364890
+May-24,Gold Opal,Light Rail,412961
+May-24,Gold Opal,Ferry,176704
+May-24,Opal Single Ticket,Ferry,18335
+May-24,Opal Single Ticket,Ferry,6806
+May-24,Opal Single Ticket,Light Rail,2791
+May-24,Opal Single Ticket,Light Rail,941
+May-24,Opal Single Ticket,Train,81902
+May-24,Opal Single Ticket,Metro,3609
+May-24,Opal Single Ticket,Train,37892
+May-24,Opal Single Ticket,Metro,3792
+Jun-24,Adult,Train,10305646
+Jun-24,Adult,Metro,762888
+Jun-24,Adult,Bus,6335894
+Jun-24,Adult,Light Rail,1052342
+Jun-24,Adult,Ferry,333933
+Jun-24,Adult,Bus,113
+Jun-24,Adult,Bus,53
+Jun-24,Adult,Bus,15
+Jun-24,Child/Youth,Train,639003
+Jun-24,Child/Youth,Metro,85393
+Jun-24,Child/Youth,Bus,555438
+Jun-24,Child/Youth,Light Rail,84518
+Jun-24,Child/Youth,Ferry,67165
+Jun-24,Opal Single Ticket,Bus,1
+Jun-24,Opal Single Ticket,Bus,6
+Jun-24,Concession,Train,1100211
+Jun-24,Concession,Metro,131729
+Jun-24,Concession,Bus,791403
+Jun-24,Concession,Light Rail,278259
+Jun-24,Concession,Ferry,19998
+Jun-24,CTP,Train,9158776
+Jun-24,CTP,Metro,547372
+Jun-24,CTP,Bus,6392070
+Jun-24,CTP,Light Rail,1224732
+Jun-24,CTP,Ferry,611038
+Jun-24,Day Pass Ticket,Train,221
+Jun-24,Day Pass Ticket,Bus,9
+Jun-24,Day Pass Ticket,Light Rail,2
+Jun-24,Day Pass Ticket,Ferry,112
+Jun-24,Day Pass Ticket,Train,953
+Jun-24,Day Pass Ticket,Metro,17
+Jun-24,Day Pass Ticket,Bus,1090
+Jun-24,Day Pass Ticket,Light Rail,40
+Jun-24,Day Pass Ticket,Ferry,44
+Jun-24,Other,Train,236705
+Jun-24,Other,Metro,9820
+Jun-24,Other,Bus,67449
+Jun-24,Other,Light Rail,8967
+Jun-24,Other,Ferry,4387
+Jun-24,Free Opal,Train,22609
+Jun-24,Free Opal,Metro,1631
+Jun-24,Free Opal,Bus,25984
+Jun-24,Free Opal,Light Rail,2851
+Jun-24,Free Opal,Ferry,1649
+Jun-24,Other,Bus,18924
+Jun-24,School Opal,Train,959920
+Jun-24,School Opal,Metro,161087
+Jun-24,School Opal,Bus,1211029
+Jun-24,School Opal,Light Rail,33544
+Jun-24,School Opal,Ferry,9467
+Jun-24,Gold Opal,Train,2316168
+Jun-24,Gold Opal,Metro,141101
+Jun-24,Gold Opal,Bus,3029429
+Jun-24,Gold Opal,Light Rail,357716
+Jun-24,Gold Opal,Ferry,164462
+Jun-24,Opal Single Ticket,Ferry,22182
+Jun-24,Opal Single Ticket,Ferry,12969
+Jun-24,Opal Single Ticket,Light Rail,3071
+Jun-24,Opal Single Ticket,Light Rail,1624
+Jun-24,Opal Single Ticket,Train,81125
+Jun-24,Opal Single Ticket,Metro,3330
+Jun-24,Opal Single Ticket,Train,49362
+Jun-24,Opal Single Ticket,Metro,4313
+Jul-24,Adult,Bus,6943824
+Jul-24,Adult,Ferry,362266
+Jul-24,Adult,Bus,160
+Jul-24,Adult,Bus,51
+Jul-24,Adult,Bus,29
+Jul-24,Child/Youth,Bus,816411
+Jul-24,Child/Youth,Ferry,113981
+Jul-24,Opal Single Ticket,Bus,2
+Jul-24,Opal Single Ticket,Bus,3
+Jul-24,Concession,Bus,822386
+Jul-24,Concession,Ferry,19041
+Jul-24,CTP,Bus,6975633
+Jul-24,CTP,Ferry,625816
+Jul-24,Day Pass Ticket,Bus,19
+Jul-24,Day Pass Ticket,Ferry,79
+Jul-24,Day Pass Ticket,Bus,1245
+Jul-24,Day Pass Ticket,Ferry,25
+Jul-24,Other,Bus,74876
+Jul-24,Other,Ferry,4474
+Jul-24,Free Opal,Bus,29209
+Jul-24,Free Opal,Ferry,1714
+Jul-24,Other,Bus,22949
+Jul-24,School Opal,Bus,703393
+Jul-24,School Opal,Ferry,4669
+Jul-24,Gold Opal,Bus,3289418
+Jul-24,Gold Opal,Ferry,170834
+Jul-24,Opal Single Ticket,Ferry,27049
+Jul-24,Opal Single Ticket,Ferry,19476
+Aug-24,Adult,Bus,7133592
+Aug-24,Adult,Bus,208
+Aug-24,Adult,Bus,60
+Aug-24,Adult,Bus,25
+Aug-24,Child/Youth,Bus,635485
+Aug-24,Opal Single Ticket,Bus,12
+Aug-24,Opal Single Ticket,Bus,2
+Aug-24,Concession,Bus,1100515
+Aug-24,CTP,Bus,7234374
+Aug-24,Day Pass Ticket,Bus,10
+Aug-24,Day Pass Ticket,Bus,1219
+Aug-24,Other,Bus,76476
+Aug-24,Free Opal,Bus,30116
+Aug-24,Other,Bus,18237
+Aug-24,School Opal,Bus,1410381
+Aug-24,Gold Opal,Bus,3400280
+Sep-24,Adult,Bus,6789941
+Sep-24,Adult,Bus,126
+Sep-24,Adult,Bus,82
+Sep-24,Adult,Bus,32
+Sep-24,Child/Youth,Bus,586802
+Sep-24,Opal Single Ticket,Bus,3
+Sep-24,Opal Single Ticket,Bus,6
+Sep-24,Concession,Bus,1022087
+Sep-24,CTP,Bus,7093100
+Sep-24,Day Pass Ticket,Bus,34
+Sep-24,Day Pass Ticket,Bus,1270
+Sep-24,Other,Bus,72682
+Sep-24,Free Opal,Bus,29698
+Sep-24,Other,Bus,17261
+Sep-24,School Opal,Bus,1236455
+Sep-24,Gold Opal,Bus,3258291
+Oct-24,Adult,Bus,7052027
+Oct-24,Adult,Bus,131
+Oct-24,Adult,Bus,79
+Oct-24,Adult,Bus,15
+Oct-24,Child/Youth,Bus,766483
+Oct-24,Opal Single Ticket,Bus,7
+Oct-24,Opal Single Ticket,Bus,1
+Oct-24,Concession,Bus,1017744
+Oct-24,CTP,Bus,7714601
+Oct-24,Day Pass Ticket,Bus,47
+Oct-24,Day Pass Ticket,Bus,1213
+Oct-24,Other,Bus,76796
+Oct-24,Free Opal,Bus,30353
+Oct-24,Other,Bus,3557
+Oct-24,School Opal,Bus,826106
+Oct-24,Gold Opal,Bus,3445453
+Nov-24,Adult,Bus,6851421
+Nov-24,Adult,Bus,188
+Nov-24,Adult,Bus,50
+Nov-24,Adult,Bus,18
+Nov-24,Child/Youth,Bus,600853
+Nov-24,Opal Single Ticket,Bus,3
+Nov-24,Opal Single Ticket,Bus,2
+Nov-24,Concession,Bus,846127
+Nov-24,CTP,Bus,7647518
+Nov-24,Day Pass Ticket,Bus,21
+Nov-24,Day Pass Ticket,Bus,1025
+Nov-24,Other,Bus,75581
+Nov-24,Free Opal,Bus,30301
+Nov-24,School Opal,Bus,1201665
+Nov-24,Gold Opal,Bus,3397148
+Dec-24,Adult,Bus,6252737
+Dec-24,Adult,Bus,168
+Dec-24,Adult,Bus,40
+Dec-24,Adult,Bus,23
+Dec-24,Child/Youth,Bus,729381
+Dec-24,Opal Single Ticket,Bus,7
+Dec-24,Opal Single Ticket,Bus,1
+Dec-24,Opal Single Ticket,Bus,1
+Dec-24,Concession,Bus,640101
+Dec-24,CTP,Bus,7273391
+Dec-24,Day Pass Ticket,Bus,134
+Dec-24,Day Pass Ticket,Bus,837
+Dec-24,Other,Bus,75308
+Dec-24,Free Opal,Bus,28247
+Dec-24,Other,Bus,99
+Dec-24,School Opal,Bus,563977
+Dec-24,Gold Opal,Bus,3298004
+Jan-25,Adult,Bus,6041440
+Jan-25,Adult,Bus,124
+Jan-25,Adult,Bus,55
+Jan-25,Adult,Bus,23
+Jan-25,Child/Youth,Bus,876824
+Jan-25,Opal Single Ticket,Bus,5
+Jan-25,Opal Single Ticket,Bus,2
+Jan-25,Concession,Bus,578304
+Jan-25,CTP,Bus,6356228
+Jan-25,Day Pass Ticket,Bus,2
+Jan-25,Day Pass Ticket,Bus,859
+Jan-25,Other,Bus,72046
+Jan-25,Free Opal,Bus,28032
+Jan-25,Other,Bus,13044
+Jan-25,School Opal,Bus,11060
+Jan-25,Gold Opal,Bus,3130303
+Feb-25,Adult,Bus,6525607
+Feb-25,Adult,Bus,125
+Feb-25,Adult,Bus,60
+Feb-25,Adult,Bus,35
+Feb-25,Child/Youth,Bus,704312
+Feb-25,Opal Single Ticket,Bus,5
+Feb-25,Opal Single Ticket,Bus,4
+Feb-25,Concession,Bus,879019
+Feb-25,CTP,Bus,6818000
+Feb-25,Day Pass Ticket,Bus,44
+Feb-25,Day Pass Ticket,Bus,997
+Feb-25,Other,Bus,75754
+Feb-25,Free Opal,Bus,29544
+Feb-25,Other,Bus,16470
+Feb-25,School Opal,Bus,1314999
+Feb-25,Gold Opal,Bus,3231124
+Mar-25,Adult,Bus,7082924
+Mar-25,Adult,Bus,174
+Mar-25,Adult,Bus,79
+Mar-25,Adult,Bus,28
+Mar-25,Child/Youth,Bus,639500
+Mar-25,Opal Single Ticket,Bus,1
+Mar-25,Opal Single Ticket,Bus,15
+Mar-25,Concession,Bus,1313829
+Mar-25,CTP,Bus,8544261
+Mar-25,Day Pass Ticket,Bus,54
+Mar-25,Day Pass Ticket,Bus,1006
+Mar-25,Other,Bus,81271
+Mar-25,Free Opal,Bus,31378
+Mar-25,Other,Bus,17614
+Mar-25,School Opal,Bus,1531367
+Mar-25,Gold Opal,Bus,3435057
+Apr-25,Adult,Bus,6181832
+Apr-25,Adult,Bus,149
+Apr-25,Adult,Bus,70
+Apr-25,Adult,Bus,14
+Apr-25,Child/Youth,Bus,727732
+Apr-25,Opal Single Ticket,Bus,1
+Apr-25,Opal Single Ticket,Bus,1
+Apr-25,Concession,Bus,1055957
+Apr-25,CTP,Bus,7511826
+Apr-25,Day Pass Ticket,Bus,7
+Apr-25,Day Pass Ticket,Bus,918
+Apr-25,Other,Bus,74296
+Apr-25,Free Opal,Bus,27494
+Apr-25,Other,Bus,16330
+Apr-25,School Opal,Bus,716420
+Apr-25,Gold Opal,Bus,3134552
+May-25,Adult,Bus,6625816
+May-25,Adult,Bus,157
+May-25,Adult,Bus,64
+May-25,Adult,Bus,9
+May-25,Child/Youth,Bus,557491
+May-25,Opal Single Ticket,Bus,1
+May-25,Opal Single Ticket,Bus,1
+May-25,Concession,Bus,1097100
+May-25,CTP,Bus,7909048
+May-25,Day Pass Ticket,Bus,14
+May-25,Day Pass Ticket,Bus,1129
+May-25,Other,Bus,80555
+May-25,Free Opal,Bus,29413
+May-25,Other,Bus,2990
+May-25,School Opal,Bus,1414925
+May-25,Gold Opal,Bus,3291383
