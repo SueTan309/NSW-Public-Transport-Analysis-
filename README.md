@@ -15,9 +15,9 @@ The live dashboard can be found [**here**](https://app.powerbi.com/view?r=eyJrIj
   - Passenger numbers are **still below pre-COVID levels**, with external factors contributing to slow recovery.  
 
 ## 📂 File Structure  
-- [**Dataset**](https://github.com/SueTan309/NSW-Public-Transport-Analysis-/tree/master/Dataset) → Integrated and processed datasets used in this project.  
-- [**NSW PT Dashboard.pbix**](https://github.com/SueTan309/NSW-Public-Transport-Analysis-/blob/master/NSW%20PT%20Dashboard%20.pbix) → Power BI file with interactive dashboard.  
-- [**NSW PT Report.pdf**](https://github.com/SueTan309/NSW-Public-Transport-Analysis-/blob/master/NSW%20PT%20Report%20.pdf) → Detailed report summarizing insights from the dashboard and additional external analysis.  
+- [**Dataset**](https://github.com/SueTan309/NSW-Public-Transport-Analysis-/tree/master/Dataset): Folder includes all integrated and processed datasets used in this project.  
+- [**NSW PT Dashboard.pbix**](https://github.com/SueTan309/NSW-Public-Transport-Analysis-/blob/master/NSW%20PT%20Dashboard%20.pbix): Power BI file with interactive dashboard.  
+- [**NSW PT Report.pdf**](https://github.com/SueTan309/NSW-Public-Transport-Analysis-/blob/master/NSW%20PT%20Report%20.pdf): a detailed report summarizing insights from the dashboard and additional external analysis to explain the business question.  
 
 ## 📬 Contact  
 If you have any questions about this project, feel free to reach out:  
